@@ -1,0 +1,157 @@
+Related papers
+
+Paper Id: WOS:000262686700005
+Distance: 0.13065196573734283
+Similarity: 0.8693480342626572
+Title: An evaluation of research performance in management of 168 Taiwan universities
+Abstract: As the major concerns of the university are teaching and research, this paper describes the study of a nation-wide evaluation of research performance in management for 168 universities in Taiwan. In addition to the popular indicators of SCI/SSCI journal publications and citations, the number of projects funded by the National Science Council of Taiwan was used to account for the special characteristic of the field of management. The evaluation was based on individual professors rather than management programs, so that all types of universities, including those without management departments, could be compared. Performances of each university in those three indicators were aggregated by a set of a posteriori weights which were most favourable to all universities in calculating the aggregated score. The results show that public universities, in general, performed better than private ones. Universities with specific missions had comparable performance to general comprehensive ones. Analyses from a set of a priori weights solicited from experts showed that the results of this study are robust to the indicators selected and the weights used.
+
+------------
+
+Paper Id: WOS:000321993600002
+Distance: 0.16245368123054504
+Similarity: 0.837546318769455
+Title: Business-to-government application integration framework: A case study of the high technology industry in Taiwan
+Abstract: Business-to-government integration (B2Gi) requires the development of a unique, inter-organizational integration framework to meet the dynamic requirements of various business entities and government organizations. The authors proposed a conceptual framework for the inter-organizational integration service provider (IISP) as a philosophical and strategic guideline for developing inter-organizational integration. A real-world case study was discussed, with the presentation of a cost-benefit model to assess the possibility for adopting such a business model. With the assistance of the guideline for B2Gi, it is anticipated that the proposed integration model will take advantage of the trade-off between the flexibility and controllability issues. (C) 2013 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000308623900001
+Distance: 0.1625668853521347
+Similarity: 0.8374331146478653
+Title: An analysis of IT/IS outsourcing provider selection for small- and medium-sized enterprises in Taiwan
+Abstract: c Outsourcing is important in highly diversified business environments, but while there have been many studies on outsourcing, none have explicitly tackled the problem of how SMEs should assess and select their outsourcer. Numerous benefits might be gained if SMEs could utilize evaluation models to help select their IT/IS outsourcer effectively. Prejudices arising from selection through impartial analysis could be avoided and a more accurate and an objective decision could be made. We investigated the selection process of an enterprise needing an IT/IS outsourcing provider in Taiwan. Our recommended process quantitatively sorts the criteria using the AHP. An evaluation model was developed based on the needs of the SME who should use it to obtain a better outsourcing provider resulting from improved information vital to maintain outsourcing efficiency. Use of our model should reduce costs and potential risks in adopting new IT/IS applications and promote an objective standard with which to evaluate IT/IS outsourcing providers. (C) 2012 Published by Elsevier B.V.
+
+------------
+
+Paper Id: WOS:000271592800006
+Distance: 0.1658475250005722
+Similarity: 0.8341524749994278
+Title: Benefits? or Challenges? University Student Perception of E-Learning
+Abstract: Many educators concern whether students can learn better from e-learning and whether they face more challenges in blended courses. An interpretive paradigm with quantitative and qualitative methods was adopted to explore the benefits and challenges of e-learning from a student perspective. This paper outlines the findings from a survey of nearly 400 different college students and focus group discussions with over thirty students about their perceptions and experiences of e-learning in a national research-oriented university. The findings suggest that students experience challenges relating to their personal expertise with ICT use and access to the requisite technology, even though Taiwan has invested heavily in ICT infrastructure. Students perceived the benefits of e-learning as arising from being able to preview and follow up on face-to-face lectures and to discuss ideas and issues with peers and instructors given that class sizes are large, typically over a hundred students. Students also perceived some tensions between the benefits and challenges of e-learning use. These were particularly associated with time, the provision of course support materials, motivation, interaction, and instructor expectations.
+
+------------
+
+Paper Id: WOS:000267256100012
+Distance: 0.1753259003162384
+Similarity: 0.8246740996837616
+Title: Industrial agglomeration, geographic innovation and total factor productivity: The case of Taiwan
+Abstract: The paper analyses the impact of geographic innovation on total factor productivity (TFP) in Taiwan in 2001 using 242 four-digit standard industrial classification (SIC) industries. We compute TFP by estimating Translog production functions with K, L, E and M inputs, and measure the geographic innovative activity using both Krugman's Gini coefficients and the location Herfindahl index. We also consider the geographic innovation variable as an endogenous variable and use two stage least squares (2SLS) to obtain a consistent, albeit inefficient, estimator. The empirical results show a significantly positive effect of geographic innovation, as well as R&D expenditure, on TFP. These results are robust for the Gini coefficients and location Herfindahl index, when industrial characteristics and heteroskedasticity are controlled. Moreover the Hausman test shows that the geographic innovation variable should be treated as endogenous which Supports the modern theory of industrial clustering regarding innovation spillovers; within Clusters. (c) 2008 IMACS. Published by Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000237498000005
+Distance: 0.17614753544330597
+Similarity: 0.823852464556694
+Title: Cybercrime in Taiwan - An analysis of suspect records
+Abstract: This paper explores the increasing number of cybercrime cases in Taiwan and examines the demographic characteristics of the criminals responsible for the criminal activity. The report is based upon data taken from the Criminal Investigation Bureau of Taiwan cybercrime database over the interval of 1999 through 2004. The paper defines cybercrime, addresses cybercrime case statistics and examines profiles of the suspects' characteristics. The findings show that the top five categories of crime committed over the past six years are sex trading or sex trading on the Internet, Internet fraud, larceny, cyber piracy and cyber pornography. As for the suspects' characteristics, the findings show that 81.1% were male; 45.5% had some senior high school education exposure; 63.1% acted independently; 23.7% were currently enrolled students; and 29.1% were in the 18-23 age bracket which was the majority group. Finally, this paper proposes four recommendations to governments, society, schools, and researchers to reduce cycbercrime.
+
+------------
+
+Paper Id: WOS:000288343900152
+Distance: 0.18075546622276306
+Similarity: 0.8192445337772369
+Title: Moderating effects of technology acceptance perspectives on e-service quality formation: Evidence from airline websites in Taiwan
+Abstract: e-Service markets have been growing rapidly over the past several years on airline websites, and e-commerce and e-service marketing activities have attracted a great deal of attention as a means of increasing customers' perception of online shopping activities, since they reduce the waiting time incurred by offline shopping transactions. This study surveys 236 international travelers who have had a different experience of purchasing airline tickets from 30 different airline service websites in Taiwan. The results illustrate that perceived trust and usefulness, which are the factors of the technology acceptance perspective, positively moderate the relationship between e-service quality, perceived service value, and service satisfaction. (C) 2010 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000288729200024
+Distance: 0.18207134306430817
+Similarity: 0.8179286569356918
+Title: Modelling the asymmetric volatility in hog prices in Taiwan: The impact of joining the WTO
+Abstract: Prices in the hog industry in Taiwan are determined according to an auction system. There are significant differences in hog prices before, during and after joining the World Trade Organization (WTO). The paper models growth rates and volatility in daily hog prices in Taiwan from 23 March 1999 to 30 June 2007, which enables an analysis of the effects of joining the WTO. The empirical results have significant implications for risk management and policy in the agricultural industry. The three sub-samples for the periods before, during and after joining the WTO display significantly different volatility persistence of symmetry, asymmetry and leverage, respectively. (c) 2010 IMACS. Published by Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000244011400012
+Distance: 0.18536658585071564
+Similarity: 0.8146334141492844
+Title: Appraisal model for admitting new tenants to the incubation center at ITRI
+Abstract: The Incubation Center at the Industrial Technology Research Institute (ITRI) in Taiwan has committed itself to producing many self-sustaining, successful companies. The pivotal factor for the success of the Incubator Center is attributed to a stringent reviewing process implemented for selecting and admitting only those entrepreneurs and their products that have a high potential for success. This study devotes itself in evaluating the merits for approving applications filed by the prospective tenants through a model believed worthy of serving as a workable methodology for other local incubation centers.
+
+------------
+
+Paper Id: WOS:000289544700009
+Distance: 0.19195277988910675
+Similarity: 0.8080472201108932
+Title: Comparison of SPT-N-based analysis methods in evaluation of liquefaction potential during the 1999 Chi-chi earthquake in Taiwan
+Abstract: SPT-N-based methods have been adopted for liquefaction assessment of soils during earthquakes for decades. However, there has not been a consistent way of assessing the accuracy and applicability of these methods. The Chi-chi earthquake of 1999, which has been the most serious ground shaking in Taiwan within the century, caused extensive liquefactions in mid-west alluvial deposits of the island. This paper assesses the prediction accuracy of several SPT-N-based methods using liquefaction and non-liquefaction incidents observed during the earthquake. A sensitivity study on commonly adopted parameters shows that the SPT blow count and peak ground acceleration are most sensitive in computing liquefaction potential. By comparing the error in predicting liquefaction and non-liquefaction incidents, this study concludes that Tokimatsu and Yoshimi's method is more accurate than the other methods. However. the differences between prediction errors of various methods are minimal, indicating all of the methods examined are applicable for the 1999 earthquake in Taiwan. (C) 2011 Elsevier Ltd All rights reserved.
+
+------------
+
+Paper Id: WOS:000286682700029
+Distance: 0.1942034810781479
+Similarity: 0.8057965189218521
+Title: Who assigns the most ICT activities? Examining the relationship between teacher and student usage
+Abstract: The expansion of information and communication technology (ICT) infrastructure in schools is expected to promote learning. To what extent teachers are utilizing the new ICE tools to engage students in learning activities remains a question. This study reports what kind of activities teachers are likely to assign students, and what type of teachers are more likely to assign such activities. Teacher ICE usage and student ICE assignments are examined using a sample of 3729 elementary and junior high school teachers in Taiwan. The results from correlation and regression analysis indicate that teachers who infrequently use basic ICE tools such as word processing rarely assign student ICT activities. At the other end of spectrum, teachers who create complicated multimedia materials are most likely to assign student multimedia activities. Regression results show that teachers' frequency of building websites is the best predictor for assigning ICE-based sharing activities to students, though the likelihood is greater for junior high school than elementary school teachers. The results suggest that teachers assign students activities which require a variety of ICT tools, and teachers' own ICT practices influence the type of ICT activities they assign to students. (C) 2010 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000364253600029
+Distance: 0.20107415318489075
+Similarity: 0.7989258468151093
+Title: Why do they become potential cyber-plagiarizers? Exploring the alternative thinking of copy-and-paste youth in Taiwan
+Abstract: With the expansion of digital content, academic integrity has been facing the growing threat of cyber-plagiarism. In the present research, we address young Taiwanese students' perceptions of cyber-plagiarism. Our research included two related studies: in study 1, we collected data through a national survey on a probability sample of 41,911 (4th-12th graders) and analyzed the prevalence and alternative thinking about cyber plagiarism among these students; in study 2, we collected 113 young students' anonymous questionnaires inquiring into the reasoning that the students applied to their own use of online resources for homework. The results of our research show that the prevalence of frequent copy-and-paste students was less than 3% of the surveyed 4th-12th graders in Taiwan. Moreover, we have found that copy-and-paste practices were more prevalent among the 10th and 12th graders than among students in the other grades, and that more male students than female students engaged in copy-and-paste behavior. We have also found that these students' concept and their ways of using Internet information properly seem incorrect. We suggest that educators implement copy-and-paste prevention curriculum throughout elementary, junior high, and high schools. We offer teaching advice for the prevention of cyber plagiarism, encouraging educators to teach students appropriate ways to resolve copy-and-paste problems. (C) 2015 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000253183700041
+Distance: 0.2011765092611313
+Similarity: 0.7988234907388687
+Title: A case study: The prediction of Taiwan's export of polyester fiber using small-data-set learning methods
+Abstract: During the past four decades, the textile industry has been the industry earning the largest amount of foreign exchange in Taiwan. Notably, polyester fibers are one of the most outstanding industries in Taiwan on the global economic stage. The productivity of the polyester fiber industry in Taiwan has remained steady since the 1980s, and the midstream and downstream industry is also tied in with this development. However, starting from 2000, Taiwan's export of polyester fibers has changed dramatically owing to the rapid economic rise of China. Since this sudden change occurred only 5 years ago, it is hard for researchers to predict the amount of future exports accurately using the trends of historical data over the past 20 years. This research adopts the methodology GIKDE (General Intervalized Kernel Density Estimator), which is a newly developed method for small-data-set prediction, to predict the amount of future exports and expects to obtain a more accurate estimation to use as a reference to help managers make plans for products, capacity and markets. (c) 2007 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000238750200007
+Distance: 0.2013320028781891
+Similarity: 0.7986679971218109
+Title: Applying data mining to telecom chum management
+Abstract: Taiwan deregulated its wireless telecommunication services in 1997. Fierce competition followed, and chum management becomes a major focus of mobile operators to retain subscribers via satisfying their needs under resource constraints. One of the challenges is chumer prediction. Through empirical evaluation, this study compares various data mining techniques that can assign a 'propensity-to-chum' score periodically to each subscriber of a mobile operator. The results indicate that both decision tree and neural network techniques can deliver accurate chum prediction models by using customer demographics, billing information, contract/service status, call detail records, and service change log. (c) 2005 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000258367900015
+Distance: 0.2101345807313919
+Similarity: 0.7898654192686081
+Title: Design and implementation of electronic toll collection system based on vehicle positioning system techniques
+Abstract: Currently, most electronic toll collection (ETC) systems around the world are implemented by DSRC (dedicated short range communication) technology. However, area wide integrated MLFF (multilane free flow) road charging system is now currently on its development to replace DSRC-based ETC systems. VPS (vehicle positioning system) based ETC system is a category of location based service which tolls vehilces by determining if they move into the charging zone. It is an evolutional technology for area wide integrated road charging solution, which achieves the goal of electronic payment or electronic toll collection by a totally different scheme comparing to traditional DSRC-based technology. In this paper, the design and implementation of VPS-based ETC system is detailedly discussed, and a debit transaction VPS system field test had been practiced in the freeway of Taiwan. (C) 2008 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000357469500016
+Distance: 0.21770304441452026
+Similarity: 0.7822969555854797
+Title: A hybrid fuzzy model for selecting and evaluating the e-book business model: A case study on Taiwan e-book firms
+Abstract: This study evaluates an appropriate business model for e-book firms in Taiwan. We apply expert questionnaires to calculate the weights, which contain five criteria, namely, business strategy (BS), finance characteristics (FC), market characteristics (MC), quality measurements of product and service (QS) and implementation (IM) (BCCSM) for the capability of developing the firms' business. Then, a fuzzy analytic hierarchy process (FAHP) is adopted to explore the weights of indices, and the VlseKriterijumska Optimizacija I Kompromisno Resenje (VIKOR), grey relation analysis (GRA), and the technique for order preference by similarity to ideal solution (TOPSIS) are utilized to rank the three alternatives. The results show that a single brand is the best e-book firms' business strategy that is simultaneously integrated by content, platforms, and devices, while the top two weights of the evaluation criteria are the business strategy and market characteristics to enable firms to develop an appropriate e-book business model. (C) 2015 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000358273400002
+Distance: 0.2195059210062027
+Similarity: 0.7804940789937973
+Title: A unified model of IT continuance: three complementary perspectives and crossover effects
+Abstract: This study presents a unified model of information technology (IT) continuance, by drawing upon three alternative influences that are presumed to shape continuance behavior: reasoned action, experiential response, and habitual response. Using a longitudinal survey of workplace IT continuance among insurance agents at a large insurance company in Taiwan, we demonstrate that the above influences are interdependent, complementary, and have crossover effects. This study advances IT continuance research by theorizing and validating a unifying model that extends prior perspectives and by explaining interrelationships between these perspectives.
+
+------------
+
+Paper Id: WOS:000331559800029
+Distance: 0.22028879821300507
+Similarity: 0.7797112017869949
+Title: The dynamic effect of knowledge capitals in the public research institute: insights from patenting analysis of ITRI (Taiwan) and ETRI (Korea)
+Abstract: This study aims what knowledge capital accumulated by the public research institutes (PRIs) of South Korea and Taiwan to facilitate process configurations of new industrial structure. The patenting trends of two PRIs, ETRI of South Korea and ITRI of Taiwan, are assessed to highlight the established knowledge structures for emergence of multi-agent structure since 1990s. To examine their dynamics and variations of knowledge capital, the data series are separated into two phases (catching-up phase from 1970s to 1990s, and post catching-up phase since the 2000s) in accordance to (1) number of patents, (2) number of sole owned and co-owned patents, (3) backward and forward citations, (4) science-linked patents, and (5) fields of patent. When the role of PRIs in the latecomer country is evolving from a facilitator in the catching-up phase to become a mediator in the post catching-up phase, this study demonstrated their influence and dynamic effect in reinforcing industrial strategies and national approaches to attain endogenous structural change in the national innovation system. Our results signal telecommunications is the promising technology targeted by Korea's chaebols while Taiwan's small-medium size enterprises are utilizing the aggregate knowledge capital accumulated and derived from semiconductor technologies to develop their niches onto a diverse range of product innovations.
+
+------------
+
+Paper Id: WOS:000263817100145
+Distance: 0.22813141345977783
+Similarity: 0.7718685865402222
+Title: A structural equation analysis of the QSL relationship with passenger riding experience on high speed rail: An empirical study of Taiwan and Korea
+Abstract: Taiwan High Speed Rail (THSR) began operations in early 2007 after nearly three decades spent initiating project, planning and acquiring land, creating detailed designs and undergoing civil construction. Currently. the franchised corporation operates trains at a top speed of 300 km/h when running from north to south in Taiwan. Service Quality, customer Satisfaction, and Loyalty (QSL) continue to be the critical factors that influence long-term operation, growth, and profits of service-oriented transportation systems. In this article, a structural equation model (SEM) is first proposed and then respecified in order to measure the impact of mediating variables in the passenger continuance behavior on the QSL chain with high speed rail (HSR) service. Furthermore, a cross-country comparison of the actual riding experience an the THSR and Korea Train express (KTX) was demonstrated by analyzing different groups of respondents. The empirical Study verified that the QSL relationship is influenced by the introduction of mediating variables, such as corporate image and passenger complaints, into the HSR service industry. This analysis provides an evidential basis with the evaluating indicators so that the management team can deploy an effective marketing strategy, achieve continuous quality improvement, and efficiently manage customer relationships to ensure passengers' future commitment and confidence in the HSR systems. (c) 2008 Elsevier Ltd. All rights reserved.
+
+------------
+
+
+###################################
+

@@ -1,0 +1,157 @@
+Related papers
+
+Paper Id: WOS:000288555100015
+Distance: 0.1788829267024994
+Similarity: 0.8211170732975006
+Title: Flow admission control for multi-channel multi-radio wireless networks
+Abstract: Providing Quality of Service (QoS) is a major challenge in wireless networks. In this paper we propose a distributed call admission control protocol (DCAC) to do both bandwidth and delay guaranteed call admission for multihop wireless mesh backbone networks, by exploiting the multi-channel multi-radio (mc-mr) feature. We propose a novel routing metric for route setup, and present an efficient distributed algorithm for link reservation that satisfies the required bandwidth and reduces the delay by a local scheduling that minimizes one hop delay. To the best of our knowledge, this is the first distributed protocol that embeds mc-mr feature in Time Division Medium Access (TDMA) to do QoS call admission in wireless backbone networks. Extensive simulation studies show that our protocol significantly improves network performance on supporting QoS sessions compared with some widely used protocols.
+
+------------
+
+Paper Id: WOS:000287504000006
+Distance: 0.18227483332157135
+Similarity: 0.8177251666784286
+Title: A Learning Automata-Based Cognitive Radio for Clustered Wireless Ad-Hoc Networks
+Abstract: In current wireless networks, the radio systems are regulated by a fixed spectrum assignment strategy. This policy partitions the whole radio spectrum into a fixed number of radio ranges, each exclusively assigned to a specific user. Such a spectrum assignment strategy leads to an undesirable condition under which some systems only use a small portion of the allocated spectrum while the others have very serious spectrum insufficiency. The learning automata-based cognitive radio which is proposed in this paper is a highly potential technology to address the spectrum scarcity challenges in wireless ad hoc networks. This paper proposes a learning automata-based dynamic frame length TDMA scheme for slot assignment in clustered wireless ad-hoc networks with unknown traffic parameters, where the intra-cluster communications are scheduled by a TDMA scheme, and a CDMA scheme is overlaid on the TDMA to handle an interference-free inter-cluster communication. In this method, each cluster-head is responsible for a collision-free slot assignment within the cluster and determines the input traffic parameters of its own cluster members. It then takes these traffic parameters into consideration for an optimal channel access scheduling in the cluster. The medium access control layer in each cluster is based on a time division multiple access (TDMA) scheme, in which each host is assigned a fraction of the TDMA frame proportional to its traffic load. The simulation experiments show the superiority of our proposed slot assignment algorithm over the existing methods in terms of the channel utilization, control overhead, and throughput, specifically, under bursty traffic conditions.
+
+------------
+
+Paper Id: WOS:000359591900001
+Distance: 0.20093762874603271
+Similarity: 0.7990623712539673
+Title: Design of Wireless Nanosensor Networks for Intrabody Application
+Abstract: Emerging nanotechnology presents great potential to change human society. Nanoscale devices are able to be included with Internet. This new communication paradigm, referred to as Internet of Nanothings (IoNT), demands very short-range connections among nanoscale devices. IoNT raises many challenges to realize it. Current network protocols and techniques may not be directly applied to communicate with nanosensors. Due to the very limited capability of nanodevices, the devices must have simple communication and simple medium sharing mechanism in order to collect the data effectively from nanosensors. Moreover, nanosensors may be deployed at organs of the human body, and they may produce large data. In this process, the data transmission from nanosensors to gateway should be controlled from the energy efficiency point of view. In this paper, we propose a wireless nanosensor network (WNSN) at the nanoscale that would be useful for intrabody disease detection. The proposed conceptual network model is based on On-Off Keying (OOK) protocol and TDMA framework. The model assumes hexagonal cell-based nanosensors deployed in cylindrical shape 3D hexagonal pole. We also present in this paper the analysis of the data transmission efficiency, for the various combinations of transmission methods, exploiting hybrid, direct, and multi-hop methods.
+
+------------
+
+Paper Id: WOS:000260309000009
+Distance: 0.2032747119665146
+Similarity: 0.7967252880334854
+Title: Interference-Aware Joint Routing and TDMA Link Scheduling for Static Wireless Networks
+Abstract: We study efficient interference-aware joint routing and TDMA link scheduling for a multihop wireless network to maximize its throughput. Efficient link scheduling can greatly reduce the interference effect of close-by transmissions. Unlike the previous studies that often assume a unit disk graph (UDG) model, we assume that different terminals could have different transmission ranges and different interference ranges. In our model, it is also possible that a communication link may not exist due to barriers or is not used by a predetermined routing protocol, while the transmission of a node always result interference to all nonintended receivers within its interference range. Using a mathematical formulation, we develop interference-aware joint routing and synchronized TDMA link schedulings that optimize the networking throughput subject to various constraints. Our linear programming formulation will find a flow routing whose achieved throughput is at least a constant fraction of the optimum, and the achieved fairness is also a constant fraction of the requirement. Then, by assuming known link capacities and link traffic loads, we study link scheduling under the request-to-send and clear-to-send (RTS/CTS) interference model and the protocol interference model (PrIM) with fixed transmission power. For both models, we present both efficient centralized and distributed algorithms that use timeslots within a constant factor of the optimum. We also present efficient distributed algorithms whose performances are still comparable with optimum, but with much less communications. We prove that the timeslots needed by our faster distributed algorithms are only at most O(min(log n, log psi)) for RTS/CTS interference model and PrIM. Our theoretical results are corroborated by extensive simulation studies.
+
+------------
+
+Paper Id: WOS:000281592500017
+Distance: 0.2034432291984558
+Similarity: 0.7965567708015442
+Title: A CDMA/TDD approach for wireless mesh networks
+Abstract: Wide band mesh or star oriented networks have recently become a subject of greater interest. Providing wideband multimedia access for a variety of applications has led to the inception of mesh networks. Classic access techniques such as FDMA and TDMA have been the norm for such networks. CDMA maximum transmitter power is much less than TDMA and FDMA counter parts, which is an important asset for mobile operation. In this paper we introduce a code division multiple access/time division duplex technique CDMA/TDD for such networks. The CDMA approach is an almost play and plug technology for wireless access, making it amenable for implementation by the mesh network service station, SS. Further it inherently allows mesh network service stations to use a combination of turbo coding and dynamic parallel orthogonal transmission to improve network efficiency. We outline briefly the new transmitter and receiver structures then evaluate the efficiency, delay and delay jitter. By analysis we show the advantages over classic counter parts with respect to the total network efficiency achievable especially for larger number of hops. (C) 2010 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000300425000008
+Distance: 0.21678772568702698
+Similarity: 0.783212274312973
+Title: A Greedy Link Scheduler for Wireless Networks With Gaussian Multiple-Access and Broadcast Channels
+Abstract: Information-theoretic broadcast channels (BCs) and multiple-access channels (MACs) enable a single node to transmit data simultaneously to multiple nodes, and multiple nodes to transmit data simultaneously to a single node, respectively. In this paper, we address the problem of link scheduling in multihop wireless networks containing nodes with BC and MAC capabilities. We first propose an interference model that extends protocol interference models, originally designed for point-to-point channels, to include the possibility of BCs and MACs. Due to the high complexity of optimal link schedulers, we introduce the Multiuser Greedy Maximum Weight algorithm for link scheduling in multihop wireless networks containing BCs and MACs. Given a network graph, we develop new local pooling conditions and show that the performance of our algorithm can be fully characterized using the associated parameter, the multiuser local pooling factor. We provide examples of some network graphs, on which we apply local pooling conditions and derive the multiuser local pooling factor. We prove optimality of our algorithm in tree networks and show that the exploitation of BCs and MACs improve the throughput performance considerably in multihop wireless networks.
+
+------------
+
+Paper Id: WOS:000251483000015
+Distance: 0.21690231561660767
+Similarity: 0.7830976843833923
+Title: Cross-layer modeling of capacity in wireless networks: Application to UMTS/HSDPA, IEEE802.11 WLAN and IEEE802.16 WiMAX
+Abstract: We investigate in this work the cross-layer modeling of the capacity of wireless systems in the presence of two types of flows: streaming and elastic, under a dynamic configuration wherein users join the system and leave it after a finite duration. For streaming traffic, this duration is independent of the resources these flows get from the network. This is not the case of (TCP-based) elastic traffic whose flows have a service rate that is proportional to the share of resources each flow gets from the network, as obtained in a cross-layer manner from lower layers. We focus in this paper on the MAC/PHY layer and consider three different types of scheduling: CDMA with opportunistic scheduling. used in UMTS/HSDPA, CSMA/CA in use in IEEE802.11 WLAN and OFDMA as in IEEE802.16 WiMax. (c) 2007 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000316964400004
+Distance: 0.21850527822971344
+Similarity: 0.7814947217702866
+Title: Modeling and Stability Analysis of Hybrid Multiple Access in the IEEE 802.15.4 Protocol
+Abstract: To offer flexible quality of service to several classes of applications, the medium access control (MAC) protocol of IEEE 802.15.4 wireless sensor networks (WSNs) combines the advantages of a random access with contention with a time division multiple access (TDMA) without contention. Understanding reliability, delay, and throughput is essential to characterizing the fundamental limitations of the MAC and optimizing its parameters. Nevertheless, there is not yet a clear investigation of the achievable performance of hybrid MAC. In this article, an analytical framework for modeling the behavior of the hybrid MAC protocol of the IEEE 802.15.4 standard is proposed. The main challenge for an accurate analysis is the coexistence of the stochastic behavior of the random access and the deterministic behavior of the TDMA scheme. The analysis is done in three steps. First, the contention access scheme of the IEEE 802.15.4 exponential back-off process is modeled through an extended Markov chain that takes into account channel, retry limits, acknowledgements, unsaturated traffic, and superframe period. Second, the behavior of the TDMA access scheme is modeled by another Markov chain. Finally, the two chains are coupled to obtain a complete model of the hybrid MAC. By using this model, the network performance in terms of reliability, average packet delay, average queuing delay, and throughput is evaluated through both theoretical analysis and experiments. The protocol has been implemented and evaluated on a testbed with off-the-shelf wireless sensor devices to demonstrate the utility of the analysis in a practical setup. It is established that the probability density function of the number of received packets per superframe follows a Poisson distribution. It is determined under which conditions the guaranteed time slot allocation mechanism of IEEE 802.15.4 is stable. It is shown that the mutual effect between throughput of the random access and the TDMA scheme for a fixed superframe length is critical to maximizing the overall throughput of the hybrid MAC. In high traffic load, the throughput of the random access mechanism dominates over TDMA due to the constrained use of TDMA in the standard. Furthermore, it is shown that the effect of imperfect channels and carrier sensing on system performance heavily depends on the traffic load and limited range of the protocol parameters. Finally, it is argued that the traffic generation model established in this article may be used to design an activation timer mechanism in a modified version of the CSMA/CA algorithm that guarantees a stable network performance.
+
+------------
+
+Paper Id: WOS:000252577200007
+Distance: 0.21998412907123566
+Similarity: 0.7800158709287643
+Title: A general interference-aware framework for joint routing and link scheduling in wireless mesh networks
+Abstract: Joint design and optimization of traditionally independent problems such as routing and link scheduling have recently become one of the leading research trends in wireless mesh networks. Although technically challenging, cross-layering is, in fact, expected to bring significant benefits from the network resource exploitation standpoint to achieve high system utilization. In this article we propose a versatile framework for joint design of routing and link scheduling, introducing the notion of link activation constraints, which are related to the transceiver capability and the broadcast nature of the wireless medium. To this end, we introduce a taxonomy of wireless interference models to harmonize existing approaches presented in the literature. Finally, we evaluate the impact on network capacity of the various interference models when optimal joint routing and link scheduling are employed.
+
+------------
+
+Paper Id: WOS:000321290800007
+Distance: 0.22381478548049927
+Similarity: 0.7761852145195007
+Title: Asynchronous inter-network interference avoidance for wireless body area networks
+Abstract: This paper considers the internetwork interference problem in environments with multiple wireless body area networks (WBANs). We propose an asynchronous internetwork interference avoidance scheme (abbreviated as AIIA), which is based on the hybrid multiple access of carrier sense multiple access with collision avoidance (CSMA/CA) and time division multiple access (TDMA). In AIIA, the gateway device of each WBAN maintains a table, called an AIIA table, which includes the timing offset and TDMA transmission schedule information corresponding to the interfering WBANs. By referring to the table, the conflicting TDMA schedule can be checked and updated by itself, in asynchronous and distributed manners. Extensive simulations are conducted to demonstrate the feasibility and effectiveness of AIIA.
+
+------------
+
+Paper Id: WOS:000349626100005
+Distance: 0.2264956682920456
+Similarity: 0.7735043317079544
+Title: BRACER: A Distributed Broadcast Protocol in Multi-Hop Cognitive Radio Ad Hoc Networks with Collision Avoidance
+Abstract: Broadcast is an important operation in wireless ad hoc networks where control information is usually propagated as broadcasts for the realization of most networking protocols. In traditional ad hoc networks, since the spectrum availability is uniform, broadcasts are delivered via a common channel which can be heard by all users in a network. However, in cognitive radio (CR) ad hoc networks, different unlicensed users may acquire different available channel sets. This non-uniform spectrum availability imposes special design challenges for broadcasting in CR ad hoc networks. In this paper, a fully-distributed Broadcast protocol in multi-hop Cognitive Radio ad hoc networks with collision avoidance, BRACER, is proposed. In our design, we consider practical scenarios that each unlicensed user is not assumed to be aware of the global network topology, the spectrum availability information of other users, and time synchronization information. By intelligently downsizing the original available channel set and designing the broadcasting sequences and scheduling schemes, our proposed broadcast protocol can provide very high successful broadcast ratio while achieving very short average broadcast delay. It can also avoid broadcast collisions. To the best of our knowledge, this is the first work that addresses the unique broadcasting challenges in multi-hop CR ad hoc networks with collision avoidance.
+
+------------
+
+Paper Id: WOS:000339379900001
+Distance: 0.2271668016910553
+Similarity: 0.7728331983089447
+Title: Loss-based proportional fairness in multihop wireless networks
+Abstract: Proportional fairness is a widely accepted form of allocating transmission resources in communication systems. For wired networks, the combination of a simple probabilistic packet marking strategy together with a scheduling algorithm aware of two packet classes can meet a given proportional vector of n loss probabilities, to an arbitrary degree of approximation, as long as the packet loss gap between the two basic classes is sufficiently large. In contrast, for wireless networks, proportional fairness is a challenging problem because of random channel variations and contention for transmitting. In this paper, we show that under the physical model, i.e., when receivers regard collisions and interference as noise, the same packet marking strategy at the network layer can also yield proportional differentiation and nearly optimal throughput. Thus, random access or interference due to incoherent transmissions do not impair the feasibility of engineering a prescribed end-to-end loss-based proportional fairness vector. We consider explicitly multihop transmission and the cases of Markovian traffic with a two-priority scheduler, as well as orthogonal modulation with power splitting. In both cases, it is shown that sharp differentiation in loss probabilities at the link layer is achievable without the need to coordinate locally the transmission of frames or packets among neighboring nodes. Given this, a novel distributed procedure to adapt the marking probabilities so as to attain exact fairness is also developed. Numerical experiments are used to validate the design.
+
+------------
+
+Paper Id: WOS:000318112100004
+Distance: 0.22804245352745056
+Similarity: 0.7719575464725494
+Title: Cooperative communications with relay selection for wireless networks: design issues and applications
+Abstract: Relay selection schemes for cooperative communications to achieve full cooperative diversity gains while maintaining spectral and energy efficiency have been extensively studied in a recent research. These schemes select only the best relay from multiple relaying candidates to cooperate with a communication link. In the present paper, we reviewed recently proposed cooperative communication protocols that integrate with relay selection mechanisms. The key design issues for relay selection mechanisms, for example, relaying candidate selection, optimal relay assignment, and cooperative transmission, were identified. We further discussed the challenges of optimal relay assignment in multi-hop wireless sensor networks and presented the potential applications of cooperative communications with a relay selection in such networks. Future research directions were outlined, for example, the issues of service differentiation and system fairness in cooperative communication systems and the joint use of game theory and adaptive learning techniques in relaying candidate selection and optimal-relay assignment mechanisms for efficient allocation of network resources. Copyright (c) 2011 John Wiley & Sons, Ltd.
+
+------------
+
+Paper Id: WOS:000290435000008
+Distance: 0.22823485732078552
+Similarity: 0.7717651426792145
+Title: Link Scheduling Algorithms for Wireless Mesh Networks
+Abstract: Wireless Mesh Networks (WMNs) have the potential of being a cost effective solution to provide connectivity and coverage in both urban and rural areas. Typically, a WMN is a backbone network that carries high data rate traffic and employs Time Division Multiple Access (TDMA) like access mechanisms. For a WMN to provide high throughput, the design of an efficient link scheduling algorithm is of paramount importance. Towards this end, we provide an overview of link scheduling algorithms in Spatial TDMA wireless mesh networks. These algorithms can be classified into three categories: those based only on a communication graph model of the network, those based on a communication graph model and Signal to Interference and Noise Ratio (SINR) threshold conditions at receivers and those based on an SINR graph model of the network. We first outline a framework for modeling STDMA networks. We review representative research works and provide the description of an algorithm from each of these classes. We describe the relative merits and demerits of each class of algorithms and compare their performance via simulations. We conclude with a discussion on practical implementation of these algorithms and open research problems.
+
+------------
+
+Paper Id: WOS:000304952700001
+Distance: 0.22836098074913025
+Similarity: 0.7716390192508698
+Title: Cooperative Transmission in Cognitive Radio Ad Hoc Networks
+Abstract: Cognitive radio technology is the key to realize dynamic spectrum access system and promote the spectrum utilization through exploiting the spectrum holes left by primary users. However, the spatial heterogeneity of spectrum availability imposes special challenges for efficient utilization of the spectrum resources for cognitive radio ad hoc networks (CRAHNs). The cross-layer cooperative transmission scheme is a promising approach to improve the efficiency of spectrum utilization and improve the performance of cognitive radio networks. Such an approach leverages relay-assisted discontiguous OFDM (DOFDM) for data transmission at physical and MAC layers in a basic three-node configuration. With this scheme, a relay node will be selected that can bridge the source and the destination using its common channels between those two nodes. In this paper, we investigate the application of such a cooperative transmission scheme to address the spectrum heterogeneity issue in CRAHNs. In particular, we describe several types of cooperative transmission and formulate a new resource allocation problem with joint relay selection and channel allocation. We propose a heuristic algorithm to solve the resource allocation problem, which is based on the metric of utility-spectrum ratio of transmission groups. Simulations demonstrate the performance improvement of the cooperative transmission over the direct transmission.
+
+------------
+
+Paper Id: WOS:000327502000017
+Distance: 0.22938326001167297
+Similarity: 0.770616739988327
+Title: THE CASE FOR RANDOM ACCESS IN OFDMA FEMTOCELLS
+Abstract: Data services in current cellular networks are growing exponentially, due to the proliferation of high-end mobile devices (smartphones, tablets, e-readers) supporting ever increasing multimedia applications. Clearly, availing of new spectrum (as with 4G allocations) is a necessary part of meeting this challenge, but so are improved network architectures that achieve enhanced spatial spectral efficiency (bits per second per Hertz per area). 4G network operators are moving toward a heterogeneous architecture consisting of overlaid cells of various sizes. A variety of low-power, small-cell base stations and relays are being deployed to increase capacity around local, typically indoor hotspots. The primary concern in such scenarios is understanding the nature and impact of inter-cell interference in dense deployments of such unmanaged small cells, and arriving at solutions for its mitigation. Resource allocation in traditional wide-area cellular networks usually assume a fully loaded network (i.e. many simultaneous active users in a cell) where the system performance is insensitive to the activity of a single user. This assumption is not suitable for femtocells which are designed to serve very few (indoor) users and thus lacks the presumed traffic aggregation. This article provides a fresh look at the femtocell interference problem from a multiple access perspective. It first compares the multi-channel features inherent to OFDMA with traditional multi-channel MAC designs for wireless LANs and highlights how the ability to schedule users in both time and frequency as afforded by OFDMA, can be exploited to achieve more effective (distributed) random access. A simplified MAC model that hides the complexity of LTE protocol stack is proposed to facilitate the design and analysis of random access MAC algorithms in the context of OFDMA femtocells.
+
+------------
+
+Paper Id: WOS:000299382400006
+Distance: 0.22960901260375977
+Similarity: 0.7703909873962402
+Title: An Intelligent Task Allocation Scheme for Multihop Wireless Networks
+Abstract: Emerging applications in Multihop Wireless Networks (MHWNs) require considerable processing power which often may be beyond the capability of individual nodes. Parallel processing provides a promising solution, which partitions a program into multiple small tasks and executes each task concurrently on independent nodes. However, multihop wireless communication is inevitable in such networks and it could have an adverse effect on distributed processing. In this paper, an adaptive intelligent task mapping together with a scheduling scheme based on a genetic algorithm is proposed to provide real-time guarantees. This solution enables efficient parallel processing in a way that only possible node collaborations with cost-effective communications are considered. Furthermore, in order to alleviate the power scarcity of MHWN, a hybrid fitness function is derived and embedded in the algorithm to extend the overall network lifetime via workload balancing among the collaborative nodes, while still ensuring the arbitrary application deadlines. Simulation results show significant performance improvement in various testing environments over existing mechanisms.
+
+------------
+
+Paper Id: WOS:000240084000022
+Distance: 0.22973598539829254
+Similarity: 0.7702640146017075
+Title: An interference free cluster-based TDMA protocol for wireless sensor networks
+Abstract: In this paper, we propose IFCT protocol, an Interference Free Cluster-based TDMA protocol for wireless sensor network. IFCT protocol employs two schedules to avoid transmission interference. The first schedule assigns different frame number to neighboring clusters so that neighboring clusters could collect their member's data during different frames, avoiding inter-cluster interference. The second schedule allocates different slots to cluster members and they sending their data to their respectively cluster heads during different slots to avoid intra-cluster interference. Simulation results show that IFCT performs better than HEED, which is a clustering protocol based on TDMA. In addition, IFCT is more practical than HEED which uses CDMA code to avoid inter-cluster interference for deploying large-scale wireless sensor networks.
+
+------------
+
+Paper Id: WOS:000277648000011
+Distance: 0.23025690019130707
+Similarity: 0.7697430998086929
+Title: A Distributed Contention Vector Division Multiple Access (D-CVDMA) Protocol for Wireless Networks
+Abstract: Traditional Time Division Multiple Access (TDMA) protocol provides deterministic periodic collision-free data transmissions. However, TDMA lacks flexibility and exhibits low efficiency in dynamic environments such as wireless LANs. On the other hand, contention-based MAC protocols such as the IEEE 802.11 DCF are adaptive to network dynamics but are generally inefficient in heavily loaded or large networks. To take advantage of the both types of protocols, a D-CVDMA protocol is proposed. It is based on the k-round elimination contention (k-EC) scheme, which provides fast contention resolution for Wireless LANs. D-CVDMA uses a contention mechanism to achieve TDMA-like collision-free data transmissions, which does not need to reserve time slots for forthcoming transmissions. These features make the D-CVDMA robust and adaptive to network dynamics such as node leaving and joining, changes in packet size and arrival rate, which, in turn, make it suitable for the delivery of hybrid traffic including multimedia and data content. D-CVDMA is designed for single-hop wireless ad hoc networks. Analyses and simulations demonstrate that D-CVDMA outperforms the IEEE 802.11 DCF and k-EC in terms of network throughput, delay, jitter, and fairness.
+
+------------
+
+
+###################################
+

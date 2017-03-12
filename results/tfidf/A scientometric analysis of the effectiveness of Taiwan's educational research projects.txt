@@ -1,0 +1,117 @@
+Related Papers: 
+
+
+Doc id:  WOS:000318807000019
+Doc Title:  A scientometric analysis of the effectiveness of Taiwan's educational research projects
+Doc Abstract:  The seeking of evidence for revealing the research performance of Education in Taiwan, in response to the stimulus by the national research projects, is presented and interpreted. More than 70,000 publication records over the years 1990-2011 from Web of Science were downloaded and analyzed. The overview analysis by data aggregation and country ranking shows that Taiwan has significantly improved its publication productivity and citation impact over the last decade. The drill-down analysis based on journal bibliographic coupling, information visualization, and diversity and trend indexes, reveals that e-Learning and Science Education are two fast growing subfields that attract global interests and that Taiwan is among the top-ranked countries in these two fields in terms of research productivity. Implications of the analysis are discussed with an emphasis on the subfield characteristics from which more insightful interpretations can be obtained, such as the regional or cultural characteristics that may affect the performance ranking.
+
+------------------------
+
+Doc id:  WOS:000370549100005
+Doc Title:  Formally Proving a Compiler Transformation Safe
+Doc Abstract:  We prove that the Call Arity analysis and transformation, as implemented in the Haskell compiler GHC, is safe, i.e. does not impede the performance of the program. We formalized syntax, semantics, the analysis and the transformation in the interactive theorem prover Isabelle to obtain a machine-checked proof and hence a level of rigor rarely obtained for compiler optimization safety theorems. The proof is modular and introduces trace trees as a suitable abstraction in abstract cardinality analyses. We discuss the breadth of the formalization gap.
+
+------------------------
+
+Doc id:  WOS:000369852000012
+Doc Title:  Arabic Sentiment Analysis: A Survey
+Doc Abstract:  Most social media commentary in the Arabic language space is made using unstructured non-grammatical slang Arabic language, presenting complex challenges for sentiment analysis and opinion extraction of online commentary and micro blogging data in this important domain. This paper provides a comprehensive analysis of the important research works in the field of Arabic sentiment analysis. An in-depth qualitative analysis of the various features of the research works is carried out and a summary of objective findings is presented. We used smoothness analysis to evaluate the percentage error in the performance scores reported in the studies from their linearly-projected values (smoothness) which is an estimate of the influence of the different approaches used by the authors on the performance scores obtained. To solve a bounding issue with the data as it was reported, we modified existing logarithmic smoothing technique and applied it to pre-process the performance scores before the analysis. Our results from the analysis have been reported and interpreted for the various performance parameters: accuracy, precision, recall and F-score.
+
+------------------------
+
+Doc id:  WOS:000351545900002
+Doc Title:  Analysis of a Heterogeneous Social Network of Humans and Cultural Objects
+Doc Abstract:  Modern online social platforms allow their members to be involved in a broad range of activities including getting friends, joining groups, posting, and commenting resources. In this paper, we investigate whether a correlation emerges across the different activities a user can take part in. For our analysis, we focused on aNobii, a social platform with a world-wide user base of book readers, who post their readings, give ratings, review books, and discuss them with friends and fellow readers. aNobii presents a heterogeneous structure: 1) part social network, with user-to-user interactions; 2) part interest network, with the management of book collections; and 3) part folksonomy, with books that are tagged by the users. We analyzed a complete snapshot of aNobii and we focused on three specific activities a user can perform, namely tagging behavior, tendency to join groups and aptitude to compile a wishlist of the books one is planning to read. For each user, we create a tag-based, a group-based, and a wishlist-based profile. Experimental analysis, which was carried out with information-theory tools like entropy and mutual information, suggests that tag-based and group-based profiles are in general more informative than wishlist-based ones. Furthermore, we discover that the degree of correlation between the three profiles associated with the same user tend to be small. Hence, user profiling cannot be reduced to considering just any one type of user activity (albeit important) but it is crucial to incorporate multiple dimensions to effectively describe users' preferences and behavior.
+
+------------------------
+
+Doc id:  WOS:000347719500003
+Doc Title:  Slotted ALOHA performance for FU-FB in frequency selective fading environment
+Doc Abstract:  Slotted ALOHA is a simple and straightforward random multiple access technique, which has been used extensively in data and cellular networks as the protocol for random access. The complexity of state space-based analysis methods for finite user finite buffer systems increases exponentially with buffer size and number of users. The presence of multipath frequency selective fading channel further adds to the complexity, making the analysis practically intractable. This paper uses an approximate analysis technique called tagged user analysis (TUA) to analyze the performance parameters of slotted ALOHA over multipath and frequency selective fading channels for finite user finite buffer systems. In TUA, the steady state system performance is evaluated from the analysis of a single user. Moreover, the state flow graph of TUA has just four states, thus reducing the complexity of the analysis. Simulation results confirm the validity of the TUA analysis. Copyright (c) 2013 John Wiley & Sons, Ltd.
+
+------------------------
+
+Doc id:  WOS:000262182900008
+Doc Title:  The phenomenon of twisted growth: humeral torsion in dominant arms of high performance tennis players
+Doc Abstract:  This manuscript is driven by the need to understand the fundamental mechanisms that cause twisted bone growth and shoulder pain in high performance tennis players. Our ultimate goal is to predict bone mass density in the humerus through computational analysis. The underlying study spans a unique four level complete analysis consisting of a high-speed video analysis, a musculoskeletal analysis, a finite element based density growth analysis and an X-ray based bone mass density analysis. For high performance tennis players, critical loads are postulated to occur during the serve. From high-speed video analyses, the serve phases of maximum external shoulder rotation and ball impact are identified as most critical loading situations for the humerus. The corresponding posts from the video analysis are reproduced with a musculoskeletal analysis tool to determine muscle attachment points, muscle force vectors and overall forces of relevant muscle groups. Collective representative muscle forces of the deltoid, latissimus dorsi, pectoralis major and triceps are then applied as external loads in a fully 3D finite element analysis. A problem specific nonlinear finite element based density analysis tool is developed to predict functional adaptation over time. The density profiles in response to the identified critical muscle forces during serve are qualitatively compared to X-ray based bone mass density analyses.
+
+------------------------
+
+Doc id:  WOS:000246013700005
+Doc Title:  Fast online pointer analysis
+Doc Abstract:  Pointer analysis benefits many useful clients, such as compiler optimizations and bug finding tools. Unfortunately, common programming language features such as dynamic loading, reflection, and foreign language interfaces, make pointer analysis difficult. This article describes how to deal with these features by performing pointer analysis online during program execution. For example, dynamic loading may load code that is not available for analysis before the program starts. Only an online analysis can analyze such code, and thus support clients that optimize or find bugs in it. This article identifies all problems in performing Andersen's pointer analysis for the full Java language, presents solutions to these problems, and uses a full implementation of the solutions in a Java virtual machine for validation and performance evaluation. Our analysis is fast: On average over our benchmark suite, if the analysis recomputes points-to results upon each program change, most analysis pauses take under 0.1 seconds, and add up to 64.5 seconds.
+
+------------------------
+
+Doc id:  WOS:000280274400009
+Doc Title:  Collaboration in sensor network research: an in-depth longitudinal analysis of assortative mixing patterns
+Doc Abstract:  Many investigations of scientific collaboration are based on statistical analyses of large networks constructed from bibliographic repositories. These investigations often rely on a wealth of bibliographic data, but very little or no other information about the individuals in the network, and thus, fail to illustrate the broader social and academic landscape in which collaboration takes place. In this article, we perform an in-depth longitudinal analysis of a relatively small network of scientific collaboration (N = 291) constructed from the bibliographic record of a research centerin the development and application of wireless and sensor network technologies. We perform a preliminary analysis of selected structural properties of the network, computing its range, configuration and topology. We then support our preliminary statistical analysis with an in-depth temporal investigation of the assortative mixing of selected node characteristics, unveiling the researchers' propensity to collaborate preferentially with others with a similar academic profile. Our qualitative analysis of mixing patterns offers clues as to the nature of the scientific community being modeled in relation to its organizational, disciplinary, institutional, and international arrangements of collaboration.
+
+------------------------
+
+Doc id:  WOS:000235277100021
+Doc Title:  PAGE: phase-shifted analysis of gene expression
+Doc Abstract:  Grouping of gene expression patterns across biological experiments, treatments and time-series data is performed in q-intervals of measurements using phase-shifted analysis of gene expression (PAGE); a Java-based tool to find clusters of genes that share trends of expression profiles within the dataset. The patterns and genes within q-Clusters are visualized in trend plots and compared to determine biological relevance from the gene annotations.
+
+------------------------
+
+Doc id:  WOS:000348907400002
+Doc Title:  Determinacy in Static Analysis for jQuery
+Doc Abstract:  Static analysis for JavaScript can potentially help programmers find errors early during development. Although much progress has been made on analysis techniques, a major obstacle is the prevalence of libraries, in particular jQuery, which apply programming patterns that have detrimental consequences on the analysis precision and performance. Previous work on dynamic determinacy analysis has demonstrated how information about program expressions that always resolve to a fixed value in some call context may lead to significant scalability improvements of static analysis for such code. We present a static dataflow analysis for JavaScript that infers and exploits determinacy information on-the-fly, to enable analysis of some of the most complex parts of jQuery. The analysis combines selective context and path sensitivity, constant propagation, and branch pruning, based on a systematic investigation of the main causes of analysis imprecision when using a more basic analysis. The techniques are implemented in the TAJS analysis tool and evaluated on a collection of small programs that use jQuery. Our results show that the proposed analysis techniques boost both precision and performance, specifically for inferring type information and call graphs.
+
+------------------------
+
+Doc id:  WOS:000359467200042
+Doc Title:  Performance Analysis in the High SNR Region for MF in the Downlink of Massive MIMO Systems
+Doc Abstract:  This letter presents performance analysis in the high signal-to-noise ratio (SNR) region for matched filter (MF) precoding in single cell Massive MIMO systems. The outage probability function is derived in closed form, and the data rate of each user is also given. We have also presented asymptotic analysis in terms of data rate for MF when the number of users and the number of antennas grow without bounds. The expressions of these analytical results are rather simple and are thus convenient for overall performance evaluation. The simulation results show that the analysis are very accurate.
+
+------------------------
+
+Doc id:  WOS:000278538300028
+Doc Title:  In-Shoe Plantar Pressure Measurement and Analysis System Based on Fabric Pressure Sensing Array
+Doc Abstract:  Spatial and temporal plantar pressure distributions are important and useful measures in footwear evaluation, athletic training, clinical gait analysis, and pathology foot diagnosis. However, present plantar pressure measurement and analysis systems are more or less uncomfortable to wear and expensive. This paper presents an in-shoe plantar pressure measurement and analysis system based on a textile fabric sensor array, which is soft, light, and has a high-pressure sensitivity and a long service life. The sensors are connected with a soft polymeric board through conductive yarns and integrated into an insole. A stable data acquisition system interfaces with the insole, wirelessly transmits the acquired data to remote receiver through Bluetooth path. Three configuration modes are incorporated to gain connection with desktop, laptop, or smart phone, which can be configured to comfortably work in research laboratories, clinics, sport ground, and other outdoor environments. A real-time display and analysis software is presented to calculate parameters such as mean pressure, peak pressure, center of pressure (COP), and shift speed of COP. Experimental results show that this system has stable performance in both static and dynamic measurements.
+
+------------------------
+
+Doc id:  WOS:000261381300005
+Doc Title:  SPICESoft: AUTOMATED TOOL FOR SENSITIVITY ANALYSIS, PERFORMANCE ANALYSIS, AND INVERSE PERFORMANCE ANALYSIS OF DIGITAL CIRCUITS
+Doc Abstract:  An automated circuit analysis tool called SPICESoft, the main objective of which is to help designers in sensitivity computation and circuit analysis is presented. Three main features of SPICESoft are described, namely Sensitivity Analysis, Circuit Performance Analysis, and Inverse Circuit Performance Analysis. A new methodology called Binary Differential Expansion used for data interpolation is also described in this paper. The relationship between device and process parameters is covered. The simulation results obtained using the proposed automated tool are compared with those of conventional computation.
+
+------------------------
+
+Doc id:  WOS:000266914500003
+Doc Title:  Mapping the web relations of science centres and museums from Latin America
+Doc Abstract:  In Latin America, interactive science centres and museums are key institutions for science communication. In order to map their relationship over the Internet, a Web co-link analysis was applied to 18 websites of science centres and museums affiliated to the Network for the Popularization of Science and Technology in Latin America and the Caribbean - RedPOP. Clustering analysis, multidimensional scaling (MDS) and an analysis of all pages with links to at least two websites were performed. Results showed that language barriers played a prominent role in clustering, with external recognition by the target public representing a secondary issue.
+
+------------------------
+
+Doc id:  WOS:000358814100016
+Doc Title:  SWIFT: Decoupled System-Wide Information Flow Tracking and its Optimizations
+Doc Abstract:  Information flow analysis is a widely-adopted technique in software testing and malware analysis. For information flow analysis, a system-level emulator equipped with dynamic information flow tracking capability, DIFT, is needed. However, its effectiveness comes at a price of severe performance degradation due to interleaved system emulation and DIFT analysis. In this paper, a decoupled system-wide information flow tracking scheme, SWIFT, is proposed. Through decoupling system-wide information flow tracking from emulation, SWIFT regains the memory locality and code optimization. The proposed methods are able to aggressively eliminate dependency between the system-level emulator and the analysis thread. Our performance evaluation indicates that, under the same hardware specifications, SWIFT runs 2.74 similar to 7.48 times faster than the conventional interleaved design while being benchmarked by Pass Mark Performance Test 6.0. The performance improvement consequently makes the online analysis feasible in practice.
+
+------------------------
+
+Doc id:  WOS:000353515700015
+Doc Title:  Channels With Cost Constraints: Strong Converse and Dispersion
+Doc Abstract:  This paper shows the strong converse and the dispersion of memoryless channels with cost constraints and performs a refined analysis of the third-order term in the asymptotic expansion of the maximum achievable channel coding rate, showing that it is equal to (1/2)((log n)/n) in most cases of interest. The analysis is based on a nonasymptotic converse bound expressed in terms of the distribution of a random variable termed the b-tilted information density, which plays a role similar to that of the d-tilted information in lossy source coding. We also analyze the fundamental limits of lossy joint-source-channel coding over channels with cost constraints.
+
+------------------------
+
+Doc id:  WOS:000287400700002
+Doc Title:  Kernel Maximum Autocorrelation Factor and Minimum Noise Fraction Transformations
+Doc Abstract:  This paper introduces kernel versions of maximum autocorrelation factor (MAF) analysis and minimum noise fraction (MNF) analysis. The kernel versions are based upon a dual formulation also termed Q-mode analysis in which the data enter into the analysis via inner products in the Gram matrix only. In the kernel version, the inner products of the original data are replaced by inner products between nonlinear mappings into higher dimensional feature space. Via kernel substitution also known as the kernel trick these inner products between the mappings are in turn replaced by a kernel function and all quantities needed in the analysis are expressed in terms of this kernel function. This means that we need not know the nonlinear mappings explicitly. Kernel principal component analysis (PCA), kernel MAF, and kernel MNF analyses handle nonlinearities by implicitly transforming data into high (even infinite) dimensional feature space via the kernel function and then performing a linear analysis in that space. Three examples show the very successful application of kernel MAF/MNF analysis to: 1) change detection in DLR 3K camera data recorded 0.7 s apart over a busy motorway, 2) change detection in hyperspectral HyMap scanner data covering a small agricultural area, and 3) maize kernel inspection. In the cases shown, the kernel MAF/MNF transformation performs better than its linear counterpart as well as linear and kernel PCA. The leading kernel MAF/MNF variates seem to possess the ability to adapt to even abruptly varying multi and hypervariate backgrounds and focus on extreme observations.
+
+------------------------
+
+Doc id:  WOS:000344455800006
+Doc Title:  DoubleChecker: Efficient Sound and Precise Atomicity Checking
+Doc Abstract:  Atomicity is a key correctness property that allows programmers to reason about code regions in isolation. However, programs often fail to enforce atomicity correctly, leading to atomicity violations that are difficult to detect. Dynamic program analysis can detect atomicity violations based on an atomicity specification, but existing approaches slow programs substantially. This paper presents DoubleChecker, a novel sound and precise atomicity checker whose key insight lies in its use of two new cooperating dynamic analyses. Its imprecise analysis tracks cross-thread dependences soundly but imprecisely with significantly better performance than a fully precise analysis. Its precise analysis is more expensive but only needs to process a subset of the execution identified as potentially involved in atomicity violations by the imprecise analysis. If DoubleChecker operates in single-run mode, the two analyses execute in the same program run, which guarantees soundness and precision but requires logging program accesses to pass from the imprecise to the precise analysis. In multi-run mode, the first program run executes only the imprecise analysis, and a second run executes both analyses. Multi-run mode trades accuracy for performance; each run of multi-run mode outperforms single-run mode, but can potentially miss violations. We have implemented DoubleChecker and an existing state-of-the-art atomicity checker called Velodrome in a high-performance Java virtual machine. DoubleChecker's single-run mode significantly outperforms Velodrome, while still providing full soundness and precision. DoubleChecker's multi-run mode improves performance further, without significantly impacting soundness in practice. These results suggest that DoubleChecker's approach is a promising direction for improving the performance of dynamic atomicity checking over prior work.
+
+------------------------
+
+Doc id:  WOS:000238114800094
+Doc Title:  Performance analysis of IEEE802.16e random access protocol with mobility
+Doc Abstract:  In this paper, the performance of IEEE802.16e random access protocol with handover procedure is examined in terms of access throughput and mean access delay, by using equilibrium point analysis(EPA). In the analysis, retransmission probability, which is a typical input parameter in the literature so far, is iteratively obtained from equilibrium number of backlogs in the system in conjunction with a binary exponential backoff algorithm. In numerical examples, the effects of SSs' mobility on access throughput and mean access delay are examined.
+
+------------------------
+

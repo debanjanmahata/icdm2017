@@ -1,0 +1,157 @@
+Related papers
+
+Paper Id: WOS:000263411700002
+Distance: 0.19776301085948944
+Similarity: 0.8022369891405106
+Title: A genetic approach to joint routing and link scheduling for wireless mesh networks
+Abstract: Wireless mesh networks are an attractive technology for providing broadband connectivity to mobile clients who are just on the edge of wired networks, and also for building self-organized networks in places where wired infrastructures are not available or not deemed to be worth deploying. This paper investigates the joint link scheduling and routing issues involved in the delivery of a given backlog from any node of a wireless mesh network towards a specific node (which acts as a gateway), within a given deadline. Scheduling and routing are assumed to be aware of the physical interference among nodes, which is modeled in the paper by means of a signal-to-interference ratio. Firstly, we present a theoretical model which allows us to formulate the task of deriving joint routing and scheduling as an integer linear programming problem. Secondly, since the problem cannot be dealt with using exact methods, we propose and use a technique based on genetic algorithms. To the best of our knowledge, these algorithms have never been used before for working out these kinds of optimization problems in a wireless mesh environment. We show that our technique is suitable for this purpose as it provides a good trade-off between fast computation and the overall goodness of the solution found. Our experience has in fact shown that genetic algorithms would seem to be quite promising for solving more complex models than the one dealt with in this paper, Such as those including multiple flows and multi-radio multi-channels. (C) 2008 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000349672000006
+Distance: 0.21534989774227142
+Similarity: 0.7846501022577286
+Title: Cost-Efficient Mapping for Fault-Tolerant Virtual Networks
+Abstract: Network virtualization provides more flexibility in network provisioning as it offers physical infrastructure providers (PIP) the possibility of smoothly rolling out many separate networks on top of an existing infrastructure. A major challenge is the embedding problem of mapping virtual networks (VNs) onto PIP infrastructure. In the literature, a good deal of research has focused on providing heuristic approaches to this NP-hard problem, usually with the assumption that the PIP infrastructure is operational at all times. In virtualization environment, a single physical node/link failure can result in one or more logical link failures as it effects all VNs with a mapping that spans over. Setting up a dedicated backup for each VN embedding that is not shared with others is an inefficient use of resources. To address these concerns, this paper proposes two classes of periodic VN protection against link and node failures: (a) in the physical layer, by using a path or segment p-cycle technique and a column generation optimization model, and (b) in the VN layer, by augmenting the topology with redundant resources and subsequently applying a column generation mapping model. Our simulations show a clear advantage of our approaches over benchmarks in terms of PIP profit, backup cost/rate and resource use.
+
+------------
+
+Paper Id: WOS:000275585600012
+Distance: 0.21548287570476532
+Similarity: 0.7845171242952347
+Title: A new economic generalized particle model for flow control
+Abstract: The problem of bandwidth allocation in computer networks can be likened to the supply-demand problem in economics. This paper presents the economic generalized particle model (EGPM) approach to intelligent allocation of network bandwidth. EGPM is a significant extension and further development of the generalized particle model (GPM) [1]. The approach comprises two major components: (1) dynamic allocation of network bandwidth based on GPM: and (2) dynamic modulation of price and demands of network bandwidth. The resulting algorithm can be easily implemented in a distributed fashion. Pricing being the network control mechanism in EGPM is carried out by a tatonnement process. We discuss the EGPM's convergence and show that the approach is efficient in achieving the global Pareto optimum. Via simulations, we test the approach, analyze its parameters and compare it with GPM and a genetic-algorithm-based solution. (C) 2009 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000295739000016
+Distance: 0.21892023086547852
+Similarity: 0.7810797691345215
+Title: Distributed Rate Allocation for Wireless Networks
+Abstract: This paper develops a distributed algorithm for rate allocation in wireless networks that achieves the same throughput region as optimal centralized algorithms. This cross-layer algorithm jointly performs medium access control and physical-layer rate adaptation. The paper establishes that this algorithm is throughput-optimal for general rate regions. In contrast to on-off scheduling, rate allocation enables optimal utilization of physical-layer schemes by scheduling multiple rate levels. The algorithm is based on local queue-length information, and thus the algorithm is of significant practical value. An important application of this algorithm is in multiple-band multiple-radio throughput-optimal distributed scheduling for white-space networks. The algorithm requires that each link can determine the global feasibility of increasing its current data-rate. In many classes of networks, any one link's data-rate primarily impacts its neighbors and this impact decays with distance. Hence, local exchanges can provide the information needed to determine feasibility. Along these lines, the paper discusses the potential use of existing physical-layer control messages to determine feasibility. This can be considered as a technique analogous to carrier sensing in carrier sense multiple access (CSMA) networks.
+
+------------
+
+Paper Id: WOS:000357529100008
+Distance: 0.22000882029533386
+Similarity: 0.7799911797046661
+Title: Joint Optimization for the Delivery of Multiple Video Channels in Telco-CDNs
+Abstract: The delivery of live video channels for services such as twitch.tv leverages the so-called Telco-CDN-Content Delivery Network (CDN) deployed within the Internet Service Provider (ISP) domain. A Telco-CDN can be regarded as an intra-domain overlay network with tight resources and critical deployment constraints. This paper addresses two problems in this context: (1) the construction of the overlays used to deliver the video channels from the entrypoints of the Telco-CDN to the appropriate edge servers; and (2) the allocation of the required resources to these overlays. Since bandwidth is critical for entrypoints and edge servers, our ultimate goal is to deliver as many video channels as possible while minimizing the total bandwidth consumption. To achieve this goal, we propose two approaches: a two-step optimization where the optimal overlays are firstly computed, then an optimal resource allocation based on these pre-computed overlays is performed; and a joint optimization where both optimization problems are simultaneously solved. We also devise fast heuristic algorithms for each of these approaches. The conducted evaluations of these two approaches and algorithms provide useful insights into the management of critical Telco-CDN infrastructures.
+
+------------
+
+Paper Id: WOS:000353143800022
+Distance: 0.22014202177524567
+Similarity: 0.7798579782247543
+Title: On the Optimal Convergence Speed of Wireless Scheduling for Fair Resource Allocation
+Abstract: In this paper, we study the design of joint flow-rate control and scheduling policies in multihop wireless networks for achieving maximum network utility with provably optimal convergence speed. Fast convergence is especially important in wireless networks that are dominated by the dynamics of incoming and outgoing flows as well as the time-sensitive applications. Yet, the design of fast converging policies in wireless networks is complicated by: 1) the interference-constrained communication capabilities, and 2) the finite set of transmission rates to select from due to operational and physical-layer constraints. We tackle these challenges by explicitly incorporating such discrete constraints to understand their impact on the convergence speed at which the running average of the received service rates and the network utility over a finite time horizon T converges to their limits. In particular, we establish a fundamental fact that the convergence speed of any feasible policy cannot be faster than Omega(1/T) under both the rate and utility metrics. Then, we develop an algorithm that achieves this optimal convergence speed in both metrics. We also show that the well-known dual algorithm can achieve the optimal convergence speed in terms of its utility value. These results reveal the interesting fact that the convergence speed of rates and utilities in wireless networks is dominated by the discrete choices of scheduling and transmission rates, which also implies that the use of higher-order flow-rate controllers with fast convergence guarantees cannot overcome the aforementioned fundamental limitation.
+
+------------
+
+Paper Id: WOS:000295738800018
+Distance: 0.22025038301944733
+Similarity: 0.7797496169805527
+Title: Cross-Layer Optimization for Wireless Networks With Deterministic Channel Models
+Abstract: Cross-layer optimization is a key step in wireless network design that coordinates the resources allocated to different layers in order to achieve globally optimal network performance. Existing work on cross-layer optimization for wireless networks often adopts simplistic physical-layer models for wireless channels, such as treating interference as noise or interference avoidance. This crude modeling of physical layer often leads to inefficient utilization of resources. In this paper, we adopt a deterministic channel model proposed in [1], [2], a simple abstraction of the physical layer that effectively captures the effect of channel strength, broadcast and superposition in wireless channels. This model allows us to go beyond "treating interference as noise" and as a consequence are able to achieve higher throughput and utility. Within the network utility maximization (NUM) framework, we study the cross-layer optimization for wireless networks based on this deterministic channel model. First, we extend the well-studied conflict graph model to capture the flow interactions over the deterministic channels and characterize the feasible rate region. Then we study distributed algorithms for general wireless multi-hop networks with both link-centric formulation and node-centric formulation. The convergence of algorithms is proved by applying Lyapunov stability theorem and stochastic approximation method. Further, we show the convergence to the bounded neighborhood of optimal solutions with probability one under constant step sizes and constant update intervals. Our numerical evaluations validate the analytical results and show the advantage of deterministic channel model over simple physical layer models such as treating interference as noise.
+
+------------
+
+Paper Id: WOS:000260250700014
+Distance: 0.2208370864391327
+Similarity: 0.7791629135608673
+Title: Distributed cross-layer coordination of congestion control and resource allocation in S-TDMA wireless networks
+Abstract: We consider the problem of joint congestion control and resource allocation in spatial-TDMA wireless networks. The design problem is posed as a utility maximization problem subject to link rate constraints which involve both transmission scheduling and power allocation. Starting from the performance limitations of a centralized optimization based on global network information, we proceed systematically in our development of two distributed and transparent protocols that rely on local information only. In the process, we introduce a novel decomposition method for convex optimization, establish its convergence for the utility maximization problem, and demonstrate how it suggests a distributed solution based on TCP/AQM and incremental updates of the transmission schedule. We develop a two-step procedure for finding the schedule updates and suggest two schemes for distributed link scheduling and power control under realistic interference models. Although the final protocols are suboptimal, we isolate and quantify the performance losses incurred by each simplification and demonstrate strong performance in examples.
+
+------------
+
+Paper Id: WOS:000320807900001
+Distance: 0.22103074193000793
+Similarity: 0.7789692580699921
+Title: Optimal QoM in Multichannel Wireless Networks Based on MQICA
+Abstract: In wireless networks, wireless sniffers are distributed in a region to monitor the activities of users. It can be applied for fault diagnosis, resource management, and critical path analysis. Due to hardware limitations, wireless sniffers typically can only collect information on one channel at a time. Therefore, it is a key topic to optimize the channel selection for sniffers to maximize the information collected, so as to maximize the Quality of Monitoring (QoM) for wireless networks. In this paper, a Multiple-Quantum-Immune-Clone-Algorithm- (MQICA-) based solution was proposed to achieve the optimal channel allocation. The extensive simulations demonstrate that MQICA outperforms the related algorithms evidently with higher monitoring quality, lower computation complexity, and faster convergence. The practical experiment also shows the feasibility of this algorithm.
+
+------------
+
+Paper Id: WOS:000273447600009
+Distance: 0.22122223675251007
+Similarity: 0.7787777632474899
+Title: Optimal Relay Station Placement in Broadband Wireless Access Networks
+Abstract: To satisfy the stringent requirement of capacity enhancement in wireless networks, cooperative relaying is envisioned as one of the most effective solutions. In this paper, we study the capacity enhancement problem by way of Relay Stations (RSs) placement to achieve an efficient and scalable design in broadband wireless access networks. To fully exploit the performance benefits of cooperative relaying, we develop an optimization framework to maximize the capacity as well as to meet the minimal traffic demand by each Subscriber Station ( SS). In specific, the problem of joint RS placement and bandwidth allocation is formulated into a mixed-integer nonlinear program. We reformulate it into an integer linear program which is solvable by CPLEX. To avoid exponential computation time, a heuristic algorithm is proposed to efficiently solve the formulated problem. Numerical analysis is conducted through case studies to demonstrate the performance gain of cooperative relaying and the comparison between the proposed heuristic algorithm against the optimal solutions.
+
+------------
+
+Paper Id: WOS:000281866300011
+Distance: 0.221778005361557
+Similarity: 0.778221994638443
+Title: EXPLORING MULTIPLE RADIOS AND MULTIPLE CHANNELS IN WIRELESS MESH NETWORKS
+Abstract: Much research has been performed investigating the challenging issue of efficiently utilizing the network-wide capacity available in the multihop wireless mesh networks with multiple radios and multiple channels. In this work, multihop routing and channel assignment are intertwined issues. In this article we present summaries of this work based on two broad categorizations in terms of algorithm features: centralized and distributed approaches. Due to the multiple dimensions of the topics, we subgroup the papers in terms of how the interactions between routing and channel assignments are treated. They include channel assignment based on the given connectivity graph, joint design of routing and channel assignment, routing with localized considerations on channel selection, and channel assignment with local channel usage and traffic load information. With the centralized approach, the schemes are able to target optimal channel assignment and joint design on both channel assignment and routing issues. In the distributed approach, the papers take steps focused on either route metrics or channel scheduling based on localized information about the links at each node. Comparisons and open research issues are given as the conclusion.
+
+------------
+
+Paper Id: WOS:000353143800018
+Distance: 0.22251687943935394
+Similarity: 0.7774831205606461
+Title: Quality of Information Maximization for Wireless Networks via a Fully Separable Quadratic Policy
+Abstract: An information collection problem in a wireless network with random events is considered. Wireless devices report on each event using one of multiple reporting formats. Each format has a different quality and uses different data lengths. Delivering all data in the highest-quality format can overload system resources. The goal is to make intelligent format selection and routing decisions to maximize time-averaged information quality subject to network stability. Lyapunov optimization theory can be used to solve such a problem by repeatedly minimizing the linear terms of a quadratic drift-plus-penalty expression. To reduce delays, this paper proposes a novel extension of this technique that preserves the quadratic nature of the drift minimization while maintaining a fully separable structure. In addition, to avoid high queuing delay, paths are restricted to at most 2 hops. The resulting algorithm can push average information quality arbitrarily close to optimum, with a tradeoff in queue backlog. The algorithm compares favorably to the basic drift-plus-penalty scheme in terms of backlog and delay.
+
+------------
+
+Paper Id: WOS:000317574100012
+Distance: 0.2230587750673294
+Similarity: 0.7769412249326706
+Title: A Classification Framework for Scheduling Algorithms in Wireless Mesh Networks
+Abstract: Scheduling MAC-layer transmissions in multi-hop wireless networks is an active and stimulating area of research. There are several interesting algorithms proposed in the literature in the problem space of scheduling for multi-hop wireless networks, specifically for (a) WiMAX mesh networks, (b) long distance multi-hop WiFi networks, and (c) Vehicular Ad-hoc Networks (VANETs). In general, these algorithms have several dimensions in terms of the assumptions made, the input space considered and the solution space generated. In this context, the goal of this survey is three-fold. Firstly, we classify the scheduling algorithms proposed in the literature based on following parameters: problem setting, problem goal, type of inputs and solution technique. Secondly, we describe different scheduling algorithms based on this classification framework. We specifically cover the state-of-the-art scheduling mechanisms proposed for generic multichannel, multi-radio wireless mesh networks and in particular scheduling algorithms for WiMAX mesh networks, long distance mesh networks and vehicular ad-hoc networks. We describe scheduling algorithms which consider scheduling data, voice as well as video traffic. Finally, we compare these algorithms based on our classification parameters. We also critique individual mechanisms and point out the practicality and the limitations, wherever applicable. We observe that, the literature in the domain of scheduling for wireless mesh network is quite extensive, in terms of depth as well as breadth. Our classification framework helps in understanding the pros and cons of various aspects of scheduling for wireless multi-hop (popularly known as wireless mesh) networks. We also list desirable properties of any scheduling mechanism and use our classification framework to point out the open research issues in the space of scheduling for wireless mesh networks.
+
+------------
+
+Paper Id: WOS:000357662100013
+Distance: 0.22394533455371857
+Similarity: 0.7760546654462814
+Title: LARGE-SCALE CONVEX OPTIMIZATION FOR ULTRA-DENSE CLOUD-RAN
+Abstract: The heterogeneous cloud radio access network (Cloud-RAN) provides a revolutionary way to densify radio access networks. It enables centralized coordination and signal processing for efficient interference management and flexible network adaptation. Thus it can resolve the main challenges for next-generation wireless networks, including higher energy efficiency and spectral efficiency, higher cost efficiency, scalable connectivity, and low latency. In this article we will provide an algorithmic approach to the new design challenges for the dense heterogeneous Cloud-RAN based on convex optimization. As problem sizes scale up with the network size, we will demonstrate that it is critical to take unique structures of design problems and inherent characteristics of wireless channels into consideration, while convex optimization will serve as a powerful tool for such purposes. Network power minimization and channel state information acquisition will be used as two typical examples to demonstrate the effectiveness of convex optimization methods. Then we will present a twostage framework to solve general large-scale convex optimization problems, which is amenable to parallel implementation in the cloud data center.
+
+------------
+
+Paper Id: WOS:000336703000009
+Distance: 0.2263660430908203
+Similarity: 0.7736339569091797
+Title: A survey on resource allocation techniques in OFDM(A) networks
+Abstract: In this contribution, we present a survey on the radio resource allocation techniques in orthogonal frequency division multiplexing (OFDM) and orthogonal frequency division multiple access (OFDMA) systems. This problem goes back to 1960s and that is related to properly and efficiently allocate the radio resources, namely subcarriers and power. We start by overviewing the main open issues in OFDM. Then, we describe the problem formulation in OFDMA, and we review the existing solutions to allocate the radio resources. The goal is to discuss the fundamental concepts and relevant features of different radio resource management criteria, including water-filling, max min fairness, proportional fairness, cross-layer optimization, utility maximization, and game theory, also including a toy example with two terminals to compare the performance of the different schemes. We conclude the survey with a review of the state-of-the-art in resource allocation for next-generation wireless networks, including multicellular systems, cognitive radio, and relay-assisted communications, and we summarize advantages and common problems of the existing solutions available in the literature. The distinguishing feature of this contribution is a tutorial-style introduction to the fundamental problems in this area of research, intended for beginners on this topic. (C) 2014 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000355714500006
+Distance: 0.22678332030773163
+Similarity: 0.7732166796922684
+Title: Spectrum Allocation Mechanisms in Wireless Networks with Performance Guarantee
+Abstract: With the advent of wireless communications technology, the demand for limited spectrum resources is increased rapidly. Efficient spectrum allocation techniques have been regarded as a key step that enables effective high-throughput ad hoc networking with efficient spectrum usage. In this work we focus on spectrum allocation mechanisms in the secondary market to mitigate the spectrum scarcity. In a spectrum trading market, we assume that secondary users will bid for the usage of spectrums in: 1) some fixed time intervals (i.e. Fixed interval), 2) some continuous time intervals in particular time ranges (i.e. Time-window), or 3) some time slices summed to a certain value within a time range (i.e. Time-window-slice). Our goal is to design spectrum allocation mechanisms that will maximize the social efficiency under these three possible bidding cases. As allocating the requests of secondary users optimally is an NP-hard problem, to this end, we propose a suboptimal spectrum allocation mechanism PVG, in which a greedy allocation method is designed to maximize the social efficiency (total valuation of the allocated spectra). We prove that the PVG allocation mechanism yields an approximation factor 6 + 4 root 2 for the Time-window-slice case, an approximation factor 8 for the Time-window case, and an approximation factor 32 for the Fixed-interval case. We then conduct an extensive simulation on a real spectrum availability data to evaluate the performance of PVG. Our results show that the social efficiency ratio of PVG is always above 70% compared with the optimal allocation mechanism in these three request cases.
+
+------------
+
+Paper Id: WOS:000305575000038
+Distance: 0.22734954953193665
+Similarity: 0.7726504504680634
+Title: Optimal Dissemination of Security Patches in Mobile Wireless Networks
+Abstract: The security threat posed by malware in mobile wireless networks can be countered through immunization using security patches. The distribution of patches, however, consumes bandwidth that is scarce in wireless networks, and must, therefore, be judiciously controlled in order to attain desired tradeoffs between security risks and bandwidth consumption. We consider both nonreplicative and replicative dissemination of patches: a predetermined set of dispatcher nodes distribute the patches in the former, whereas the dispatcher set continually grows in the latter as the nodes that receive the patch become dispatchers themselves. In each case, the desired tradeoffs can be attained by activating at any given time only fractions of dispatchers and selecting their packet transmission rates. We formulate the aforesaid tradeoffs as optimal control problems that seek to minimize the aggregate network costs that depend on security risks and the overall extra bandwidth used in the network for dissemination of the security patches. We prove that the dynamic control strategies have simple structures: when the cost function associated with the bandwidth consumed in patching is concave, the control strategies are bang-bang with at most one jump from the maximum to the minimum value. When the cost function is strictly convex, the aforesaid transition is strict but continuous. We compare the efficacy of different dispatch models and also those of the optimum dynamic and static controls using numerical computations.
+
+------------
+
+Paper Id: WOS:000304148900009
+Distance: 0.22736498713493347
+Similarity: 0.7726350128650665
+Title: OMAN: A Mobile Ad Hoc Network Design System
+Abstract: We present a software library that aids in the design of mobile ad hoc networks (MANET). The OMAN design engine works by taking a specification of network requirements and objectives, and allocates resources which satisfy the input constraints and maximize the communication performance objective. The tool is used to explore networking design options and challenges, including: power control, adaptive modulation, flow control, scheduling, mobility, uncertainty in channel models, and cross-layer design. The unaddressed niche which OMAN seeks to fill is the general framework for optimization of any network resource, under arbitrary constraints, and with any selection of multiple objectives. While simulation is an important part of measuring the effectiveness of implemented optimization techniques, the novelty and focus of OMAN is on proposing novel network design algorithms, aggregating existing approaches, and providing a general framework for a network designer to test out new proposed resource allocation methods. In this paper, we present a high-level view of the OMAN architecture, review specific mathematical models used in the network representation, and show how OMAN is used to evaluate tradeoffs in MANET design. Specifically, we cover three case studies of optimization. The first case is robust power control under uncertain channel information for a single physical layer snapshot. The second case is scheduling with the availability of directional radiation patterns. The third case is optimizing topology through movement planning of relay nodes.
+
+------------
+
+Paper Id: WOS:000286653800005
+Distance: 0.22736962139606476
+Similarity: 0.7726303786039352
+Title: A Framework for Cross-Layer Optimization of Video Streaming in Wireless Networks
+Abstract: We present a general framework for optimizing the quality of video streaming in wireless networks that are composed of multiple wireless stations. The framework is general because: (i) it can be applied to different wireless networks, such as IEEE 802.11e WLAN and IEEE 802.16 WiMAX, (ii) it can employ different objective functions for the optimization, and (iii) it can adopt various models for the wireless channel, the link layer, and the distortion of the video streams in the application layer. The optimization framework controls parameters in different layers to optimally allocate the wireless network resources among all stations. More specifically, we address this video optimization problem in two steps. First, we formulate an abstract optimization problem for video streaming in wireless networks in general. This formulation exposes the important interaction between parameters belonging to different layers in the network stack. Then, we instantiate and solve the general problem for the recent IEEE 802.11e WLANs, which support prioritized traffic classes. We show how the calculated optimal solutions can efficiently be implemented in the distributed mode of the IEEE 802.11e standard. We evaluate our proposed solution using extensive simulations in the OPNET simulator, which captures most features of realistic wireless networks. In addition, to show the practicality of our solution, we have implemented it in the driver of an off-the-shelf wireless adapter that complies with the IEEE 802.11e standard. Our experimental and simulation results show that significant quality improvement in video streams can be achieved using our solution, without incurring any significant communication or computational overhead. We also explain how the general video optimization problem can be applied to other wireless networks, in particular, to the IEEE 802.16 WiMAX networks, which are becoming very popular.
+
+------------
+
+
+###################################
+

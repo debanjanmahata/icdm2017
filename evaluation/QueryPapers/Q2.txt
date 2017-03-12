@@ -1,0 +1,8 @@
+Paper ID: WOS:000327119100002	
+Year: 2013
+	
+Title: Dynamic Power Management for Multidomain System-on-Chip Platforms: An Optimal Control Approach
+
+Abstract: Reducing energy consumption in multiprocessor systems-on-chip (MPSoCs) where communication happens via the network-on-chip (NoC) approach calls for multiple voltage/frequency island (VFI)-based designs. In turn, such multi-VFI architectures need efficient, robust, and accurate runtime control mechanisms that can exploit the workload characteristics in order to save power. Despite being tractable, the linear control models for power management cannot capture some important workload characteristics (e. g., fractality, nonstationarity) observed in heterogeneous NoCs; if ignored, such characteristics lead to inefficient communication and resources allocation, as well as high power dissipation in MPSoCs. To mitigate such limitations, we propose a new paradigm shift from power optimization based on linear models to control approaches based on fractal-state equations. As such, our approach is the first to propose a controller for fractal workloads with precise constraints on state and control variables and specific time bounds. Our results show that significant power savings can be achieved at runtime while running a variety of benchmark applications.	
+
+Paper Keywords: Algorithms; Human Factors; Theory; Design; Performance; Network-on-chip; power management; fractal workloads; finite horizon optimal control

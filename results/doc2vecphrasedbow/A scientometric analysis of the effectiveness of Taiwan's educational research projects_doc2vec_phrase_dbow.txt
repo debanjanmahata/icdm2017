@@ -1,0 +1,133 @@
+Related papers
+
+Paper Id: WOS:000361992800020
+Similarity: 0.6011195778846741
+Distance: 0.3988804221153259
+Title: Benchmarking bibliometrics in biomedical research: research performance of the University of Toronto's Faculty of Medicine, 2008-2012
+Abstract: Bibliometrics are often used as key indicators when evaluating academic groups and individual researchers in biomedical research. Citation metrics, when used as indicators of research performance, require accurate benchmarking for homogenous groups. This study describes the research performance of academic departments in the University of Toronto's Faculty of Medicine using article-level bibliometrics for scientific papers published from 2008 to 2012. Eligible publications of all academic faculty members were verified from each researcher's curriculum vitae and Web of Science (R) (Thomson Reuters). For 3792 researchers, we identified 26,845 unique papers with 79,502 authors published from 2008 to 2012. The overall mean citations per paper for the faculty was 17.35. The academic departments with the highest levels of collaboration and interdisciplinary research activity also had the highest research impact. The citation window for biomedical scientific papers was still active at 5 years after publication, indicating that the citation window for publications in biomedical research is active longer than previously thought, and this may hinder the reliable use of bibliometrics when evaluating recent scientific publications in biomedical research.
+
+------------
+
+Paper Id: WOS:000381274600009
+Similarity: 0.5982398986816406
+Distance: 0.4017601013183594
+Title: An IS Scholar and Scholarship Ranking Based on Contributions to Doctoral Education
+Abstract: This research introduces a new information systems (IS) scholar and scholarly work ranking based on contributions to IS doctoral education. We examine syllabi of introductory PhD seminars offered across North America to identify and rank scholars and scholarly works most often called on in shaping future scholar's minds and careers. These rankings can also be used, along with available IS scholar ranking, to better recognize active and influential scholars in the IS field.
+
+------------
+
+Paper Id: WOS:000289486100002
+Similarity: 0.5943959355354309
+Distance: 0.4056040644645691
+Title: Citation Analysis on the Micro Level: The Example of Walter Benjamin's Illuminations
+Abstract: This article employs citation analysis on a micro level- the level of the cited document; in this case, Walter Benjamin's Illuminations (1968/2007). The study shows how this frequently cited publication-more than 4,000 citations in Web of Science-has been received. The growth of citations and interdisciplinary citing is studied, and a novel approach-page citation analysis-is applied to study how different parts of Illuminations have been cited. The article demonstrates how bibliometric methods can be used together with qualitative accounts to map the impact and dissemination of a particular publication. Furthermore, it shows how bibliometric methods can be utilized to study intellectual structures in the humanities, and highlights the influence of the humanities on the social sciences and sciences.
+
+------------
+
+Paper Id: WOS:000348324000037
+Similarity: 0.5938482880592346
+Distance: 0.4061517119407654
+Title: An overview of academic publishing and collaboration between China and Germany
+Abstract: In the past 30 years, publications from either China or Germany have increased exponentially with China growing much faster especially in the natural sciences, engineering and technology. In medical and health sciences, however, China still lags behind Germany in terms of publication production. Germany performs better in producing high-quality papers (measured by citations). Collaboration between the two countries has increased significantly, especially in the natural sciences and engineering and technology, but less so in medical and health sciences. Collaboration between China and Germany may help to raise quality of Chinese research in terms of highly cited papers.
+
+------------
+
+Paper Id: WOS:000291912000012
+Similarity: 0.5917983651161194
+Distance: 0.4082016348838806
+Title: Computer science research in Malaysia: a bibliometric analysis
+Abstract: Purpose - The purpose of this paper is to analyse the publications of, and the citations to, the current staff of 19 departments of computer science in Malaysian universities, and to compare these bibliometric data with expert peer reviews of Malaysian research performance. Design/methodology/approach - This paper searches citation of the Scopus and Web of Science databases. Findings - Both publication and citation rates are low, although this is at least in part due to some Malaysian universities having only a teaching function. More of the departments' publications were identified in Scopus than in Web of Science, but both databases were needed for comprehensive coverage. Statistically significant relationships were observed between the departments' publication and citation counts and the rankings of the departments' parent universities in two evaluations of the research performance of Malaysian universities. Originality/value - This is the first comparison of bibliometric and peer-review data for Malaysia, and, more generally, for a country with a newly developed higher education system.
+
+------------
+
+Paper Id: WOS:000334277800021
+Similarity: 0.5884814858436584
+Distance: 0.41151851415634155
+Title: Exploring scientific articles contributed by industries in Taiwan
+Abstract: The scientific knowledge contributed by industries remains ambiguous because prior studies have evaluated only specific industries, large companies, or industries collaborating with universities. We conducted a bibliometric analysis of data in the Web of Science database to explore the research partners of industries and determine which industries generate scientific articles, observing industrial trends in Taiwan from 1982 to 2011. The results showed that articles were published related to 26 industries, and the electronic components industry generated the highest percentage of articles (42.4 %), followed by the computer, electronics, and optical product industry (12.3 %). High-tech industries dominated, generating 84.5 % of the articles and demonstrating an annual increase in publications. In addition, industry researchers tended to cooperate with researchers affiliated with domestic institutions, particularly universities. Those in high-tech industries produced a higher percentage of articles coauthored with universities compared with those in low-tech industries.
+
+------------
+
+Paper Id: WOS:000335905000005
+Similarity: 0.5865221619606018
+Distance: 0.4134778380393982
+Title: Funded collaboration research in mathematics in China
+Abstract: Based on publications in mathematics of Chinese authors indexed in Chinese domestic and international databases, namely, the CNKI and the Web of Science, the current paper tries to explore impact of collaboration and funding support on academic productivity. Collaboration is classified into domestic and international collaboration, and domestic collaboration is further divided into within-institutional collaboration and cross-institutional collaboration. Regional performance in terms of collaboration and funding support has also been investigated. The results show that collaboration and funded support are highly skewed among Chinese regions. Beijing, Jiangsu, Shanghai, and Zhejiang are most active in collaboration and are the major winners of research funds. Zhejiang and Shaanxi perform in a contrast way: the former publishes mostly internationally whereas the latter mainly domestically. Compared with within-institutional collaboration, cross-institutional and international collaboration perform better in raising productivity and achieving research funds.
+
+------------
+
+Paper Id: WOS:000282048200018
+Similarity: 0.5863646864891052
+Distance: 0.4136353135108948
+Title: Counting the citations: a comparison of Web of Science and Google Scholar in the field of business and management
+Abstract: Assessing the quality of the knowledge produced by business and management academics is increasingly being metricated. Moreover, emphasis is being placed on the impact of the research rather than simply where it is published. The main metric for impact is the number of citations a paper receives. Traditionally this data has come from the ISI Web of Science but research has shown that this has poor coverage in the social sciences. A newer and different source for citations is Google Scholar. In this paper we compare the two on a dataset of over 4,600 publications from three UK Business Schools. The results show that Web of Science is indeed poor in the area of management and that Google Scholar, whilst somewhat unreliable, has a much better coverage. The conclusion is that Web of Science should not be used for measuring research impact in management.
+
+------------
+
+Paper Id: WOS:000282048200007
+Similarity: 0.5840191841125488
+Distance: 0.41598081588745117
+Title: Citation analysis and peer ranking of Australian social science journals
+Abstract: Citation analyses were performed for Australian social science journals to determine the differences between data drawn from Web of Science and Scopus. These data were compared with the tier rankings assigned by disciplinary groups to the journals for the purposes of a new research assessment model, Excellence in Research for Australia (ERA), due to be implemented in 2010. In addition, citation-based indicators including an extended journal impact factor, the h-index, and a modified journal diffusion factor, were calculated to assess whether subsequent analyses influence the ranking of journals. The findings suggest that the Scopus database provides higher number of citations for more of the journals. However, there appears to be very little association between the assigned tier ranking of journals and their rank derived from citations data. The implications for Australian social science researchers are discussed in relation to the use of citation analysis in the ERA.
+
+------------
+
+Paper Id: WOS:000242672200006
+Similarity: 0.5830429792404175
+Distance: 0.4169570207595825
+Title: On the benchmarking method of patent-based knowledge flow structure: Comparison of Korea and Taiwan with USA
+Abstract: This paper suggests an international benchmarking method of disembodied knowledge flow structure. Using patent citation as a proxy measure of disembodied knowledge flow, national knowledge network is developed. Structural equivalence measure is applied to comparing the knowledge network of Korea and Taiwan with that of USA. Static and dynamic compafison make it possible to benchmark disembodied knowledge flow structure efficiently and identify convergent and divergent industries between developing countries and USA. It is also a mesostudy that could be conducive to building a comprehensive analytical framework of national innovation system.
+
+------------
+
+Paper Id: WOS:000355948600008
+Similarity: 0.5825271010398865
+Distance: 0.4174728989601135
+Title: The effect of university mergers on the Shanghai ranking
+Abstract: The growing influence of the idea of world-class universities and the associated phenomenon of international academic rankings are intriguing issues for contemporary comparative analyses of higher education. Although the Academic Ranking of World Universities (ARWU or the Shanghai ranking) was originally devised to assess the gap between Chinese universities and world-class universities, it has since been credited with roles in stimulating higher education change on many scales, from increasing the labor value of individual high-performing scholars to wholesale renovation of national university systems including mergers. This paper exhibits the response of the ARWU indicators and rankings to institutional mergers in general, and specifically analyses the universities of France that are engaged in a major amalgamation process motivated in part by a desire for higher international rankings.
+
+------------
+
+Paper Id: WOS:000345527400012
+Similarity: 0.5807512402534485
+Distance: 0.4192487597465515
+Title: Chinese-language articles are not biased in citations: Evidences from Chinese-English bilingual journals in Scopus and Web of Science
+Abstract: This paper examined the citation impact of Chinese- and English-language articles in Chinese-English bilingual journals indexed by Scopus and Web of Science (WoS). Two findings were obtained from comparative analysis: (1) Chinese-language articles were not biased in citations compared with English-language articles, since they received a large number of citations from Chinese scientists; (2) a Chinese-language community was found in Scopus, in which Chinese-language articles mainly received citations from Chinese-language articles, but it was not found in WoS whose coverage of Chinese-language articles is only one-tenth of Scopus. The findings suggest some implications for academic evaluation of journals including Chinese-language articles in Scopus and WoS. (C) 2014 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000352995000017
+Similarity: 0.5793384909629822
+Distance: 0.4206615090370178
+Title: Global trends in scientific production in enology and viticulture in selected emerging economies (BRIC)
+Abstract: The aim of this study was to analyse the scientific productivity of the BRIC countries (Brazil, Russia, India and China) in viticulture and oenology through bibliometric analyses of articles in the Science Citation Index Expanded database for the period 1993-2012. A total of 1067 research articles were published in 363 domestic and international journals. We highlight important growth during the mentioned period in the published research papers, particularly in China and Brazil over the last 5 years. Papers have been published in numerous journals in a number of subject areas, such as Revista Brasileira de Fruticultura and Pesquisa Agropecuaria Brasileira, which are the most productive among the BRIC countries. A social network analysis of collaboration between each of the four BRIC countries was also performed.
+
+------------
+
+Paper Id: WOS:000342228300008
+Similarity: 0.5778777003288269
+Distance: 0.4221222996711731
+Title: URAP-TR: a national ranking for Turkish universities based on academic performance
+Abstract: This study describes the basic methodological approach and the results of URAP-TR, the first national ranking system for Turkish universities. URAP-TR is based on objective bibliometric data resources and includes both size-dependent and size-independent indicators that balance total academic performance with performance per capita measures. In the context of Turkish national university rankings, the paper discusses the implications of employing multiple size-independent and size-dependent indicators on national university rankings. Fine-grained ranking categories for Turkish universities are identified through an analysis of ranking results across multiple indicators.
+
+------------
+
+Paper Id: WOS:000323388100014
+Similarity: 0.5753500461578369
+Distance: 0.4246499538421631
+Title: Quantifying the benefits of international scientific collaboration
+Abstract: We analyze the benefits in terms of scientific impact deriving from international collaboration, examining both those for a country when it collaborates and also those for the other countries when they are collaborating with the former. The data show the more countries there are involved in the collaboration, the greater the gain in impact. Contrary to what we expected, the scientific impact of a country does not significantly influence the benefit it derives from collaboration, but does seem to positively influence the benefit obtained by the other countries collaborating with it. Although there was a weak correlation between these two classes of benefit, the countries with the highest impact were clear outliers from this correlation, tending to provide proportionally more benefit to their collaborating countries than they themselves obtained. Two surprising findings were the null benefit resulting from collaboration with Iran, and the small benefit resulting from collaboration with the United States despite its high impact.
+
+------------
+
+Paper Id: WOS:000348324000009
+Similarity: 0.5724582076072693
+Distance: 0.4275417923927307
+Title: Evaluating and comparing the university performance in knowledge utilization for patented inventions
+Abstract: Although universities have played an important role in knowledge creation, it is also of concern to see how universities perform in knowledge utilization. In the present article, an effective approach is proposed to evaluate and compare university performance in knowledge utilization for patented inventions. Growth trajectories of the cumulative patent citations to scientific publications produced by individual universities are analyzed by using latent growth modeling. Moreover, we examine how the utilization of scientific knowledge created in 1995 and 2005 is affected by research impact and university-industry collaboration among the universities in Europe, North America, and East Asia. The results indicate that not all top 300 research universities in the world perform well in knowledge utilization for patented inventions. Some policy implications are discussed.
+
+------------
+
+
+###################################
+

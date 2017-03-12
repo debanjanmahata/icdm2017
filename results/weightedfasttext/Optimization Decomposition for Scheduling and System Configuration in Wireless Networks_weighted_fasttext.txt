@@ -1,0 +1,157 @@
+Related papers
+
+Paper Id: WOS:000287504000006
+Distance: 0.23780082166194916
+Similarity: 0.7621991783380508
+Title: A Learning Automata-Based Cognitive Radio for Clustered Wireless Ad-Hoc Networks
+Abstract: In current wireless networks, the radio systems are regulated by a fixed spectrum assignment strategy. This policy partitions the whole radio spectrum into a fixed number of radio ranges, each exclusively assigned to a specific user. Such a spectrum assignment strategy leads to an undesirable condition under which some systems only use a small portion of the allocated spectrum while the others have very serious spectrum insufficiency. The learning automata-based cognitive radio which is proposed in this paper is a highly potential technology to address the spectrum scarcity challenges in wireless ad hoc networks. This paper proposes a learning automata-based dynamic frame length TDMA scheme for slot assignment in clustered wireless ad-hoc networks with unknown traffic parameters, where the intra-cluster communications are scheduled by a TDMA scheme, and a CDMA scheme is overlaid on the TDMA to handle an interference-free inter-cluster communication. In this method, each cluster-head is responsible for a collision-free slot assignment within the cluster and determines the input traffic parameters of its own cluster members. It then takes these traffic parameters into consideration for an optimal channel access scheduling in the cluster. The medium access control layer in each cluster is based on a time division multiple access (TDMA) scheme, in which each host is assigned a fraction of the TDMA frame proportional to its traffic load. The simulation experiments show the superiority of our proposed slot assignment algorithm over the existing methods in terms of the channel utilization, control overhead, and throughput, specifically, under bursty traffic conditions.
+
+------------
+
+Paper Id: WOS:000281592500017
+Distance: 0.24954774975776672
+Similarity: 0.7504522502422333
+Title: A CDMA/TDD approach for wireless mesh networks
+Abstract: Wide band mesh or star oriented networks have recently become a subject of greater interest. Providing wideband multimedia access for a variety of applications has led to the inception of mesh networks. Classic access techniques such as FDMA and TDMA have been the norm for such networks. CDMA maximum transmitter power is much less than TDMA and FDMA counter parts, which is an important asset for mobile operation. In this paper we introduce a code division multiple access/time division duplex technique CDMA/TDD for such networks. The CDMA approach is an almost play and plug technology for wireless access, making it amenable for implementation by the mesh network service station, SS. Further it inherently allows mesh network service stations to use a combination of turbo coding and dynamic parallel orthogonal transmission to improve network efficiency. We outline briefly the new transmitter and receiver structures then evaluate the efficiency, delay and delay jitter. By analysis we show the advantages over classic counter parts with respect to the total network efficiency achievable especially for larger number of hops. (C) 2010 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000288555100015
+Distance: 0.25506114959716797
+Similarity: 0.744938850402832
+Title: Flow admission control for multi-channel multi-radio wireless networks
+Abstract: Providing Quality of Service (QoS) is a major challenge in wireless networks. In this paper we propose a distributed call admission control protocol (DCAC) to do both bandwidth and delay guaranteed call admission for multihop wireless mesh backbone networks, by exploiting the multi-channel multi-radio (mc-mr) feature. We propose a novel routing metric for route setup, and present an efficient distributed algorithm for link reservation that satisfies the required bandwidth and reduces the delay by a local scheduling that minimizes one hop delay. To the best of our knowledge, this is the first distributed protocol that embeds mc-mr feature in Time Division Medium Access (TDMA) to do QoS call admission in wireless backbone networks. Extensive simulation studies show that our protocol significantly improves network performance on supporting QoS sessions compared with some widely used protocols.
+
+------------
+
+Paper Id: WOS:000240084000031
+Distance: 0.2606714963912964
+Similarity: 0.7393285036087036
+Title: A novel energy-aware TDMA scheduling algorithm for wireless sensor networks
+Abstract: In wireless sensor networks, time division multiple access (TDMA) -based MAC can eliminate collisions, hence save energy and guarantee a bounded delay. However, the slot scheduling problem in TDMA is an NP problem. To minimized the total slots needed by a set of data collection tasks and saving the energy consumed on switching between the active and sleep states, a novel particle swarm optimization (PSO)-based scheduling algorithm called PSOSA is proposed in TDMA sensor networks. This algorithm can take full advantage of the searching ability of PSO, which is powerful for solving NP problems. Simulation results show that PSOSA requires less slots and energy to finish a set of data collection tasks. Moreover, compare with coloring algorithms, PSOSA have more flexibility to deal with a multi-objective optimization problem.
+
+------------
+
+Paper Id: WOS:000284879800066
+Distance: 0.26626288890838623
+Similarity: 0.7337371110916138
+Title: LokVaani: Demonstrating Interactive Voice in Lo3
+Abstract: In this work, we consider the goal of enabling effective voice communication in a TDMA, multi-hop mesh network, using low cost and low power platforms. We consider two primary usage scenarios: (1) enabling a local voice communication within a village-like setting, in developing regions (2) supporting an on-site local communication among a team of users e. g. during emergency response systems. While there is plentiful literature on the use of TDMA for multi-hop wireless mesh networks, a practical multi-hop TDMA system remains elusive. Our contributions in this regard are three-fold. (1) We demonstrate the working of an 802.15.4-based low-cost, low-power, local communication system (referred as Lo(3)) using custom made handsets and off-the-shelf platforms. (2) We show the practicability of LiT: a full-fledged TDMA-based multi-hop, multi-channel MAC protocol for real-time applications; especially on resource constrained platforms, (3) We present implementation-based evaluations results of LiT and show that our protocol achieves practical synchronization, and robust operation in the face of wireless packet errors. As the part of the demo, we showcase LokVaani: an interactive voice application for local communication with the help of Lo(3) prototype.
+
+------------
+
+Paper Id: WOS:000321290800007
+Distance: 0.2881440818309784
+Similarity: 0.7118559181690216
+Title: Asynchronous inter-network interference avoidance for wireless body area networks
+Abstract: This paper considers the internetwork interference problem in environments with multiple wireless body area networks (WBANs). We propose an asynchronous internetwork interference avoidance scheme (abbreviated as AIIA), which is based on the hybrid multiple access of carrier sense multiple access with collision avoidance (CSMA/CA) and time division multiple access (TDMA). In AIIA, the gateway device of each WBAN maintains a table, called an AIIA table, which includes the timing offset and TDMA transmission schedule information corresponding to the interfering WBANs. By referring to the table, the conflicting TDMA schedule can be checked and updated by itself, in asynchronous and distributed manners. Extensive simulations are conducted to demonstrate the feasibility and effectiveness of AIIA.
+
+------------
+
+Paper Id: WOS:000266531000016
+Distance: 0.3065575361251831
+Similarity: 0.6934424638748169
+Title: Hybrid TDMA with heuristic traffic shaping: An efficient bandwidth allocation approach for heavy loaded LANs
+Abstract: Hybrid TDMA (Time Division Multiple Access) with heuristic traffic shaping (HyTDMA/HTS) is a new collisionless MAC protocol for efficiently managing the traffic of a heavy loaded broadcast LAN. The protocol employs techniques that enable it to perform better than both fixed assignment protocols like TDMA as well as dynamic bandwidth allocation protocols like LTDMA. HyTDMA/HTS can smoothly operate in diverse traffic environments of very high loads and bursty traffic, and it can still maintain maximum shared medium utilization while maintaining low packet delay times. Built into the protocol is also a simple yet effective heuristic mechanism that regulates the traffic of hosts flooding the network with an excessive number of packets larger than the average. (C) 2009 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000273951000002
+Distance: 0.3272569477558136
+Similarity: 0.6727430522441864
+Title: The influence of QoS routing on the achievable capacity in TDMA based Ad hoc wireless networks
+Abstract: 
+
+------------
+
+Paper Id: WOS:000257472300009
+Distance: 0.33340245485305786
+Similarity: 0.6665975451469421
+Title: A comparison of TDMA, dirty paper coding, and beamforming for multiuser MIMO relay networks
+Abstract: A two-hop multiple-input multiple-output (MIMO) relay network which comprises a multiple antenna source, an amplify-and-forward MIMO relay and many potential users are studied in this paper. Consider the achievable sum rate as the performance metric, a joint design method for the processing units of the BS and relay node is proposed. The optimal structures are given, which decompose the multiuser MIMO relay channel into several parallel single-input single-output relay channels. With these structures, the signal-to-noise ratio at the destination users is derived; and the power allocation is proved to be a convex problem. We also show that high sum rate can be achieved by pairing each link according to its magnitude. The sum rate of three broadcast strategies, time division multiple access (TDMA) to the strongest user, dirty paper coding (DPC), and beamforming (BF) are investigated. The sum rate bounds of these strategies and the sum capacity (achieved by DPC) gain over TDMA and BF are given. With these results, it can be easily obtained that how far away TDMA and BF are from being optimal in terms of the achievable sum rate.
+
+------------
+
+Paper Id: WOS:000363125300007
+Distance: 0.3544396460056305
+Similarity: 0.6455603539943695
+Title: OFDMA for wireless multihop networks: From theory to practice
+Abstract: Orthogonal Frequency-Division Multiple Access (OFDMA) enables nodes to exploit spatial diversity in Wireless Mesh Networks (WMNs). As a result, throughput improves significantly. While existing work often considers the physical layer only, using OFDMA in a WMN also affects the link and network layers. In particular, multi-hop forwarding may result in severe bottlenecks since OFDMA resource allocations are typically based on local information only. In this paper, we design a practical system that mitigates such bottlenecks. To this end, we allow for resource allocation based on channel and traffic conditions at the physical layer, per-subcarrier coding at the link layer, and per-subcarrier packet segmentation at the network layer. We implement our approach on software-defined radios and show that it provides significant throughput gains compared to traditional schemes. (C) 2015 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000316964400004
+Distance: 0.37506601214408875
+Similarity: 0.6249339878559113
+Title: Modeling and Stability Analysis of Hybrid Multiple Access in the IEEE 802.15.4 Protocol
+Abstract: To offer flexible quality of service to several classes of applications, the medium access control (MAC) protocol of IEEE 802.15.4 wireless sensor networks (WSNs) combines the advantages of a random access with contention with a time division multiple access (TDMA) without contention. Understanding reliability, delay, and throughput is essential to characterizing the fundamental limitations of the MAC and optimizing its parameters. Nevertheless, there is not yet a clear investigation of the achievable performance of hybrid MAC. In this article, an analytical framework for modeling the behavior of the hybrid MAC protocol of the IEEE 802.15.4 standard is proposed. The main challenge for an accurate analysis is the coexistence of the stochastic behavior of the random access and the deterministic behavior of the TDMA scheme. The analysis is done in three steps. First, the contention access scheme of the IEEE 802.15.4 exponential back-off process is modeled through an extended Markov chain that takes into account channel, retry limits, acknowledgements, unsaturated traffic, and superframe period. Second, the behavior of the TDMA access scheme is modeled by another Markov chain. Finally, the two chains are coupled to obtain a complete model of the hybrid MAC. By using this model, the network performance in terms of reliability, average packet delay, average queuing delay, and throughput is evaluated through both theoretical analysis and experiments. The protocol has been implemented and evaluated on a testbed with off-the-shelf wireless sensor devices to demonstrate the utility of the analysis in a practical setup. It is established that the probability density function of the number of received packets per superframe follows a Poisson distribution. It is determined under which conditions the guaranteed time slot allocation mechanism of IEEE 802.15.4 is stable. It is shown that the mutual effect between throughput of the random access and the TDMA scheme for a fixed superframe length is critical to maximizing the overall throughput of the hybrid MAC. In high traffic load, the throughput of the random access mechanism dominates over TDMA due to the constrained use of TDMA in the standard. Furthermore, it is shown that the effect of imperfect channels and carrier sensing on system performance heavily depends on the traffic load and limited range of the protocol parameters. Finally, it is argued that the traffic generation model established in this article may be used to design an activation timer mechanism in a modified version of the CSMA/CA algorithm that guarantees a stable network performance.
+
+------------
+
+Paper Id: WOS:000246122900007
+Distance: 0.38448062539100647
+Similarity: 0.6155193746089935
+Title: All-IP 4G network architecture for efficient mobility and resource management
+Abstract: In this article, we investigate 4G network architecture and consider two underlying layers: PHY and MAC. We compare two models of wireless access network: pure all-IP and subnet based networks. The pure all-IP model is simple and cost-efficient but causes implementation issues of mobility management and resource coordination. In contrast, the subnet-based network enables layer 2 and layer 3 handoffs to be executed independently, deploying several access points under an access router. Further, to handle various cases efficiently according to traffic-class and mobility, we present an advanced model of a hierarchical cellular system that combines multiple access techniques of OFDMA and FH-OFDMA with microcells and macrocells. Finally, as an integrated approach to support diverse QoS requirements, we consider an IP-triggered resource allocation strategy (ITRAS) that exploits IntServ and DiffServ of the network layer to interwork with channel allocation and multiple access of MAC and PHY layers, respectively. These cross layer approaches shed light on designing a QoS support model in a 4G network that cannot be handled properly by a single layer based approach.
+
+------------
+
+Paper Id: WOS:000339365500023
+Distance: 0.3846827447414398
+Similarity: 0.6153172552585602
+Title: Joint subcarrier, code, and power allocation for parallel multi-radio access in heterogeneous wireless networks
+Abstract: In the heterogeneous wireless networks, it has been proved that the joint spectrum and power allocation can achieve network diversity gains for parallel multi-radio access in theory. This article aims to develop an effective and practical algorithm of joint subcarrier, code, and power allocation for parallel multi-radio access of the downlink in heterogeneous wireless networks (e.g., CDMA and OFDMA). Firstly, we propose a unified framework to formulate the subcarrier, code, and power allocation as an optimization problem. Secondly, we propose a resource element (subcarrier and code) scheme based on the threshold type. Simulation results show that the proposed scheme outperforms the existing algorithm for considered wireless scenarios.
+
+------------
+
+Paper Id: WOS:000327502000017
+Distance: 0.39252033829689026
+Similarity: 0.6074796617031097
+Title: THE CASE FOR RANDOM ACCESS IN OFDMA FEMTOCELLS
+Abstract: Data services in current cellular networks are growing exponentially, due to the proliferation of high-end mobile devices (smartphones, tablets, e-readers) supporting ever increasing multimedia applications. Clearly, availing of new spectrum (as with 4G allocations) is a necessary part of meeting this challenge, but so are improved network architectures that achieve enhanced spatial spectral efficiency (bits per second per Hertz per area). 4G network operators are moving toward a heterogeneous architecture consisting of overlaid cells of various sizes. A variety of low-power, small-cell base stations and relays are being deployed to increase capacity around local, typically indoor hotspots. The primary concern in such scenarios is understanding the nature and impact of inter-cell interference in dense deployments of such unmanaged small cells, and arriving at solutions for its mitigation. Resource allocation in traditional wide-area cellular networks usually assume a fully loaded network (i.e. many simultaneous active users in a cell) where the system performance is insensitive to the activity of a single user. This assumption is not suitable for femtocells which are designed to serve very few (indoor) users and thus lacks the presumed traffic aggregation. This article provides a fresh look at the femtocell interference problem from a multiple access perspective. It first compares the multi-channel features inherent to OFDMA with traditional multi-channel MAC designs for wireless LANs and highlights how the ability to schedule users in both time and frequency as afforded by OFDMA, can be exploited to achieve more effective (distributed) random access. A simplified MAC model that hides the complexity of LTE protocol stack is proposed to facilitate the design and analysis of random access MAC algorithms in the context of OFDMA femtocells.
+
+------------
+
+Paper Id: WOS:000309316100010
+Distance: 0.39841407537460327
+Similarity: 0.6015859246253967
+Title: sGSA: A SDMA-OFDMA greedy scheduling algorithm for WiMAX networks
+Abstract: Future wireless networks need to address the predicted growth in mobile traffic volume, expected to have an explosive growth in the next 5 years mainly driven by video and web applications. Transmission schemes based on Orthogonal Frequency Division Multiple Access (OFDMA) combined with Space Division Multiple Access (SDMA) techniques are key promising technologies to increase current spectral efficiencies. A Joint SDMA-OFDMA system has to allocate resources in time, frequency and space dimensions to different mobile stations, resulting in a highly complex resource allocation problem. In contrast to related work approaches, in this paper we take a comprehensive view at the complete SDMA-OFDMA scheduling challenge and propose a SDMA-OFDMA Greedy Scheduling Algorithm (sGSA) for WiMAX systems. The proposed solution considers feasibility constraints in order to allocate resources for multiple mobile stations on a per packet basis by using (i) a low complexity SINR prediction algorithm, (ii) a cluster-based SDMA grouping algorithm and (iii) a computationally efficient frame layout scheme which allocates multiple SDMA groups per frame according to their packet QoS utility. A performance evaluation of the proposed sGSA solution as compared to state of the art solutions is provided, based on a comprehensive WiMAX simulation tool. (C) 2012 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000310979900002
+Distance: 0.40290579199790955
+Similarity: 0.5970942080020905
+Title: Utility-based Resource Allocation with Bipartite Matching in OFDMA-based Wireless Systems
+Abstract: In order to efficiently utilize limited radio resources, resource allocation schemes in OFDMA-based wireless networks have gained intensive attention recently. Instead of improving the throughput performance, the utility is adopted as the metric for resource allocation, which provides reasonable methods to build up the relationship between user experience and various quality-of-service (QoS) metrics. After formulating the optimization problem by using a weighted bipartite graph, a modified bipartite matching method is proposed to find a suboptimal solution for the resource allocation problem in OFDMA-based wireless systems with feasible computational complexity. Finally, simulation results are presented to validate the effectiveness of the proposed method.
+
+------------
+
+Paper Id: WOS:000284448800061
+Distance: 0.4030844271183014
+Similarity: 0.5969155728816986
+Title: An Energy Saving Scheduling Scheme for OFDMA Two-Hop Relay Systems
+Abstract: Being a new feature of next generation of wireless net works Mobile Multi hop Relay (MMR) is proposed for the purpose of coverage extension and throughput enhancement in LTE Advanced IEEE 802 16 j/m Besides with the help of relay the system energy consumption could be well saved In this paper an energy saving scheduling scheme is proposed for OFDMA based two hop relay systems The novel scheme adjusts the modulation and coding (MC) mode and allocates the transmit power dynamically according to the resource intensity It can also guaran tee the Quality of Service (QoS) of different services by setting the scheduling priority The simulation results show that the novel scheduling scheme can reduce energy consumption up to 76 27% compared to the conventional scheduling scheme and achieve higher throughput while guaranteeing QoS
+
+------------
+
+Paper Id: WOS:000263995700007
+Distance: 0.4054560363292694
+Similarity: 0.5945439636707306
+Title: Competitive scheduling for OFDMA systems with guaranteed transmission rate
+Abstract: Next-generation broadband wireless standards use orthogonal frequency division multiple access (OFDMA) as the preferred physical layer multiple access scheme, especially for the downlink. Due to limited resources available at the base station, multi-user resource allocation is crucial for delivering the applications with various quality-of-service (QoS) demands. We study the OFDMA resource allocation problem for the adaptive modulation and coding (AMC) mode of mobile WiMAX, in which resources in the form of allocation units (AU) are to be allocated and the channel knowledge of only some good sub-channels for the users is available to the scheduler. The objective is to maximize the sum-rate for all the users while maintaining guaranteed minimum and maximum traffic rates for certain users under a total transmission power constraint. Two novel factors, band selectivity factor (BSF) and competition factor (CF), are introduced. Based on the two factors, we propose a sub-optimal approach, rate-guaranteed competitive scheduling (RCS). It is suitable to be deployed in practical systems and exploits multi-user diversity with very low complexity. Simulation results show that RCS can achieve almost 75% of throughput of the optimal solution. (C) 2008 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000277962300002
+Distance: 0.40677326917648315
+Similarity: 0.5932267308235168
+Title: QoS-aware packet forwarding in MIMO sensor networks: a cross-layer approach
+Abstract: Multiple-input multiple-output (MIMO) enabled wireless sensor networks (WSNs) are becoming increasingly important since significant performance enhancement can be realized. In this paper, we propose a packet forward strategy for MIMO sensor networks by jointly considering channel coding, rate adaptation, and power allocation. Each sensor node has multiple antennas and uses orthogonal space time block codes (OSTBC) to exploit both spatial and temporal diversities. The objective is to determine the optimal routing path that achieves the minimum symbol error rate (SER) subject to the source-to-destination (S-D) energy consumption constraint. This SER-based quality-of-service (QoS) aware packet forwarding problem is formulated into the framework of dynamic programming (DP). We then propose a low-complexity and near-optimal approach to considerably reduce the computation complexity, which includes state space partition and state aggregation techniques. Simulations indicate that the proposed protocol significantly outperforms traditional algorithms. Further still, the performance gain increases with tighter S-D energy constraint. Copyright (C) 2009 John Wiley & Sons, Ltd.
+
+------------
+
+
+###################################
+

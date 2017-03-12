@@ -1,0 +1,157 @@
+Related papers
+
+Paper Id: WOS:000333554400002
+Distance: 0.1810329705476761
+Similarity: 0.8189670294523239
+Title: Performance-Driven Dynamic Thermal Management of MPSoC Based on Task Rescheduling
+Abstract: High level of integration has led to the advent of Multiprocessor System-on-Chip (MPSoC) which consists of multiple processor cores and accelerators on the same die. A MPSoC programming model is based on a task graph where tasks are assigned to cores to maximize performance. To address thermal hotspots in MPSoCs, coarse-grain power management techniques based on Dynamic Frequency Scaling (DFS) are widely used. DFS is reactive in nature and has detrimental effects on performance. We propose an alternative solution based on dynamic task rescheduling where a temperature prediction scheme is built into the scheduler. The temperature look-ahead scheme is used for task reassignment or delay insertion in scheduling. Since temperature prediction and task assignment are done at runtime, both must be simple and extremely fast. To that end, we propose a heuristic solution based on a limited branch-and-bound search and compare results against an optimal Integer Linear Programming (ILP)-based solution. The proposed approach is shown to be superior to frequency scaling, and the resulting schedule length is within 5% to 10% of the optimal solution as obtained from ILP formulation.
+
+------------
+
+Paper Id: WOS:000348485900003
+Distance: 0.1835295855998993
+Similarity: 0.8164704144001007
+Title: Using Chaos Theory based workload analysis to perform Dynamic Frequency Scaling on MPSoCs
+Abstract: Embedded systems sometimes experience transient overloads due to workload bursts. Such systems have to be designed to take timely reactions at the occurrences of unexpected situations. The development of smart techniques that focus the available computing power on these urgent events and at the same time, slow down the processing frequency during inactive periods could be the key for preserving energy. In the context of this study, we present a Dynamic Frequency Scaling technique based on the workload trend of a dynamic wireless application. The system can adjust the operation frequency by analyzing the worldoad fluctuations without degrading the final performance or violating any deadlines. In this direction, we employ an abstract model of workload analysis that combines mathematical tools from the Chaos Theory field, allowing the dynamic handling of data streams with complex behavior. To evaluate the efficiency of the proposed approach we applied it using a real application workload on a cycle-accurate Network-on-Chip simulation framework. The simulation results showed that the proposed technique could achieve remarkable improvements at the final power consumption, between 17.5% and 37.8%, depending on the system constraints. (C) 2014 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000261375300003
+Distance: 0.1918974071741104
+Similarity: 0.8081025928258896
+Title: CAD tool for hardware software co-synthesis of heterogeneous multiple processor embedded architectures
+Abstract: Hardware software co-synthesis process intends to determine an optimal architecture for an embedded application specified by a task graph or a specification language. In this paper, we present a co-synthesis approach targeting MPSoCs and distributed memory multiprocessor architectures for high performance embedded applications. Our co-synthesis approach produces pipelined multiprocessor architectures consisting of heterogeneous processing elements connected by a point-to-point communication structure. The co-synthesis process consists of four distinct phases; processing element selection for addition to the system, pipelined task allocation, scheduling and a regular interconnection topology mapping. Initially, an irregular topology is generated that is mapped to a regular architecture. Our co-synthesis methodology performs system partitioning and produces an irregular topology multiprocessor system. It also generates an optimal (or sub-optimal) regular topology architecture after considering some of the well-known regular topologies like mesh, hypercube, tree, etc. The co-synthesis method is demonstrated by exploring embedded architectures for MPEG encoder and artificially generated application task graphs representing complex embedded systems.
+
+------------
+
+Paper Id: WOS:000256572800003
+Distance: 0.20090676844120026
+Similarity: 0.7990932315587997
+Title: Network-on-Chip design and synthesis outlook
+Abstract: With the growing complexity in consumer embedded products, new tendencies forecast heterogeneous Multi-Processor Systems-On-Chip (MPSoCs) consisting of complex integrated components communicating with each other at very high-speed rates. Intercommunication requirements of MPSoCs made of hundreds of cores will not be feasible using a single shared bus or a hierarchy of buses due to their poor scalability with system size, their shared bandwidth between all the attached cores and the energy efficiency requirements of final products. To overcome these problems of scalability and complexity, Networks-On-Chip (NoCs) have been proposed as a promising replacement to eliminate many of the overheads of buses and MPSoCs connected by means of general-purpose communication architectures. However, the development of application-specific NoCs for MPSoCs is a complex engineering process that involves the definition of suitable protocols and topologies of switches, and which demands adequate design flows to minimize design time and effort. In fact, the development of suitable high-level design and synthesis tools for NoC-based interconnects is a key element to benefit from NoC-based interconnect design in nanometer-scale CMOS technologies. In this article we overview the benefits of state-of-the-art NoCs using a complete NoC synthesis flow, and a detailed scalability analysis of different NoC implementations for the latest nanometer-scale technology nodes. We present NoC-based solutions for the on-chip interconnects of MPSoCs that illustrate the benefits of competitive application-specific NoCs with respect to more regular NoC topologies regarding performance, area and power. Moreover, we show that it is currently feasible to synthesize in an automatic way a complete custom NoC interconnect from a high-level specification in few hours. Finally, we summarize future research challenges in the area of NoC interconnect design automation. (C) 2008 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000250491000006
+Distance: 0.2281026393175125
+Similarity: 0.7718973606824875
+Title: Joint hardware-software leakage minimization approach for the register file of VLIW embedded architectures
+Abstract: New applications demand very high processing power when run on embedded systems. Very Long Instruction Word (VLIW) architectures have emerged as a promising alternative to provide such processing capabilities under the given energy budget. However, in this new VLIW-based architectures, the register file is a very critical contributor to the overall power consumption and new approaches have to be proposed to reduce its power while preserving system performance. In this paper, we propose a novel joint hardware-software approach that reduces the leakage energy in the register files of these embedded VLIW architectures. This approach relies upon an energy-aware register assignment method and a hardware support that creates sub-banks in the global register file that can be switched on/off at run time. Our results indicate energy savings in the register file, after considering the overhead of the added extra hardware, up to 50% for modern multimedia embedded applications without performance degradation. We illustrate this approach using real-life applications running on these processors. We also illustrate the tradeoff between the area overhead vs. the gains in the leakage energy for the different strategies. (C) 2007 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000324173900006
+Distance: 0.228483185172081
+Similarity: 0.771516814827919
+Title: DLIC: Decoded Loop Instructions Caching for Energy-Aware Embedded Processors
+Abstract: With the explosive proliferation of embedded systems, especially through countless portable devices and wireless equipment used, embedded systems have become indispensable to the modern society and people's life. Those devices are often battery driven. Therefore, low energy consumption in embedded processors is important and becomes critical in step with the system complexity. The on-chip instruction cache (I-cache) is usually the most energy-consuming component on the processor chip due to its large size and frequent access operations. To reduce such energy consumption, the existing loop cache approaches use a tiny decoded cache to filter the I-cache access and instruction decode activity for repeated loop iterations. However, such designs are effective for small and simple loops, and only suitable for DSP kernel-like applications. They are not effectual for many embedded applications where complex loops are common. In this article, we propose a decoded loop instruction cache (DLIC) that is small, hence energy efficient, yet can capture most loops, including large nested ones with branch executions, so that a significant amount of I-cache accesses and instruction decoding can be eradicated. The experiments on a set of embedded benchmarks show that our proposed DLIC scheme can reduce energy consumption by up to 87% as compared to normal cache-only design. On average, 66% energy can be saved on instruction fetching and decoding, while at a performance overhead of only 1.4%.
+
+------------
+
+Paper Id: WOS:000293755900007
+Distance: 0.2305600941181183
+Similarity: 0.7694399058818817
+Title: Power Gating Aware Task Scheduling in MPSoC
+Abstract: Shrinking the feature size allows more and better functions on a single chip. However, it makes multiprocessor system-on-chip (MPSoC) more susceptible to various reliability threats. Power supply noise is a major reliability problem faced by low power MPSoCs using power gating techniques. Powering on and off a processing unit in MPSoCs will induce large power/ground (P/G) noise and can cause timing divergence and even functional errors in surrounding processing units. Previous work on resilient architectures mainly focused on power/thermal management and neglected the important side-effect: P/G noise induced by power gating. In this paper, for the first time, we formulate a task scheduling problem with the consideration of P/G noise based on our detailed P/G noise analysis platform for MPSoC. Two efficient algorithms are proposed to reduce noise protection penalty and improve MPSoC performance. Our experiments show that both simulated annealing and heuristic algorithms can achieve on average 25% performance improvement together with up to 80% noise protection penalty saving compared with the conservative stop-go method for short tasks (shorter than 20 K clock cycles). For longer tasks up to 200 K clock cycles, the performance improvement of our methods will become relatively low. However, we can still achieve at least 35.2% noise protection penalty saving. Furthermore, a lightweight online adjustment strategy accompanying the offline scheduling method is proposed to adapt to runtime variations and improve reliability.
+
+------------
+
+Paper Id: WOS:000355679800011
+Distance: 0.23368805646896362
+Similarity: 0.7663119435310364
+Title: Virtual Platform-Based Design Space Exploration of Power-Efficient Distributed Embedded Applications
+Abstract: Networked embedded systems are essential building blocks of a broad variety of distributed applications ranging from agriculture to industrial automation to healthcare and more. These often require specific energy optimizations to increase the battery lifetime or to operate using energy harvested from the environment. Since a dominant portion of power consumption is determined and managed by software, the software development process must have access to the sophisticated power management mechanisms provided by state-of-the-art hardware platforms to achieve the best tradeoff between system availability and reactivity. Furthermore, internode communications must be considered to properly assess the energy consumption. This article describes a design flow based on a SystemC virtual platform including both accurate power models of the hardware components and a fast abstract model of the wireless network. The platform allows both model-driven design of the application and the exploration of power and network management alternatives. These can be evaluated in different network scenarios, allowing one to exploit power optimization strategies without requiring expensive field trials. The effectiveness of the approach is demonstrated via experiments on a wireless body area network application.
+
+------------
+
+Paper Id: WOS:000350220200006
+Distance: 0.23684480786323547
+Similarity: 0.7631551921367645
+Title: Enhanced Energy-Efficient Scheduling for Parallel Tasks Using Partial Optimal Slacking
+Abstract: This paper studies the problem of energy-efficient scheduling for parallel tasks in high-performance computing systems, such as clusters and data centers. Our goal is to minimize the energy consumption of parallel tasks within a deadline constraint. Among the existing techniques that reduce the energy for computing systems, dynamic voltage and frequency scaling (DVFS) is generally considered as a promising technique that can strike a balance between the energy consumption and the performance for tasks. By using the DVFS technique, the main line of research is to slack the non-critical path tasks to reduce energy consumption of parallel tasks. However, the existing studies slack the tasks greedily and could not efficiently utilize the slack-room, i.e. the idle time of the processors. In this paper, we develop a novel slacking concept, partial optimal slacking (POS), which can take full advantage of the slack-room by slack-sharing. Our formal analysis shows that POS can lead to optimum energy reduction in the partial task set. Based on the POS concept, we propose a new scheduling algorithm for parallel tasks, namely enhanced an energy-efficient scheduling (EES) algorithm. Through extensive evaluation studies, the results demonstrate that the EES algorithm can further improve the energy efficiency of parallel tasks while meeting the deadline constraint.
+
+------------
+
+Paper Id: WOS:000362201200001
+Distance: 0.23772157728672028
+Similarity: 0.7622784227132797
+Title: An energy-delay product study on chip multi-processors for variable stage pipelining
+Abstract: Power management is a major concern for computer architects and system designers. As reported by the International Technology Roadmap for Semiconductors (ITRS), energy consumption has become one of the most dominant issues for the semiconductor industry when the size of transistors scales down from 22 to 11 nm nodes. In this regard, current existing techniques such as dynamic voltage scaling, clock gating, and the Complementary metal-oxide semiconductor technology have shown their physical limits; therefore, scaling will no longer be a valid strategy for achieving power-performance improvement. To overcome this critical issue in energy-efficient processor design, there is a clear demand for alternative solution. In this paper, an approach that provides a promising solution for energy reduction is proposed, by using a micro-architectural technique referred to as variable stage pipelining, which can be further validated and extended to different application domains such as mobile and desktop. An analytical model for evaluating the relationship between the number of cores and the pipeline stage depth in a chip multi-processor is also proposed, based on which the optimal pipeline depth for various metrics are calculated.
+
+------------
+
+Paper Id: WOS:000320946200009
+Distance: 0.23805364966392517
+Similarity: 0.7619463503360748
+Title: Task Allocation on Nonvolatile-Memory-Based Hybrid Main Memory
+Abstract: In this paper, we consider the task allocation problem on a hybrid main memory composed of nonvolatile memory (NVM) and dynamic random access memory (DRAM). Compared to the conventional memory technology DRAM, the emerging NVM has excellent energy performance since it consumes orders of magnitude less leakage power. On the other hand, most types of NVMs come with the disadvantages of much shorter write endurance and longer write latency as opposed to DRAM. By leveraging the energy efficiency of NVM and long write endurance of DRAM, this paper explores task allocation techniques on hybrid memory for multiple objectives such as minimizing the energy consumption, extending the lifetime, and minimizing the memory size. The contributions of this paper are twofold. First, we design the integer linear programming (ILP) formulations that can solve different objectives optimally. Then, we propose two sets of heuristic algorithms including three polynomial time offline heuristics and three online heuristics. Experiments show that compared to the optimal solutions generated by the ILP formulations, the offline heuristics can produce near-optimal results.
+
+------------
+
+Paper Id: WOS:000355669800005
+Distance: 0.23921383917331696
+Similarity: 0.760786160826683
+Title: Execution Trace-Driven Energy-Reliability Optimization for Multimedia MPSoCs
+Abstract: Multiprocessor systems-on-chip (MPSoCs) are becoming a popular design choice in current and future technology nodes to accommodate the heterogeneous computing demand of a multitude of applications enabled on these platform. Streaming multimedia and other communication-centric applications constitute a significant fraction of the application space of these devices. The mapping of an application on an MPSoC is an NP-hard problem. This has attracted researchers to solve this problem both as stand-alone (best-effort) and in conjunction with other optimization objectives, such as energy and reliability. Most existing studies on energy-reliability joint optimization are static-that is, design time based. These techniques fail to capture runtime variability such as resource unavailability and dynamism associated with application behaviors, which are typical of multimedia applications. The few studies that consider dynamic mapping of applications do not consider throughput degradation, which directly impacts user satisfaction. This article proposes a runtime technique to analyze the execution trace of an application modeled as Synchronous Data Flow Graphs (SDFGs) to determine its mapping on a multiprocessor system with heterogeneous processing units for different fault scenarios. Further, communication energy is minimized for each of these mappings while satisfying the throughput constraint. Experiments conducted with synthetic and real SDFGs demonstrate that the proposed technique achieves significant improvement with respect to the state-of-the-art approaches in terms of throughput and storage overhead with less than 20% energy overhead.
+
+------------
+
+Paper Id: WOS:000289448300002
+Distance: 0.2422132045030594
+Similarity: 0.7577867954969406
+Title: RAFT: A router architecture with frequency tuning for on-chip networks
+Abstract: With increasing number of cores being integrated on a single die, Network-on-Chips (NoCs) have become the de-facto standard in providing scalable communication backbones for these multi-core chips. NoCs have a significant impact on the system's performance, power and reliability. However, NoCs can be plagued by higher power consumption and degraded throughput if the network and router are not designed properly. Towards this end, this paper proposes a novel router architecture, where we tune the frequency of a router in response to network load to manage both performance and power. We propose three dynamic frequency tuning techniques, FreqBoost, FreqThrtl and FreqTune, targeted at congestion and power management in NoCs. We also propose and evaluate a novel fine-grained frequency tuning scheme where we vary the number of virtual-channels in a router dynamically. As a further optimization to these schemes, we propose a frequency tuning scheme where we tune the frequency of the four ports of a mesh router separately from the local port. As enablers for these techniques, we exploit Dynamic Voltage and Frequency Scaling (DVFS) and the imbalance in a generic router pipeline through time stealing. We also evaluate and analyze the proposed schemes from the point of view of reliability against soft error vulnerability and provide guidelines in choosing the appropriate scheme when reliability is the prime design constraint. Experiments using synthetic workloads on an 8 x 8 wormhole-switched mesh interconnect show that FreqBoost is a better choice for reducing average latency (maximum 40%) while, FreqThrtl provides the maximum benefits in terms of power saving and energy delay product (EDP). The FreqTune scheme is a better candidate for optimizing both performance and power, achieving on an average 36% reduction in latency, 13% savings in power (up to 24% at high load), and 40% savings (up to 70% at high load) in EDP. With application benchmarks, we observe IPC improvement up to 23% using our design. Our analysis shows FreqBoost to be the most robust scheme amongst the three schemes when reliability is a concern. (C) 2010 Elsevier Inc. All rights reserved.
+
+------------
+
+Paper Id: WOS:000293755900014
+Distance: 0.24316053092479706
+Similarity: 0.7568394690752029
+Title: Temperature-Aware Scheduling and Assignment for Hard Real-Time Applications on MPSoCs
+Abstract: Increasing integrated circuit (IC) power densities and temperatures may hamper multiprocessor system-on-chip (MPSoC) use in hard real-time systems. This paper formalizes the temperature-aware real-time MPSoC assignment and scheduling problem and presents an optimal phased steady-state mixed integer linear programming-based solution that considers the impact of scheduling and assignment decisions on MPSoC thermal profiles to directly minimize the chip peak temperature. We also introduce a flexible heuristic framework for task assignment and scheduling that permits system designers to trade off accuracy for running time when solving large problem instances. Finally, for task sets with sufficient slack, we show that inserting idle times between task executions can further reduce the peak temperature of the MPSoC quite significantly.
+
+------------
+
+Paper Id: WOS:000313073300003
+Distance: 0.2431642711162567
+Similarity: 0.7568357288837433
+Title: PASTA: a power-aware solution to scheduling of precedence-constrained tasks on heterogeneous computing resources
+Abstract: Power efficiency is one of the main challenges in large-scale distributed systems such as datacenters, Grids, and Clouds. One can study the scheduling of applications in such large-scale distributed systems by representing applications as a set of precedence-constrained tasks and modeling them by a Directed Acyclic Graph. In this paper we address the problem of scheduling a set of tasks with precedence constraints on a heterogeneous set of Computing Resources (CRs) with the dual objective of minimizing the overall makespan and reducing the aggregate power consumption of CRs. Most of the related works in this area use Dynamic Voltage and Frequency Scaling (DVFS) approach to achieve these objectives. However, DVFS requires special hardware support that may not be available on all processors in large-scale distributed systems. In contrast, we propose a novel two-phase solution called PASTA that does not require any special hardware support. In its first phase, it uses a novel algorithm to select a subset of available CRs for running an application that can balance between lower overall power consumption of CRs and shorter makespan of application task schedules. In its second phase, it uses a low-complexity power-aware algorithm that creates a schedule for running application tasks on the selected CRs. We show that the overall time complexity of PASTA is where is the number of CRs and is the number of tasks. By using simulative experiments on real-world task graphs, we show that the makespan of schedules produced by PASTA are approximately 20 % longer than the ones produced by the well-known HEFT algorithm. However, the schedules produced by PASTA consume nearly 60 % less energy than those produced by HEFT. Empirical experiments on a physical test-bed confirm the power efficiency of PASTA in comparison with HEFT too.
+
+------------
+
+Paper Id: WOS:000285875500011
+Distance: 0.24332749843597412
+Similarity: 0.7566725015640259
+Title: Parametric Timing Analysis and Its Application to Dynamic Voltage Scaling
+Abstract: Embedded systems with real-time constraints depend on a priori knowledge of worst-case execution times (WCETs) to determine if tasks meet deadlines. Static timing analysis derives bounds on WCETs but requires statically known loop bounds. This work removes the constraint on known loop bounds through parametric analysis expressing WCETs as functions. Tighter WCETs are dynamically discovered to exploit slack by dynamic voltage scaling (DVS) saving 60% to 82% energy over DVS-oblivious techniques and showing savings close to more costly dynamic-priority DVS algorithms. Overall, parametric analysis expands the class of real-time applications to programs with loop-invariant dynamic loop bounds while retaining tight WCET bounds.
+
+------------
+
+Paper Id: WOS:000334672900019
+Distance: 0.2433912605047226
+Similarity: 0.7566087394952774
+Title: Reducing Peak Power Consumption in Multi-Core Systems without Violating Real-Time Constraints
+Abstract: The potential of multi-core chips for high performance and reliability at low cost has made them ideal computing platforms for embedded real-time systems. As a result, power management of a multi-core chip has become an important issue in the design of embedded real-time systems. Most existing approaches have been designed to regulate the behavior of average power consumption, such as minimizing the total energy consumption or the chip temperature. However, little attention has been paid to the worst-case behavior of instantaneous power consumption on a chip, called chip-level peak power consumption, an important design parameter that determines the cost and/or size of chip design/packaging and the underlying power supply. We address this problem by reducing the chip-level peak power consumption at design time without violating any real-time constraints. We achieve this by carefully scheduling real-time tasks, without relying on any additional hardware implementation for power management, such as dynamic voltage and frequency scaling. Specifically, we propose a new scheduling algorithm FP Theta that restricts the concurrent execution of tasks assigned on different cores, and perform its schedulability analysis. Using this analysis, we develop a method that finds a set of concurrent executable tasks, such that the design-time chip-level peak power consumption is minimized and all timing requirements are met. We demonstrate via simulation that the proposed method not only keeps the design-time chip-level peak power consumption as low as the theoretical lower bound for trivial cases, but also reduces the peak power consumption for non-trivial cases by up to 12: 9 percent compared to the case of no restriction on concurrent task execution.
+
+------------
+
+Paper Id: WOS:000321216900005
+Distance: 0.24525277316570282
+Similarity: 0.7547472268342972
+Title: Configurable Memory Security in Embedded Systems
+Abstract: System security is an increasingly important design criterion for many embedded systems. These systems are often portable and more easily attacked than traditional desktop and server computing systems. Key requirements for system security include defenses against physical attacks and lightweight support in terms of area and power consumption. Our new approach to embedded system security focuses on the protection of application loading and secure application execution. During secure application loading, an encrypted application is transferred from on-board flash memory to external double data rate synchronous dynamic random access memory (DDR-SDRAM) via a microprocessor. Following application loading, the core-based security technique provides both confidentiality and authentication for data stored in a microprocessor's system memory. The benefits of our low overhead memory protection approaches are demonstrated using four applications implemented in a field-programmable gate array (FPGA) in an embedded system prototyping platform. Each application requires a collection of tasks with varying memory security requirements. The configurable security core implemented on-chip inside the FPGA with the microprocessor allows for different memory security policies for different application tasks. An average memory saving of 63% is achieved for the four applications versus a uniform security approach. The lightweight circuitry included to support application loading from flash memory adds about 10% FPGA area overhead to the processor-based system and main memory security hardware.
+
+------------
+
+Paper Id: WOS:000264816400005
+Distance: 0.2467188537120819
+Similarity: 0.7532811462879181
+Title: A Speculative and Adaptive MPI Rendezvous Protocol Over RDMA-enabled Interconnects
+Abstract: Overlapping computation with communication is a key technique to conceal the effect of communication latency on the performance of parallel applications. Message Passing Interface (MPI) is a widely used message passing standard for high performance computing. One of the most important factors in achieving a good level of overlap is the MPI ability to make progress on outstanding communication operations. In this paper, we propose a novel speculative MPI Rendezvous protocol that uses RDMA Read and RDMA Write to effectively improve communication progress and consequently the overlap ability. Performance results based on a modified MPICH2 implementation over 10-Gigabit iWARP Ethernet reveal a significant (80-100%) improvement in receiver side overlap and progress ability. We have also observed up to 30% improvement in application wait time for some NPB applications as well as the RADIX application. For applications that do not benefit from this protocol, an adaptation mechanism is used to stop the speculation to effectively reduce the protocol overhead.
+
+------------
+
+
+###################################
+

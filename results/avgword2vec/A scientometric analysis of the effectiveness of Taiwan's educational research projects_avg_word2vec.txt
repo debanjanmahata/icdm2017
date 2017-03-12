@@ -1,0 +1,157 @@
+Related papers
+
+Paper Id: WOS:000305686800005
+Distance: 0.1817135363817215
+Similarity: 0.8182864636182785
+Title: Measuring the use of public research in firm R&D in the Hsinchu Science Park
+Abstract: Knowledge flow between public and private sectors is widely recognized as a way to stimulate innovation and regional development, particularly in science parks. This work employs a bibliometric approach, based on patent citation, non-patent citation, and public-private co-authorship of scientific publications to measure the use of public research in Hsinchu Science Park (HSP) in Taiwan. The result shows that the number of jointly published papers has increased constantly, implying the collaboration between HSP and universities has become more common. However, from the aspect of co-patenting, patent citation, and non-patent reference, technological innovation stemming from public research needs to be enhanced.
+
+------------
+
+Paper Id: WOS:000334277800021
+Distance: 0.18948961794376373
+Similarity: 0.8105103820562363
+Title: Exploring scientific articles contributed by industries in Taiwan
+Abstract: The scientific knowledge contributed by industries remains ambiguous because prior studies have evaluated only specific industries, large companies, or industries collaborating with universities. We conducted a bibliometric analysis of data in the Web of Science database to explore the research partners of industries and determine which industries generate scientific articles, observing industrial trends in Taiwan from 1982 to 2011. The results showed that articles were published related to 26 industries, and the electronic components industry generated the highest percentage of articles (42.4 %), followed by the computer, electronics, and optical product industry (12.3 %). High-tech industries dominated, generating 84.5 % of the articles and demonstrating an annual increase in publications. In addition, industry researchers tended to cooperate with researchers affiliated with domestic institutions, particularly universities. Those in high-tech industries produced a higher percentage of articles coauthored with universities compared with those in low-tech industries.
+
+------------
+
+Paper Id: WOS:000297708000018
+Distance: 0.19315101206302643
+Similarity: 0.8068489879369736
+Title: Knowledge-based innovation and collaboration: a triple-helix approach in Saudi Arabia
+Abstract: This study analyzed the research productivity of Saudi academics using the triple-helix model. In the analysis, we combined domestic and international collaboration by three sectors-university, industry, and government-according to the model of the triple-helix. This approach produces better results than by simply including international collaboration as fourth sector. According to the analysis, research collaboration in Saudi Arabia which is measured by the triple-helix, was "-" uncertainty (negative T-value) while scientific productivity has been dramatically increasing since the late 2000s. The triple-helix collaboration does not quite differ between domestic collaboration and "domestic and international" collaborations. In our further analysis, we found that technological development was not based on scientific research in Saudi Arabia; rather, the technological development relies on prior technology (patent references). From that point, Saudi Arabia's current long-term strategic plan to develop a scientific base for a knowledge-based industry is well aligned to the current contexts of Saudi Arabia.
+
+------------
+
+Paper Id: WOS:000278664600008
+Distance: 0.20071406662464142
+Similarity: 0.7992859333753586
+Title: Predicting continuance in online communities: model development and empirical test
+Abstract: Popular interest in online communities has grown rapidly in recent years as a result of the widespread diffusion of Web 2.0 applications. However, the full values and potential of online communities cannot be realised without users' ongoing participation. Thus, this study aims at developing and empirically testing a research model to examine users' continuance intention to participate in an online community based on an extended information systems (IS) continuance model. Specifically, entertainment value and affective commitment are included in the IS continuance model and empirically examined in the context of online communities. A total of 240 returns collected from an online survey, which was conducted among users of a website bulletin board-based community in China, were analysed using partial least squares. The results reveal that users' continuance intention to participate in an online community is determined by both satisfaction and affective commitment. Satisfaction and affective commitment are, in turn, influenced by positive disconfirmations of purposive and entertainment values. The findings of this study contribute not only to theory building in online community continuance but also inform online community moderators in their effort to develop strategies for retaining their users.
+
+------------
+
+Paper Id: WOS:000300836500005
+Distance: 0.20080667734146118
+Similarity: 0.7991933226585388
+Title: The availability of open access journals in the humanities and social sciences in China
+Abstract: We identified and analysed the 147 journals offering open access (OA) among the 2960 scholarly journals indexed by the Chinese National Knowledge Information (CNKI) database in the humanities and social sciences. Data were analysed concerning each journal's organizer, discipline, publishing cycle, areas, regions or provinces covered, and first date that content was offered free of charge, together with the journal's website construction, the way full text was accessed, and the time delay in publication. On the basis of the survey results, we identify key challenges and problems associated with OA journals in the humanities and social sciences in China, and we outline development strategies to address these issues, including actively promoting the transition of scholarly journals from print form to OA, speeding up network construction of OA journals, and enhancing the functionality of the OA journals' websites.
+
+------------
+
+Paper Id: WOS:000315014600001
+Distance: 0.2103896588087082
+Similarity: 0.7896103411912918
+Title: Sense of virtual community and knowledge contribution in a P3 virtual community Motivation and experience
+Abstract: Purpose - The aim of this paper is to employ the perspectives of uses and gratification theory and experiential marketing to investigate the antecedents of virtual community (VC) members' attitude formation and knowledge-contribution intention through the sense of virtual community (SOVC) and the interaction between their motivations and experiences in a peer-to-peer problem solving (P3) VC. Design/methodology/approach - This study chose a well-known professional IT VC in Taiwan, the ITHelp community, as the target for data collection. An online survey linked from the homepage of this community was used through the cooperation of the vendor of this community. This study employs the partial least squares (PIS) method to examine the research model. Findings The results show that members' attitudes toward their VCs are determined by the interaction between their motivations for and experiences with P3 VC usages. Moreover, SOVC plays full mediating roles in the relationship between attitude toward P3 VC and knowledge-contribution intention. Research limitations/implications - VC managers need to aim at creating pleasant experiences for their members and foster their belongingness and consciousness to form higher SOVC. The conclusions are restricted to a VC that involves IT-related issues, which focuses problem solving rather than being socially oriented. Members of IT P3 VCs are usually highly innovative and enthusiastic about new IT products, which is quite different from the membership of other P3 VCs. Originality/value - Extant studies seldom considered the effects of SOVC and members' experiences on knowledge-contribution behavior. The mediating role of SOVC and the interaction between motivations and experience can enhance our understanding about online knowledge-contribution behavior.
+
+------------
+
+Paper Id: WOS:000342228300035
+Distance: 0.2167196273803711
+Similarity: 0.7832803726196289
+Title: Current performance and future trends in health care sciences and services research
+Abstract: Health care sciences and services research (HCSSR) has come to the fore in recent years and related research literature increased rapidly over the last few decades. The main purpose of this study is to describe the global progress and to determine the current trends on HCSSR by using a scientometrics approach to survey related literature in the Web of Science database from 1900 to 2012. The document types, languages, publication patterns, subject categories, journals, geographic and institutional distributions, top cited articles, and the distribution of keywords were thoroughly examined. The results show that HCSSR has increased rapidly over the past 20 years, most notably in the last decade. In total, there are currently 128,728 research articles in 156 journals listed in 39 WoS subject categories. The top 20 most productive countries, and institutions were analyzed in detail, and 11 frequently cited papers and research foci were identified based on citation analysis. HCSSR spans many disciplines and focuses mainly on public, environmental & occupational health and education educational research. Medical Care, Academic Medicine, Health Affairs and Journal of School Health are the core journals with both high quantity and quality. High-income countries make up the leading nations, especially G7 countries. Meanwhile, "emerging economies" are also increasingly engaging this field. American and Canadian institutions have made greater advances in productions, citations, and cooperation, with stronger and better development prospects overall. The hot topics include internet use and decision making in health care, palliative care and end of life research, health status and quality of life, quality of healthcare and patient's satisfaction, medical education, and health communication. Also, most researchers tend to study health care sciences based on the topics of quality-of-life assessment, and their interest in quality-of-life measures has increased. Increasing attention has been paid to the developing countries, especially "emerging economies" like China. Although health research has made much progress, many questions still remain unanswered and there are few assessments of how well research systems carry out their essential functions. Hence, there is currently an urgent need for timely establishment of an effective health research system.
+
+------------
+
+Paper Id: WOS:000323437400015
+Distance: 0.2180199921131134
+Similarity: 0.7819800078868866
+Title: Principal parameters affecting R&D exploitation of nanotechnology research: a case for Korea
+Abstract: The purpose of this study is to determine principal parameters which affect the R&D exploitation and to explore R&D activities in closed science that positively affect those in open science. Based on 486 nanotechnology projects from five national R&D programs in South Korea, canonical correlation analysis is used to analyze the relationships among R&D parameters of inputs, outputs and outcomes and to determine principle parameters. As a result, this study concludes that the principal parameters are publications with high impact, patents, and academic degrees. This study also shows a positive correlation between activities in open science and closed science. The conclusions suggest that research results with high impact value should be endorsed by the Korean government and should try to keep a balance between R&D exploitation in open science and closed science. This study would be used for establishing South Korea's R&D policy effective for faster commercialization of nanotechnology related research.
+
+------------
+
+Paper Id: WOS:000252820800009
+Distance: 0.21807338297367096
+Similarity: 0.781926617026329
+Title: The KM chain - Empirical study of the vital knowledge sourcing links
+Abstract: Knowledge management is an important element for success in the modem organization. Much current research has focused on the implementation of IT infrastructures in creating an effective knowledge management system. However, literature has suggested a number of other factors which must be considered. This study proposes a knowledge management model that views IT application and worker learning motivation as critical factors which promote knowledge sourcing activities, knowledge sourcing activities then stimulate learning outcomes in knowledge acquisition and application. Sample data collected from a high-tech company in Taiwan (n = 466) were analyzed using structural equation modeling (SEM). Results showed that IT application and learning motivation are critical elements in successful knowledge management. Specifically, IT application and learning motivation influences learning outcome indirectly through knowledge sourcing channels, indicating that it is crucial for organizations to promote various channels of knowledge sharing in conjunction with IT investments and fostering learning motivation.
+
+------------
+
+Paper Id: WOS:000263817100145
+Distance: 0.21807490289211273
+Similarity: 0.7819250971078873
+Title: A structural equation analysis of the QSL relationship with passenger riding experience on high speed rail: An empirical study of Taiwan and Korea
+Abstract: Taiwan High Speed Rail (THSR) began operations in early 2007 after nearly three decades spent initiating project, planning and acquiring land, creating detailed designs and undergoing civil construction. Currently. the franchised corporation operates trains at a top speed of 300 km/h when running from north to south in Taiwan. Service Quality, customer Satisfaction, and Loyalty (QSL) continue to be the critical factors that influence long-term operation, growth, and profits of service-oriented transportation systems. In this article, a structural equation model (SEM) is first proposed and then respecified in order to measure the impact of mediating variables in the passenger continuance behavior on the QSL chain with high speed rail (HSR) service. Furthermore, a cross-country comparison of the actual riding experience an the THSR and Korea Train express (KTX) was demonstrated by analyzing different groups of respondents. The empirical Study verified that the QSL relationship is influenced by the introduction of mediating variables, such as corporate image and passenger complaints, into the HSR service industry. This analysis provides an evidential basis with the evaluating indicators so that the management team can deploy an effective marketing strategy, achieve continuous quality improvement, and efficiently manage customer relationships to ensure passengers' future commitment and confidence in the HSR systems. (c) 2008 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000298061100007
+Distance: 0.22207589447498322
+Similarity: 0.7779241055250168
+Title: Trust Formation in E-Commerce: The Moderating Effect of Trust Propensity
+Abstract: The Internet makes communication easier at lower cost. It is estimated that 60% of people in Taiwan have purchased products through e-channels such as online stores or auction websites. Although the ratio again increased rapidly in 2008, 35% of consumers on average spent less than NT$1,000. How to attract other 40% has a very important role to play in the future development of e-commerce. Many believe that the trustworthiness of the website is one of the key success factors in terms of positively influencing consumers' purchasing behavior. In this study, we refer to the literature to propose a research model that consists of three independent variables, namely, institutional trust, trust propensity, and interpersonal trust, as well as the moderating effect of trust propensity on the relationship between trust formation and the other two independent variables. We find that these three variables have positive effects on trust formation in e-commerce. The moderating effect of trust propensity however is found to only exist between interpersonal trust and trust formation, but not between institutional trust and trust formation. Overall, the interpretation of the model which considers the direct and moderating effect of the variables is better than that of the model which only considers the direct effect of variables.
+
+------------
+
+Paper Id: WOS:000300749800003
+Distance: 0.22219312191009521
+Similarity: 0.7778068780899048
+Title: Social research 2.0: virtual snowball sampling method using Facebook
+Abstract: Purpose - The aim of this paper is to present a sampling method using virtual networks to study "hard-to-reach" populations. In the ambit of social research, the use of new technologies is still questioned because the selection bias is an obstacle to carry on scientific research on the Internet. In this regard, the authors' hypothesis is that the use of social networking sites (Web 2.0) can be effective for the study of "hard-to-reach" populations. The main advantages of this technique are that it can expand the geographical scope and facilitates the identification of individuals with barriers to access. Therefore, the use of virtual networks in non-probabilistic samples can increase the sample size and its representativeness. Design/methodology/approach - To test this hypothesis, a virtual method was designed using Facebook to identify Argentinean immigrant entrepreneurs in Spain (214 cases). A characteristic of this population is that some individuals are administratively invisible in national statistics because they have double nationality (non-EU and EU). The use of virtual sampling was combined with an online questionnaire as a complementary tool for Web 2.0 research in behavioural sciences. Findings - The number of cases detected by Facebook and the virtual response rate is higher than traditional snowball technique. The explanation is that people increase their level of confidence because the researcher shows his personal information (Facebook's profile) and also participates in their groups of interest (Facebook's groups). Moreover, the online questionnaires administration allows the quality of the information to be controlled and avoids duplication of cases. Originality/value - The present article is the first that uses Facebook as an instrument to study immigrants. Therefore its adoption represents a great challenge in the social research field because there are many barriers of access and search. It also proposes a novel mix of traditional methodologies updated with the use of new virtual possibilities of studying hard to reach populations, especially in areas of social research where the contributions of these methods are less developed.
+
+------------
+
+Paper Id: WOS:000325475300012
+Distance: 0.22244243323802948
+Similarity: 0.7775575667619705
+Title: A co-word analysis of library and information science in China
+Abstract: This study aims to reveal the intellectual structure of Library and Information Science (LIS) in China during the period 2008-2012 utilizing co-word analysis. The status and trends of LIS in China are achieved by measuring the correlation coefficient of selected keywords extracted from relevant journals in the Chinese Journal Full-Text Database. In co-word analysis, multivariate statistical analysis and social network analysis are applied to obtain 13 clusters of keywords, a two-dimensional map, centrality and density of clusters, a strategic diagram and a relation network. Based on these results, the following conclusions can be drawn: (i) LIS in China has some established and well-developed research topics; (ii) a few emerging topics have a great potential for development; and (iii), the research topics in this LIS field are largely decentralized as a whole, where there are many marginal and immature topics.
+
+------------
+
+Paper Id: WOS:000351395800009
+Distance: 0.22249171137809753
+Similarity: 0.7775082886219025
+Title: A Study of Research Collaboration in the Pre-Web and Post-Web Stages: A Coauthorship Analysis of the Information Systems Discipline
+Abstract: To explore the possible facilitative role of the Internet in the process of research collaboration, this study endeavored to systematically compare the phenomenon of co-authorship and the impacts of co-authorship between pre-web and post-web stages in the field of information systems. Three hypotheses were proposed in this study. First, research collaboration increases in the post-web stage relative to the pre-web stage. Second, research collaboration is positively related to research impact, operationally defined as the number of citations. Lastly, the positive relationship between research collaboration and research impact is stronger in the post-web stage than that in the pre-web stage. Articles published in the field of information systems in both time periods were collected to test the hypotheses. The empirical results strongly support H1 and H2, showing that co-authorship increases in the post-web stage, and positively correlates with citations received by information systems articles. The positive effects of interdisciplinary collaborations and collaborations among multiple authors are enhanced in the post-web stage, but such enhancement is not found for international collaboration. H3 is partially supported.
+
+------------
+
+Paper Id: WOS:000277580700014
+Distance: 0.22265474498271942
+Similarity: 0.7773452550172806
+Title: Social networks and physician adoption of electronic health records: insights from an empirical study
+Abstract: Objective To study how social interactions influence physician adoption of an electronic health records (EHA) system. Design A social network survey was used to delineate the structure of social interactions among 40 residents and 15 attending physicians in an ambulatory primary care practice. Social network analysis was then applied to relate the interaction structures to individual physicians' utilization rates of an EHR system. Measurements The social network survey assessed three distinct types of interaction structures: professional network based on consultation on patient care-related matters; friendship network based on personal intimacy; and perceived influence network based on a person's perception of how other people have affected her intention to adopt the EHA system. EHR utilization rates were measured as the proportion of patient visits in which sentinel use events consisting of patient data documentation or retrieval activities were recorded. The usage data were collected over a time period of 14 months from computer-recorded audit trail logs. Results Neither the professional nor the perceived influence network is correlated with EHR usage. The structure of the friendship network significantly influenced individual physicians' adoption of the EHR system. Residents who occupied similar social positions in the friendship network shared similar EHR utilization rates (p<0.05). In other words, residents who had personal friends in common tended to develop comparable levels of EHR adoption. This effect is particularly prominent when the mutual personal friends of these 'socially similar' residents were attending physicians (p<0.001). Conclusions Social influence affecting physician adoption of EHR seems to be predominantly conveyed through interactions with personal friends rather than interactions in professional settings.
+
+------------
+
+Paper Id: WOS:000278279300001
+Distance: 0.2229231595993042
+Similarity: 0.7770768404006958
+Title: Mobile internet diffusion in China: an empirical study
+Abstract: Purpose - The purpose of this paper is to investigate the diffusion process of mobile Internet use (MIU) in China and to explore the determinants driving MIU. Design/methodology/approach - A survey was conducted to collect data to empirically assess the research model. In total, 736 usable responses were collected using a questionnaire derived from previous research. Both the structural equation model and partial least squares were used to study the model concerning different user groups. Findings - The results indicate that there are significant differences in the users' perceptions of mobile interne usage during its different innovation diffusion stages. Of the determinants, perceived enjoyment is the most important predictor of MIU. Practical implications - In addition to motivating users by making services more enjoyable, the findings suggest that practitioners should take the differences of adopter groups into account. Making the mobile internet easy to use and compatible with users' lifestyles would promote the use of technology as well. Originality/value - Few studies have investigated the differences between user groups when studying mobile internet diffusion, especially in China, which is reaching a critical stage in this regard.
+
+------------
+
+Paper Id: WOS:000327219900004
+Distance: 0.22309085726737976
+Similarity: 0.7769091427326202
+Title: The suitability of h and g indexes for measuring the research performance of institutions
+Abstract: It is becoming ever more common to use bibliometric indicators to evaluate the performance of research institutions, however there is often a failure to recognize the limits and drawbacks of such indicators. Since performance measurement is aimed at supporting critical decisions by research administrators and policy makers, it is essential to carry out empirical testing of the robustness of the indicators used. In this work we examine the accuracy of the popular "h" and "g" indexes for measuring university research performance by comparing the ranking lists derived from their application to the ranking list from a third indicator that better meets the requirements for robust and reliable assessment of institutional productivity. The test population is all Italian universities in the hard sciences, observed over the period 2001-2005. The analysis quantifies the correlations between the three university rankings (by discipline) and the shifts that occur under changing indicators, to measure the distortion inherent in use of the h and g indexes and their comparative accuracy for assessing institutions.
+
+------------
+
+Paper Id: WOS:000324622200006
+Distance: 0.22317734360694885
+Similarity: 0.7768226563930511
+Title: Technology Acceptance and Quality of Life of the Elderly in a Telecare Program
+Abstract: As information and communication technology applied to telecare has become a trend in elder care services, evaluation of the program is vital for further program design and development. This study evaluated the variables influencing the use of a telecare service program by the elderly. A questionnaire survey was used to explore the relationship between quality of life and technology acceptance of a telecare program in Taiwan. In addition, open-ended questions were used to elicit qualitative information regarding the experience of technology use. The results revealed that elderly persons with better social welfare status and health condition, who used the device frequently, had higher quality of life and accepted technology use. The correlation results also indicated that elderly persons who perceived telecare as useful in solving health problems, had the intention to use the program, and were willing to continue use, also had a better perception toward quality of life regarding their interpersonal relationships and living environment. Nonetheless, cost may be an issue that will impede their willingness to use the technology in care service.
+
+------------
+
+Paper Id: WOS:000368457300004
+Distance: 0.22416144609451294
+Similarity: 0.7758385539054871
+Title: Exploring the Impacts of Social Networking on Brand Image and Purchase Intention in Cyberspace
+Abstract: Social networking websites have become increasingly popular, and have also become the main media not only to connect lives socially, but also to affect brand image and consumers' purchase intention. The purpose of this paper is to incorporate the Facebook fan page and e-journal provide over the Internet (cloud e-journal) with the uses and gratification theory to test the impact on brand image and purchase intention through the use of cloud learning. We used cloud learning material from the Ivy League in Taiwan in our case study. This paper also applied structural equation modeling to analyze the data collected from members of the Ivy League Facebook fan page and the Cloud users' e-journal. The results of this study demonstrated that for the members of the Ivy League Facebook fan page, purchase intention was positively and significantly influenced, regardless of any use intention factors, based on the uses and gratification theory. In addition, using the Facebook fan page and Cloud e-journal would also positively and significantly affect the brand image for Internet users. Moreover, with the Ivy League fan page and the Cloud e-journal's improved brand image, there is an increase in intention to buy the journals and relevant services. This paper also demonstrated that six features of the Cloud e-journal did have a moderating effect on the purchase intention. Our results provide suggestions to those who attempt to build cloud learning solutions for customers, and are also helpful to those who wish to apply the Facebook fan page to customer relationship marketing platforms.
+
+------------
+
+
+###################################
+

@@ -1,0 +1,117 @@
+Related papers
+
+Paper Id: WOS:000288681400011
+Similarity: 0.5954222679138184
+Distance: 0.40457773208618164
+Title: Floorplanning Considering IR Drop in Multiple Supply Voltages Island Designs
+Abstract: Voltage island has become a very effective design style for power saving in low-power design. However, the new design style also brings forward new challenges, especially to the designers of power/ground (P/G) networks. In this paper, we study the power delivery problem in voltage island designs, and propose to consider voltage drop during the floorplanning process to reduce design iterations. Our analysis shows that it is unnecessary to consider the pitch of the P/G network in the floorplan stage. By using the simplified searching strategy in floorplanning, we can obtain more robust low power design within reasonable runtime. Experimental results have demonstrated the effectiveness of our approach.
+
+------------
+
+Paper Id: WOS:000321216900009
+Similarity: 0.5765661597251892
+Distance: 0.4234338402748108
+Title: Power-Aware Dynamic Mapping Heuristics for NoC-Based MPSoCs Using a Unified Model-Based Approach
+Abstract: The mapping of tasks to processing elements of an MPSoC has critical impact on system performance and energy consumption. To cope with complex dynamic behavior of applications, it is common to perform task mapping during runtime so that the utilization of processors and interconnect can be taken into account when deciding the allocation of each task. This paper has two major contributions, one of them targeting the general problem of evaluating dynamic mapping heuristics in NoC-based MPSoCs, and another focusing on the specific problem of finding a task mapping that optimizes energy consumption in those architectures.
+
+------------
+
+Paper Id: WOS:000361531500014
+Similarity: 0.5476599335670471
+Distance: 0.4523400664329529
+Title: Voltage scaling and dark silicon in symmetric multicore processors
+Abstract: As technology scales further, multicore and many-core processors emerge as an alternative to keep up with performance demands. However, because of power and thermal constraints, we are obliged to power off remarkable area of chip. Many innovative techniques have been presented to improve energy efficiency and maintain utilization at the highest level. In this paper, we discuss different models and methods of exploiting dark silicon, and by using dynamic voltage and frequency scaling in Amdahl's law and considering memory overheads, we attempt to decrease amount of dark silicon and improve performance and performance per watt/joule. We propose high-performance and energy-efficient multicore architectures for variety of parallelisms and memory-intensities in workloads. According to the results, by voltage scaling, for a highly parallel CPU-intensive workload, we reach improvements of approximately and in performance per watt and performance per joule, respectively, while about 27 % reduction of performance should be tolerated. For memory-intensive applications, a negligible change in speedup is detected by scaling, while performance per watt and performance per joule for both serial and parallel applications lead to around enhancements.
+
+------------
+
+Paper Id: WOS:000353749300004
+Similarity: 0.5442561507225037
+Distance: 0.45574384927749634
+Title: Dynamic MIPS Rate Stabilization for Complex Processors
+Abstract: Modern microprocessor cores reach their high performance levels with the help of high clock rates, parallel and speculative execution of a large number of instructions, and vast cache hierarchies. Modern cores also have adaptive features to regulate power and temperature and avoid thermal emergencies. All of these features contribute to highly unpredictable execution times. In this article, we demonstrate that the execution time of in-order (IO), out-of-order (OoO), and OoO simultaneous multithreaded processors can be stable and predictable by stabilizing their mega instructions executed per second (MIPS) rate via a proportional, integral, and differential (PID) gain feedback controller and dynamic voltage and frequency scaling (DVFS). Processor cores in idle cycles are continuously consuming power, which is highly undesirable in systems, especially in real-time systems. In addition to meeting deadlines in real-time systems, our MIPS rate stabilization framework can be applied on top of it to reduce power and energy by avoiding idle cycles. If processors are equipped with MIPS rate stabilization, the execution time can be predicted. Because the MIPS rate remains steady, a stabilized processor meets deadlines on time in real-time systems or in systems with quality-of-service execution latency requirements at the lowest possible frequency. To demonstrate and evaluate this capability, we have selected a subset of the MiBench benchmarks with the widest execution rate variations. We stabilize their MIPS rate on a 1GHz Pentium III-like OoO singlethread microarchitecture, a 1.32GHz StrongARM-like IO microarchitecture, and the 1GHz OoO processor augmented with two-way and four-way simultaneous multithreading. Both IO and OoO cores can take advantage of the stabilization framework, but the energy per instruction of the stabilized OoO core is less because it runs at a lower frequency to meet the same deadlines. The MIPS rate stabilization of complex processors using a PID feedback control loop is a general technique applicable to environments in which lower power or energy coupled with steady, predictable performance are desirable, although we target more specifically real-time systems in this article.
+
+------------
+
+Paper Id: WOS:000241469500069
+Similarity: 0.5438385605812073
+Distance: 0.4561614394187927
+Title: Supporting reconfigurable parallel multimedia applications
+Abstract: Programming multimedia applications for System-on-Chip (SoC) architectures is difficult because streaming communication, user event handling, reconfiguration, and parallelism have to be dealt with. We present Hinch, a runtime system for multimedia applications, that efficiently exploits parallelism by running the application in a dataflow style. The application has to be implemented as components that communicate using streams. Reconfigurability is supported by a generic component interface. Measurements have been performed on a Space-Cake SoC architecture simulator. Hinch can easily be ported to other shared-memory architectures.
+
+------------
+
+Paper Id: WOS:000312230700007
+Similarity: 0.5436632037162781
+Distance: 0.4563367962837219
+Title: Energy- and Performance-Aware Scheduling of Tasks on Parallel and Distributed Systems
+Abstract: Enabled by high-speed networking in commercial, scientific, and government settings, the realm of high performance is burgeoning with greater amounts of computational and storage resources. Large-scale systems such as computational grids consume a significant amount of energy due to their massive sizes. The energy and cooling costs of such systems are often comparable to the procurement costs over a year period. In this survey, we will discuss allocation and scheduling algorithms, systems, and software for reducing power and energy dissipation of workflows on the target platforms of single processors, multicore processors, and distributed systems. Furthermore, recent research achievements will be investigated that deal with power and energy efficiency via different power management techniques and application scheduling algorithms. The article provides a comprehensive presentation of the architectural, software, and algorithmic issues for energy-aware scheduling of workflows on single, multicore, and parallel architectures. It also includes a systematic taxonomy of the algorithms developed in the literature based on the overall optimization goals and characteristics of applications.
+
+------------
+
+Paper Id: WOS:000310164200007
+Similarity: 0.542519211769104
+Distance: 0.457480788230896
+Title: Enabling Adaptive Techniques in Heterogeneous MPSoCs Based on Virtualization
+Abstract: This article explores the use of virtualization to enable mechanisms like task migration and dynamic mapping in heterogeneous MPSoCs, thereby targeting the design of systems capable of adapt their behavior to time-changing workloads. Because tasks may have to be mapped to target processors with different instruction set architectures, we propose the use of Low Level Virtual Machine (LLVM) to postcompile the tasks at runtime depending on their target processor. A novel dynamic mapping heuristic is also proposed, aiming to exploit the advantages of specialized processors while taking into account the overheads imposed by virtualization. Extensive experimental work at different levels of abstraction-FPGA prototype, RTL and system-level simulation-is presented to evaluate the proposed techniques.
+
+------------
+
+Paper Id: WOS:000249461700004
+Similarity: 0.5419624447822571
+Distance: 0.4580375552177429
+Title: Energy-aware scheduling and simulation methodologies for parallel security processors with multiple voltage domains
+Abstract: Dynamic voltage scaling (DVS) and power gating (PG) have become mainstream technologies for low-power optimization in recent years. One issue that remains to be solved is integrating these techniques in correlated domains operating with multiple voltages. This article addresses the problem of power-aware task scheduling on a scalable cryptographic processor that is designed as a heterogeneous and distributed system-on-a-chip, with the aim of effectively integrating DVS, PG, and the scheduling of resources in multiple voltage domains (MVD) to achieve low energy consumption. Our approach uses an analytic model as the basis for estimating the performance and energy requirements between different domains and addressing the scheduling issues for correlated resources in systems. We also present the results of performance and energy simulations from transaction-level models of our security processors in a variety of system configurations. The prototype experiments show that our proposed methods yield significant energy reductions. The proposed techniques will be useful for implementing DVS and PG in domains with multiple correlated resources.
+
+------------
+
+Paper Id: WOS:000244471200010
+Similarity: 0.5382084250450134
+Distance: 0.4617915749549866
+Title: SLOPES: Hardware-software cosynthesis of low-power real-time distributed embedded systems with dynamically reconfigurable FPGAs
+Abstract: In this paper, we present a multiobjective hardware-software cosynthesis system, called SLOPES, for multirate low-power real-time distributed embedded systems consisting of dynamically reconfigurable field-programmable gate arrays (FPGAs), processors, and heterogeneous communication resources. This cosynthesis algorithm simultaneously optimizes system price and average power consumption. First, we present an evolutionary algorithm that automatically determines the quantities and types of system resources, assigns tasks to different potentially reconfigurable processing elements, and assigns communication events to communication resources. Second, we propose a dynamic priority multirate scheduling algorithm to determine the times at which all the tasks and communication events in the system occur. This two-dimensional scheduling algorithm determines task priorities based on real-time constraints and detailed frame-by-frame FPGA reconfiguration overhead information. Experimental results indicate that the proposed method reduces schedule length by an average of 34.3% and reconfiguration energy by an average of 40.4%, compared to a method that does not consider the effect of partial reconfiguration during synthesis. SLOPES yields multiple system architectures that tradeoff system price and average power consumption under real-time constraints.
+
+------------
+
+Paper Id: WOS:000343321900007
+Similarity: 0.5381494760513306
+Distance: 0.46185052394866943
+Title: Wireless NoC Platforms With Dynamic Task Allocation for Maximum Likelihood Phylogeny Reconstruction
+Abstract: 
+
+------------
+
+Paper Id: WOS:000347131600011
+Similarity: 0.5377797484397888
+Distance: 0.4622202515602112
+Title: Adaptive thermal-aware task scheduling for multi-core systems
+Abstract: Thermal management is a challenging problem because of on-line thermal dynamics. An adaptive thermal-aware multi-core task scheduling framework based on run-time controllers is proposed in this paper to address the inter-core thermal effects and dynamic variations of task execution. In contrast to dynamic voltage scaling, the service rates of the tasks are adjusted in order to cool the system. Scheduling algorithms are used to prevent the system from overheating and maximize system utilization. This paper also evaluates the capability of the proposed framework through varying the workloads, ultimately demonstrating positive and stable performance. (C) 2014 Elsevier Inc. All rights reserved.
+
+------------
+
+Paper Id: WOS:000283497100007
+Similarity: 0.5371459722518921
+Distance: 0.4628540277481079
+Title: THERMAL IMPACTS OF LEAKAGE POWER IN 2D/3D FLOORPLANNING
+Abstract: Leakage power is becoming a key design challenge in current and future CMOS designs. Due to technology scaling, the leakage power is rising so quickly that it largely elevates the die temperature. In this paper, we deeply investigate the impact of leakage power on thermal profile in both 2D and 3D floorplanning. Our results show that chip temperature can increase by about 11 degrees C in 2D design and 68 degrees C for 3D case with leakage power considered. Then we propose a thermal-driven floorplanning flow integrated with an iterative leakage-aware thermal analysis process to optimize chip temperature and save leakage power consumption. Experimental results show that for 2D design, the max chip temperature can be reduced by about 8 degrees C and the proportion of leakage power to total power can be reduced from 19.17% to 11.12%. The corresponding results for 3D are 60 degrees C temperature reduction and 16.3% less leakage power proportion.
+
+------------
+
+Paper Id: WOS:000248720000006
+Similarity: 0.5357749462127686
+Distance: 0.46422505378723145
+Title: Microarchitecture-inidependent workload characterization
+Abstract: For computer designers, understanding the characteristics of workloads running on current and future computer systems is of utmost importance during microprocessor design. a microarchitecture-independent method ensures an accurate characterization of inherent program behavior and avoids the weaknesses of, microarchitecture-dependent metrics.
+
+------------
+
+Paper Id: WOS:000259457200009
+Similarity: 0.5349173545837402
+Distance: 0.46508264541625977
+Title: Energy efficient scheduling of real-time tasks on multicore processors
+Abstract: Multicore processors deliver a higher throughput at lower power consumption than unicore processors. In the near future, they will thus be widely used in mobile real-time systems. There have been many research on energy-efficient scheduling of real-time tasks using DVS. These approaches must be modified for multicore processors, however, since normally all the cores in a chip must run at the same performance level. Thus, blindly adopting existing DVS algorithms that do not consider the restriction will result in a waste of energy. This article suggests Dynamic Repartitioning algorithm based on existing partitioning approaches of multiprocessor systems. The algorithm dynamically balances the task loads of multiple cores to optimize power consumption during execution. We also suggest Dynamic Core Scaling algorithm, which adjusts the number of active cores to reduce leakage power consumption under low load conditions. Simulation results show that Dynamic Repartitioning can produce energy savings of about 8 percent even with the best energy-efficient partitioning algorithm. The results also show that Dynamic Core Scaling can reduce energy consumption by about 26 percent under low load conditions.
+
+------------
+
+
+###################################
+

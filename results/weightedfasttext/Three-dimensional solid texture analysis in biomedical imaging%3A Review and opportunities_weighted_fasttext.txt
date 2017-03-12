@@ -1,0 +1,157 @@
+Related papers
+
+Paper Id: WOS:000357614300003
+Distance: 0.4195598065853119
+Similarity: 0.5804401934146881
+Title: A Pipeline for the Generation of Realistic 3D Synthetic Echocardiographic Sequences: Methodology and Open-Access Database
+Abstract: Quantification of cardiac deformation and strain with 3D ultrasound takes considerable research efforts. Nevertheless, a widespread use of these techniques in clinical practice is still held back due to the lack of a solid verification process to quantify and compare performance. In this context, the use of fully synthetic sequences has become an established tool for initial in silico evaluation. Nevertheless, the realism of existing simulation techniques is still too limited to represent reliable benchmarking data. Moreover, the fact that different centers typically make use of in-house developed simulation pipelines makes a fair comparison difficult. In this context, this paper introduces a novel pipeline for the generation of synthetic 3D cardiac ultrasound image sequences. State-of-the art solutions in the fields of electromechanical modeling and ultrasound simulation are combined within an original framework that exploits a real ultrasound recording to learn and simulate realistic speckle textures. The simulated images show typical artifacts that make motion tracking in ultrasound challenging. The ground-truth displacement field is available voxelwise and is fully controlled by the electromechanical model. By progressively modifying mechanical and ultrasound parameters, the sensitivity of 3D strain algorithms to pathology and image properties can be evaluated. The proposed pipeline is used to generate an initial library of 8 sequences including healthy and pathological cases, which is made freely accessible to the research community via our project web-page.
+
+------------
+
+Paper Id: WOS:000342256200022
+Distance: 0.4410402178764343
+Similarity: 0.5589597821235657
+Title: Automatic atlas-based three-label cartilage segmentation from MR knee images
+Abstract: Osteoarthritis (OA) is the most common form of joint disease and often characterized by cartilage changes. Accurate quantitative methods are needed to rapidly screen large image databases to assess changes in cartilage morphology. We therefore propose a new automatic atlas-based cartilage segmentation method for future automatic OA studies. Atlas-based segmentation methods have been demonstrated to be robust and accurate in brain imaging and therefore also hold high promise to allow for reliable and high-quality segmentations of cartilage. Nevertheless, atlas-based methods have not been well explored for cartilage segmentation. A particular challenge is the thinness of cartilage, its relatively small volume in comparison to surrounding tissue and the difficulty to locate cartilage interfaces - for example the interface between femoral and tibial cartilage. This paper focuses on the segmentation of femoral and tibial cartilage, proposing a multi-atlas segmentation strategy with non-local patch-based label fusion which can robustly identify candidate regions of cartilage. This method is combined with a novel three-label segmentation method which guarantees the spatial separation of femoral and tibial cartilage, and ensures spatial regularity while preserving the thin cartilage shape through anisotropic regularization. Our segmentation energy is convex and therefore guarantees globally optimal solutions. We perform an extensive validation of the proposed method on 706 images of the Pfizer Longitudinal Study. Our validation includes comparisons of different atlas segmentation strategies, different local classifiers, and different types of regularizers. To compare to other cartilage segmentation approaches we validate based on the 50 images of the SKI10 dataset. (C) 2014 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000301198000015
+Distance: 0.4492708444595337
+Similarity: 0.5507291555404663
+Title: Three-Dimensional In Silico Breast Phantoms for Multimodal Image Simulations
+Abstract: Anatomic simulators have provided researchers with the realistic objects needed to develop and evaluate medical imaging approaches. Today we have new insights into the cellular biology of breast tissues that is driving many new targeted diagnostic and therapeutic approaches, including molecular imaging. We report on our initial efforts to build a scalable framework for the construction of realistic 3-D in silico breast phantoms (ISBP) capable of leveraging existing knowledge and yet adaptable to fully integrate future discoveries. The ISBP frames are developed with scalable anatomical shapes and morphologic features as adapted from a rich literature on this topic. Frames are populated with tissue subtypes essential for imaging and object contrast functions are assigned. These data can be resampled to match the intrinsics scales of various imaging modalities; we explore mammography, sonography and computed tomography. Initial comparisons between simulated and clinical images demonstrate reasonable agreement and provides guidance for future development of a more realistic ISBP. An end-to-end simulation of breast images is described to demonstrate techniques for including stochastic variability and deterministic physical principles on which image formation is based.
+
+------------
+
+Paper Id: WOS:000327578400018
+Distance: 0.45041775703430176
+Similarity: 0.5495822429656982
+Title: IVUSAngio Tool: A publicly available software for fast and accurate 3D reconstruction of coronary arteries
+Abstract: There is an ongoing research and clinical interest in the development of reliable and easily accessible software for the 3D reconstruction of coronary arteries. In this work, we present the architecture and validation of IVUSAngio Tool, an application which performs fast and accurate 3D reconstruction of the coronary arteries by using intravascular ultrasound (IVUS) and biplane angiography data. The 3D reconstruction is based on the fusion of the detected arterial boundaries in IVUS images with the 3D IVUS catheter path derived from the biplane angiography. The IVUSAngio Tool suite integrates all the intermediate processing and computational steps and provides a user-friendly interface. It also offers additional functionality, such as automatic selection of the end-diastolic IVUS images, semi-automatic and automatic IVUS segmentation, vascular morphometric measurements, graphical visualization of the 3D model and export in a format compatible with other computer-aided design applications. Our software was applied and validated in 31 human coronary arteries yielding quite promising results. Collectively, the use of IVUSAngio Tool significantly reduces the total processing time for 3D coronary reconstruction. IVUSAngio Tool is distributed as free software, publicly available to download and use. (C) 2013 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000364461000010
+Distance: 0.48571962118148804
+Similarity: 0.514280378818512
+Title: Fiber Orientation and Compartment Parameter Estimation From Multi-Shell Diffusion Imaging
+Abstract: Diffusion MRI offers the unique opportunity of assessing the structural connections of human brains in vivo. With the advance of diffusion MRI technology, multi-shell imaging methods are becoming increasingly practical for large scale studies and clinical application. In this work, we propose a novel method for the analysis of multi-shell diffusion imaging data by incorporating compartment models into a spherical deconvolution framework for fiber orientation distribution (FOD) reconstruction. For numerical implementation, we develop an adaptively constrained energy minimization approach to efficiently compute the solution. On simulated and real data from Human Connectome Project (HCP), we show that our method not only reconstructs sharp and clean FODs for the modeling of fiber crossings, but also generates reliable estimation of compartment parameters with great potential for clinical research of neurological diseases. In comparisons with publicly available DSI-Studio and BEDPOSTX of FSL, we demonstrate that our method reconstructs sharper FODs with more precise estimation of fiber directions. By applying probabilistic tractography to the FODs computed by our method, we show that more complete reconstruction of the corpus callosum bundle can be achieved. On a clinical, two-shell diffusion imaging data, we also demonstrate the feasibility of our method in analyzing white matter lesions.
+
+------------
+
+Paper Id: WOS:000264051600008
+Distance: 0.48615965247154236
+Similarity: 0.5138403475284576
+Title: Computer-aided evaluation of neuroblastoma on whole-slide histology images: Classifying grade of neuroblastic differentiation
+Abstract: Neuroblastoma (NB) is one of the most frequently occurring cancerous tumors in children. The current grading evaluations for patients with this disease require pathologists to identify certain morphological characteristics with microscopic examinations of tumor tissues. Thanks to the advent of modern digital scanners, it is now feasible to scan cross-section tissue specimens and acquire whole-slide digital images. As a result, computerized analysis of these images can generate key quantifiable parameters and assist pathologists with grading evaluations. In this study, image analysis techniques are applied to histological images of haematoxylin and eosin (H&E) stained slides for identifying image regions associated with different pathological components. Texture features derived from segmented components of tissues are extracted and processed by an automated classifier group trained with sample images with different grades of neuroblastic differentiation in a multi-resolution framework. The trained classification system is tested on 33 whole-slide tumor images. The resulting whole-slide classification accuracy produced by the computerized system is 87.88%. Therefore, the developed system is a promising tool to facilitate grading whole-slide images of NB biopsies with high throughput. (C) 2008 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000327433800017
+Distance: 0.4871838688850403
+Similarity: 0.5128161311149597
+Title: Atomistic Visualization of Mesoscopic Whole-Cell Simulations Using Ray-Casted Instancing
+Abstract: Molecular visualization is an important tool for analysing the results of biochemical simulations. With modern GPU ray casting approaches, it is only possible to render several million of atoms interactively unless advanced acceleration methods are employed. Whole-cell simulations consist of at least several billion atoms even for simplified cell models. However, many instances of only a few different proteins occur in the intracellular environment, which can be exploited to fit the data into the graphics memory. For each protein species, one model is stored and rendered once per instance. The proposed method exploits recent algorithmic advances for particle rendering and the repetitive nature of intracellular proteins to visualize dynamic results from mesoscopic simulations of cellular transport processes. We present two out-of-core optimizations for the interactive visualization of data sets composed of billions of atoms as well as details on the data preparation and the employed rendering techniques. Furthermore, we apply advanced shading methods to improve the image quality including methods to enhance depth and shape perception besides non-photorealistic rendering methods. We also show that the method can be used to render scenes that are composed of triangulated instances, not only implicit surfaces.
+
+------------
+
+Paper Id: WOS:000247953900005
+Distance: 0.4900824725627899
+Similarity: 0.5099175274372101
+Title: Natural language processing and visualization in the molecular imaging domain
+Abstract: Molecular imaging is at the crossroads of genomic sciences and medical imaging. Information within the molecular imaging literature could be used to link to genomic and imaging information resources and to organize and index images in a way that is potentially useful to researchers. A number of natural language processing (NLP) systems are available to automatically extract information from genomic literature. One existing NLP system, known as BioMedLEE, automatically extracts biological information consisting of biomolecular substances and phenotypic data. This paper focuses on the adaptation, evaluation, and application of BioMedLEE to the molecular imaging domain. In order to adapt BioMedLEE for this domain, we extend an existing molecular imaging terminology and incorporate it into BioMedLEE. BioMedLEE's performance is assessed with a formal evaluation study. The system's performance, measured as recall and precision, is 0.74 (95% CI: [.70-.76]) and 0.70 (95% CI [.63-.76]), respectively. We adapt a JAVA(TM) viewer known as PGviewer for the simultaneous visualization of images with NLP extracted information. (C)2006 Elsevier Inc. All rights reserved.
+
+------------
+
+Paper Id: WOS:000278631500003
+Distance: 0.4919910132884979
+Similarity: 0.5080089867115021
+Title: Towards high performance cell segmentation in multispectral fine needle aspiration cytology of thyroid lesions
+Abstract: Thyroid nodule is a common cancer of the thyroid gland that affects up to 20% of the world population and approximately 50% of 60-year-old persons. Early detection and screening of the disease, especially analysis by fine needle aspiration cytology (FNAC), has led to improved diagnosis and management of the disease. Simultaneously, advances in imaging technology has enabled the rapid digitization of large volumes of FNAC specimen leading to increased interest in computer assisted diagnosis (CAD). This has led to development of a variety of algorithms for automated analysis of FNAC images, but due to the large scale memory and computing resource requirements, has had limited success in clinical use. In this paper, we present our experiences with two parallel versions of a code used for texture-based segmentation of thyroid FNAC images, a critical first step in realizing a fully automated CAD solution. An MPI version of the code is developed to exploit distributed memory compute resources such as PC clusters. An OpenMP version is developed for the currently emerging multi-core CPU architectures, which allow for parallel execution on every desktop system. Experiments are performed with image sizes ranging from 1024 x 1024 pixels up to 12288 x 12288 pixels with 21 spectral channels. Both versions are evaluated for performance and scalability. Published by Elsevier Ireland Ltd.
+
+------------
+
+Paper Id: WOS:000310828200006
+Distance: 0.4932541847229004
+Similarity: 0.5067458152770996
+Title: Application of detector precision characteristics and histogram packing for compression of biological fluorescence micrographs
+Abstract: Modern applications of biological microscopy such as high-content screening (HCS), 4D imaging, and multispectral imaging may involve collection of thousands of images in every experiment making efficient image-compression techniques necessary. Reversible compression algorithms, when used with biological micrographs, provide only a moderate compression ratio, while irreversible techniques obtain better ratios at the cost of removing some information from images and introducing artifacts. We construct a model of noise, which is a function of signal in the imaging system. In the next step insignificant intensity levels are discarded using intensity binning. The resultant images, characterized by sparse intensity histograms, are coded reversibly. We evaluate compression efficiency of combined reversible coding and intensity depth-reduction using single-channel 12-bit light micrographs of several subcellular structures. We apply local and global measures of intensity distribution to estimate maximum distortions introduced by the proposed algorithm. We demonstrate that the algorithm provides efficient compression and does not introduce significant changes to biological micrographs. The algorithm preserves information content of these images and therefore offers better fidelity than standard irreversible compression method JPEG2000. (c) 2011 Elsevier Ireland Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000244530500002
+Distance: 0.49492692947387695
+Similarity: 0.505073070526123
+Title: International Internet2 connectivity and performance in medical imaging applications: Bridging the Americas to Asia
+Abstract: Internet-2 is an advanced high-speed computer network, which has been widely used for medical imaging applications such as teleradiology and teleconsultation. Internet-2 can fulfill the requirements for high-speed data transmission and short turn-around time with low operation cost once installed. However, high performance may not necessarily be retained for global access from international network peers as well as commercial Internet Service Provider (ISP) solutions. This paper describes the methodology of establishing international Internet-2 connections between three different internationally linked sites: the Imaging Processing and Informatics (IPI) Laboratory, University of Southern California, Los Angeles, California; the Hong Kong Polytechnic University (PolyU), Hong Kong, and the Heart Institute (InCor) of the University of Sao Paulo, Brazil. Two major factors will be discussed including network looping in the US and bottleneck of the connection, raising the round-trip time and limiting the available bandwidth respectively. In addition to the three site International Internet2 Connectivity, a consistent and repeatable tuning protocol for international Internet2 applications in the clinical environment will be presented. The experimental results of the FTP and DICOM transmission using the automatic tuning protocol at both sending and receiving sites will be presented and compared with results for the combinations where this protocol is used at either one site only or no site at all in order to demonstrate the improvement in overall network throughput by this proposed tuning method. These performance numbers will also be compared to commercially available ISP connections to further show the differences between International Internet-2 and its ability to support medical imaging applications.
+
+------------
+
+Paper Id: WOS:000319178500020
+Distance: 0.497129887342453
+Similarity: 0.502870112657547
+Title: SNARK09-A software package for reconstruction of 2D images from 1D projections
+Abstract: The problem of reconstruction of slices and volumes from 1D and 2D projections has arisen in a large number of scientific fields (including computerized tomography, electron microscopy, X-ray microscopy, radiology, radio astronomy and holography). Many different methods (algorithms) have been suggested for its solution. In this paper we present a software package, SNARK09, for reconstruction of 2D images from their 1D projections. In the area of image reconstruction, researchers often desire to compare two or more reconstruction techniques and assess their relative merits. SNARK09 provides a uniform framework to implement algorithms and evaluate their performance. It has been designed to treat both parallel and divergent projection geometries and can either create test data (with or without noise) for use by reconstruction algorithms or use data collected by another software or a physical device. A number of frequently-used classical reconstruction algorithms are incorporated. The package provides a means for easy incorporation of new algorithms for their testing, comparison and evaluation. It comes with tools for statistical analysis of the results and ten worked examples. (C) 2013 Elsevier Ireland Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000349592000018
+Distance: 0.4975859522819519
+Similarity: 0.5024140477180481
+Title: Assessment of algorithms for mitosis detection in breast cancer histopathology images
+Abstract: The proliferative activity of breast tumors, which is routinely estimated by counting of mitotic figures in hematoxylin and eosin stained histology sections, is considered to be one of the most important prognostic markers. However, mitosis counting is laborious, subjective and may suffer from low inter-observer agreement. With the wider acceptance of whole slide images in pathology labs, automatic image analysis has been proposed as a potential solution for these issues. In this paper, the results from the Assessment of Mitosis Detection Algorithms 2013 (AMIDA13) challenge are described. The challenge was based on a data set consisting of 12 training and 11 testing subjects, with more than one thousand annotated mitotic figures by multiple observers. Short descriptions and results from the evaluation of eleven methods are presented. The top performing method has an error rate that is comparable to the inter-observer agreement among pathologists. (C) 2014 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000351802500005
+Distance: 0.49969810247421265
+Similarity: 0.5003018975257874
+Title: AnaSP: A software suite for automatic image analysis of multicellular spheroids
+Abstract: Today, more and more biological laboratories use 3D cell cultures and tissues grown in vitro as a 3D model of in vivo tumours and metastases. In the last decades, it has been extensively established that multicellular spheroids represent an efficient model to validate effects of drugs and treatments for human care applications. However, a lack of methods for quantitative analysis limits the usage of spheroids as models for routine experiments. Several methods have been proposed in literature to perform high throughput experiments employing spheroids by automatically computing different morphological parameters, such as diameter, volume and sphericity. Nevertheless, these systems are typically grounded on expensive automated technologies, that make the suggested solutions affordable only for a limited subset of laboratories, frequently performing high content screening analysis. In this work we propose AnaSP, an open source software suitable for automatically estimating several morphological parameters of spheroids, by simply analyzing brightfield images acquired with a standard widefield microscope, also not endowed with a motorized stage. The experiments performed proved sensitivity and precision of the segmentation method proposed, and excellent reliability of AnaSP to compute several morphological parameters of spheroids imaged in different conditions. AnaSP is distributed as an open source software tool. Its modular architecture and graphical user interface make it attractive also for researchers who do not work in areas of computer vision and suitable for both high content screenings and occasional spheroid-based experiments. (C) 2015 Elsevier Ireland Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000321142500029
+Distance: 0.4998036324977875
+Similarity: 0.5001963675022125
+Title: Semiautomatic White Blood Cell Segmentation Based on Multiscale Analysis
+Abstract: This paper approaches novel methods to segment the nucleus and cytoplasm of white blood cells (WBC). This information is the basis to perform higher level tasks such as automatic differential counting, which plays an important role in the diagnosis of different diseases. We explore the image simplification and contour regularization resulting from the application of the selfdual multiscale morphological toggle (SMMT), an operator with scale-space properties. To segment the nucleus, the image preprocessing with SMMT has shown to be essential to ensure the accuracy of two well-known image segmentations techniques, namely, watershed transform and Level-Set methods. To identify the cytoplasm region, we propose two different schemes, based on granulometric analysis and on morphological transformations. The proposed methods have been successfully applied to a large number of images, showing promising segmentation and classification results for varying cell appearance and image quality, encouraging future works.
+
+------------
+
+Paper Id: WOS:000352771100011
+Distance: 0.5008890628814697
+Similarity: 0.4991109371185303
+Title: Registration of whole immunohistochemical slide images: an efficient way to characterize biomarker colocalization
+Abstract: Background and objective Extracting accurate information from complex biological processes involved in diseases, such as cancers, requires the simultaneous targeting of multiple proteins and locating their respective expression in tissue samples. This information can be collected by imaging and registering adjacent sections from the same tissue sample and stained by immunohistochemistry (IHC). Registration accuracy should be on the scale of a few cells to enable protein colocalization to be assessed. Methods We propose a simple and efficient method based on the open-source elastix framework to register virtual slides of adjacent sections from the same tissue sample. We characterize registration accuracies for different types of tissue and IHC staining. Results Our results indicate that this technique is suitable for the evaluation of the colocalization of biomarkers on the scale of a few cells. We also show that using this technique in conjunction with a sequential IHC labeling and erasing technique offers improved registration accuracies. Discussion Brightfield IHC enables to address the problem of large series of tissue samples, which are usually required in clinical research. However, this approach, which is simple at the tissue processing level, requires challenging image analysis processes, such as accurate registration, to view and extract the protein colocalization information. Conclusions The method proposed in this work enables accurate registration (on the scale of a few cells) of virtual slides of adjacent tissue sections on which the expression of different proteins is evidenced by standard IHC. Furthermore, combining our method with a sequential labeling and erasing technique enables cell-scale colocalization.
+
+------------
+
+Paper Id: WOS:000341677800009
+Distance: 0.5030426383018494
+Similarity: 0.49695736169815063
+Title: Supportive automatic annotation of early esophageal cancer using local gabor and color features
+Abstract: Over the past years High Definition (HD) endoscopy has become a crucial tool for the early detection of esophageal cancer. The high resolution offers specialist physicians high-quality visual information, enabling them to identify dysplastic tissue leading to Early Adenocarcinoma (EAC). The detection and removal of these early types of cancer drastically increases the survival chances of the patient. However, even for an experienced specialist it remains an arduous task to identify the patterns associated with early cancer. Therefore, a computer-aided detection system that supports the physician seems highly attractive. We present a novel algorithm for automatic detection of early cancerous tissue in HD endoscopic images. The algorithm computes local color- and texture features based on the original and on the Gabor-filtered image. We explore the spectral characteristics of the image regions that contain early cancer and we design appropriate filters based on this analysis. The features are classified by a trained Support Vector Machine (SVM) after which additional post-processing techniques are applied in order to annotate the image region containing early cancer. For 7 patients, we compare 32 annotations made by the algorithm with the corresponding delineations made by an expert gastroenterologist. Of 38 lesions indicated independently by the gastroenterologist, the system detects 36 of those lesions with a recall of 0.95 and a precision of 0.75. (C) 2014 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000321220300001
+Distance: 0.5037782788276672
+Similarity: 0.49622172117233276
+Title: Deformable Medical Image Registration: A Survey
+Abstract: Deformable image registration is a fundamental task in medical image processing. Among its most important applications, one may cite: 1) multi-modality fusion, where information acquired by different imaging devices or protocols is fused to facilitate diagnosis and treatment planning; 2) longitudinal studies, where temporal structural or anatomical changes are investigated; and 3) population modeling and statistical atlases used to study normal anatomical variability. In this paper, we attempt to give an overview of deformable registration methods, putting emphasis on the most recent advances in the domain. Additional emphasis has been given to techniques applied to medical images. In order to study image registration methods in depth, their main components are identified and studied independently. The most recent techniques are presented in a systematic fashion. The contribution of this paper is to provide an extensive account of registration techniques in a systematic manner.
+
+------------
+
+Paper Id: WOS:000261295100012
+Distance: 0.5054396986961365
+Similarity: 0.4945603013038635
+Title: Multiple object tracking in molecular bioimaging by Rao-Blackwellized marginal particle filtering
+Abstract: Time-lapse fluorescence microscopy imaging has rapidly evolved in the past decade and has opened new avenues for studying intracellular processes in vivo. Such studies generate vast amounts of noisy image data that cannot be analyzed efficiently and reliably by means of manual processing. Many popular tracking techniques exist but often fail to yield satisfactory results in the case of high object densities, high noise levels, and complex motion patterns. Probabilistic tracking algorithms, based on Bayesian estimation, have recently been shown to offer several improvements over classical approaches, by better integration of spatial and temporal information, and the possibility to more effectively incorporate prior knowledge about object dynamics and image formation. In this paper, we extend our previous work in this area and propose an improved, fully automated particle filtering algorithm for the tracking of many subresolution objects in fluorescence microscopy image sequences. It involves a new track management procedure and allows the use of multiple dynamics models. The accuracy and reliability of the algorithm are further improved by applying marginalization concepts. Experiments on synthetic as well as real image data from three different biological applications clearly demonstrate the superiority of the algorithm compared to previous particle filtering solutions. (C) 2008 Elsevier B.V. All rights reserved.
+
+------------
+
+
+###################################
+

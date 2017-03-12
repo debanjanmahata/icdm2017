@@ -1,0 +1,157 @@
+Related papers
+
+Paper Id: WOS:000296015200002
+Distance: 0.16405725479125977
+Similarity: 0.8359427452087402
+Title: High Throughput Data Mapping for Coarse-Grained Reconfigurable Architectures
+Abstract: Coarse-grained reconfigurable arrays (CGRAs) are a very promising platform, providing both up to 10-100 MOps/mW of power efficiency and software programmability. However, this promise of CGRAs critically hinges on the effectiveness of application mapping onto CGRA platforms. While previous solutions have greatly improved the computation speed, they have largely ignored the impact of the local memory architecture on the achievable power and performance. This paper motivates the need for memory-aware application mapping for CGRAs, and proposes an effective solution for application mapping that considers the effects of various memory architecture parameters including the number of banks, local memory size, and the communication bandwidth between the local memory and the external main memory. Further we propose efficient methods to handle dependent data on a double-buffering local memory, which is necessary for recurrent loops. Our proposed solution achieves 59% reduction in the energy-delay product, which factors into about 47% and 22% reduction in the energy consumption and runtime, respectively, as compared to memory-unaware mapping for realistic local memory architectures. We also show that our scheme scales across a range of applications and memory parameters, and the runtime overhead of handling recurrent loops by our proposed methods can be less than 1%.
+
+------------
+
+Paper Id: WOS:000328523300008
+Distance: 0.17407958209514618
+Similarity: 0.8259204179048538
+Title: Reliability guaranteed energy-aware frame-based task set execution strategy for hard real-time systems
+Abstract: In this paper, we study the problem of how to execute a real-time frame-based task set on DVFS-enabled processors so that the system's reliability can be guaranteed and the energy consumption of executing the task set is minimized. To ensure the reliability requirement, processing resources are reserved to re-execute tasks when transient faults occur. However, different from commonly used approaches that the reserved processing resources are shared by all tasks in the task set, we judiciously select a subset of tasks to share these reserved resources for recovery purposes. In addition, we formally prove that for a give task set, the system achieves the highest reliability and consumes the least amount of energy when the task set is executed with a uniform frequency (or neighboring frequencies if the desired frequency is not available). Based on the theoretic conclusion, rather than heuristically searching for appropriate execution frequency for each individual task as used in many research work, we directly calculate the optimal execution frequency for the task set. Our simulation results have shown that with our approach, we can not only guarantee the same level of system reliability, but also have up to 15% energy saving improvement over other fault recovery-based approaches existed in the literature. Furthermore, as our approach does not require frequent frequency changes, it works particularly effective on processors where frequency switching overhead is large and not negligible. (C) 2013 Elsevier Inc. All rights reserved.
+
+------------
+
+Paper Id: WOS:000335559500015
+Distance: 0.1794370412826538
+Similarity: 0.8205629587173462
+Title: Energy-efficient real-time heterogeneous cluster scheduling with node replacement due to failures
+Abstract: Energy preservation in computing systems is an important research topic nowadays. Clusters are usually composed of different hardware with different performance and energy consumption. Performance and efficiency are two metrics introduced in this paper that describe servers' computational power and energy efficiency, respectively. Based on these metrics, we propose three scheduling policies for hard real-time tasks that are executed on a heterogeneous cluster with power-aware dynamic voltage/frequency scaling processors. Simulation experiments show promising results as compared to those of other existing scheduling policies. In order to study the effects of processor failures, the impact of replacing high-performance processors with high-efficiency processors is studied. Furthermore, the load balancing mechanism used in the system is viewed from an energy perspective.
+
+------------
+
+Paper Id: WOS:000321216900016
+Distance: 0.18104836344718933
+Similarity: 0.8189516365528107
+Title: High-Performance and Low-Energy Buffer Mapping Method for Multiprocessor DSP Systems
+Abstract: When implementing digital signal processing (DSP) applications onto multiprocessor systems, one significant problem in the viewpoints of performance is the memory wall. In this paper, to help alleviate the memory wall problem, we propose a novel, high-performance buffer mapping policy for SDF-represented DSP applications on bus-based multiprocessor systems that support the shared-memory programming model. The proposed policy exploits the bank concurrency of the DRAM main memory system according to the analysis of hierarchical parallelism. Energy consumption is also a critical parameter, especially in battery-based embedded computing systems. In this paper, we apply a synchronization back-off scheme on the top of the proposed high-performance buffer mapping policy to reduce energy consumption. The energy saving is attained by minimizing the number of non-essential synchronization transactions. We measure throughput and energy consumption on both synthetic and real benchmarks. The simulation results show that the proposed buffer mapping policy is very useful in terms of performance, especially in memory-intensive applications where the total execution time of computational tasks is relatively small compared to that of memory operations. In addition, the proposed synchronization back-off scheme provides a reduction in the number of synchronization transactions without degrading performance, which results in system energy saving.
+
+------------
+
+Paper Id: WOS:000317427700007
+Distance: 0.1820349246263504
+Similarity: 0.8179650753736496
+Title: Shared Recovery for Energy Efficiency and Reliability Enhancements in Real-Time Applications with Precedence Constraints
+Abstract: While Dynamic Voltage Scaling (DVS) remains as a popular energy management technique for modern computing systems, recent research has identified significant and negative impacts of voltage scaling on system reliability. To preserve system reliability under DVS settings, a number of reliability-aware power management (RA-PM) schemes have been recently studied. However, the existing RA-PM schemes normally schedule a separate recovery for each task whose execution is scaled down and are rather conservative. To overcome such conservativeness, we study in this article novel RA-PM schemes based on the shared recovery (SHR) technique. Specifically, we consider a set of frame-based real-time tasks with individual deadlines and a common period where the precedence constraints are represented by a directed acyclic graph (DAG). We first show that the earliest deadline first (EDF) algorithm can always yield a schedule where all timing and precedence constraints are met by considering the effective deadlines of tasks derived from as late as possible (ALAP) policy, provided that the task set is feasible. Then, we propose a shared recovery based frequency assignment technique (namely SHR-DAG) and prove its optimality to minimize energy consumption while preserving the system reliability. To exploit additional slack that arises from early completion of tasks, we also study a dynamic extension for SHR-DAG to improve energy efficiency and system reliability at runtime. The results from our extensive simulations show that, compared to the existing RA-PM schemes, SHR-DAG can achieve up to 35% energy savings, which is very close to the maximum achievable energy savings. More interestingly, our extensive evaluation also indicates that the new schemes offer non-trivial improvements on system reliability over the existing RA-PM schemes as well.
+
+------------
+
+Paper Id: WOS:000341066600001
+Distance: 0.18250229954719543
+Similarity: 0.8174977004528046
+Title: Virtual Ways: Low-Cost Coherence for Instruction Set Extensions with Architecturally Visible Storage
+Abstract: Instruction set extensions (ISEs) improve the performance and energy consumption of application-specific processors. ISEs can use architecturally visible storage (AVS), localized compiler-controlled memories, to provide higher I/O bandwidth than reading data from the processor pipeline. AVS creates coherence and consistence problems with the data cache. Although a hardware coherence protocol could solve the problem, this approach is costly for a single-processor system. As a low-cost alternative, we introduce Virtual Ways, which ensures coherence through a reduced form of inclusion between the data cache and AVS. Virtual Ways achieve higher performance and lower energy consumption than using a hardware coherence protocol.
+
+------------
+
+Paper Id: WOS:000360777800001
+Distance: 0.18516208231449127
+Similarity: 0.8148379176855087
+Title: Quantitative modeling of power performance tradeoffs on extreme scale systems
+Abstract: As high performance computing (HPC) cOntinues to grow in scale and complexity, energy becomes a critical constraint in the race to exascale computing. The days of "performance at all cost" are coming to an end. While performance is still a major objective, future HPC will have to deliver desired performance under the energy constraint. Among various power management methods, power capping is a widely used approach. Unfortunately, the impact of power capping on system performance, user jobs, and power-performance efficiency are not well studied due to many interfering factors imposed by system workload and configurations. To fully understand power management in extreme scale systems with a fixed power budget, we introduce a power-performance modeling tool named PUPPET (Power Performance PETri net). Unlike the traditional performance modeling approaches such as analytical methods or trace-based simulators, we explore a new approach - colored Petri nets - for the design of PUPPET. PuPPET is fast and extensible for navigating through different configurations. More importantly, it can scale to hundreds of thousands of processor cores and at the same time provide high levels of modeling accuracy. We validate PuPPET by using system traces (i.e., workload log and power data) collected from the production 48-rack IBM Blue Gene/Q supercomputer at Argonne National Laboratory. Our trace-based validation demonstrates that PUPPET is capable of modeling the dynamic execution of parallel jobs on the machine by providing an accurate approximation of energy consumption. In addition, we present two case studies of using PuPPET to study power-performance tradeoffs on petascale systems. (C) 2015 Elsevier Inc. All rights reserved.
+
+------------
+
+Paper Id: WOS:000321153600021
+Distance: 0.18617494404315948
+Similarity: 0.8138250559568405
+Title: Virtual Batching: Request Batching for Server Energy Conservation in Virtualized Data Centers
+Abstract: Many power management strategies have been proposed for enterprise servers based on dynamic voltage and frequency scaling (DVFS), but those solutions cannot further reduce the energy consumption of a server when the server processor is already at the lowest DVFS level and the server utilization is still low (e. g., 10 percent or lower). To achieve improved energy efficiency, request batching can be conducted to group received requests into batches and put the processor into sleep between the batches. However, it is challenging to perform request batching on a virtualized server because different virtual machines on the same server may have different workload intensities. Hence, putting the shared processor into sleep may severely impact the application performance of all the virtual machines. This paper proposes Virtual Batching, a novel request batching solution for virtualized servers with primarily light workloads. Our solution dynamically allocates CPU resources such that all the virtual machines can have approximately the same performance level relative to their allowed peak values. Based on this uniform level, Virtual Batching determines the time length for periodically batching incoming requests and putting the processor into sleep. When the workload intensity changes from light to moderate, request batching is automatically switched to DVFS to increase processor frequency for performance guarantees. Virtual Batching is also extended to integrate with server consolidation for maximized energy conservation with performance guarantees for virtualized data centers. Empirical results based on a hardware testbed and real trace files show that Virtual Batching can achieve the desired performance with more energy conservation than several well-designed baselines, e. g., 63 percent more, on average, than a solution based on DVFS only.
+
+------------
+
+Paper Id: WOS:000365206300030
+Distance: 0.187027707695961
+Similarity: 0.812972292304039
+Title: Energy Management on Battery-Powered Coarse-Grained Reconfigurable Platforms
+Abstract: Coarse-grained reconfigurable architecture (CGRA) can provide strong capability of parallel computation and flexibility; it is becoming a promising platform for mobile computing. As mobile platforms increasingly demand power, more and more mobile platforms adopt multibattery- or multicell-based power systems to extend battery runtime. This paper addresses energy management for the purpose of extending the lifetime of battery-powered reconfigurable computing platforms. Considering the nonlinear characteristics of batteries and working mechanism of the CGRA, a multiobjective optimization model with respect to the battery state and energy consumption is built for extending battery lifetime. Meanwhile, based on this optimization model, a joint task-mapping and battery-scheduling method is proposed to achieve a practical and efficient solution. The physical experiments show that this paper achieves higher improvement on battery runtime when compared with state-of-the-art works.
+
+------------
+
+Paper Id: WOS:000260058400007
+Distance: 0.1873786598443985
+Similarity: 0.8126213401556015
+Title: Green Telnet Modifying a client-server application to save energy
+Abstract: Reducing the energy consumption of IT equipment is of growing interest for operational, economic, and environmental reasons. The existing client/server model that uses TCP connections tightly couples application state to connection state. Thus, when a client machine transitions to a sleep state to reduce its energy footprint, the TCP connection drops and the application state is lost on the server. Because of this tight coupling, an idle client machine must remain fully awake to avoid losing its TCP connection to the server and any application state associated with that connection. That is, the client machine must remain in this energy inefficient state or lose any outstanding work (state) in the server. As a result, users often permanently disable power management in client machines.
+
+------------
+
+Paper Id: WOS:000267518000011
+Distance: 0.18989218771457672
+Similarity: 0.8101078122854233
+Title: A collaborative sensor network middleware for automated production systems
+Abstract: Recent advanced production facilities have utilized networked sensors, which are increasingly designed as e-Work networks with sensor collaboration. Especially, wireless networked microsensors network have been developed and are about to gain widespread use as technology and reliability improve and prices drop. Especially, the redundantly distributed microsensor-based system can significantly and cost-effectively improve the quality of service, processes, and productivity in automated production systems. Besides energy consumption and scalability, a major design challenge, however, is that they must be designed to be adaptable for industrial applications. Most industrial applications require better reliability in communication, robustness to various interferences, fault tolerance, and the geometry of the production facility that collaborating sensors are implemented. Thus, this research proposes a sensor network middleware structure that automated production systems require. The middleware supports optimal or near-optimal multi-sensor deployment scheme and provides solutions for geometry-specific wireless microsensor deployment design. The middleware model is also supported by collaborative e-work network framework. Network design parameters such as the number of sensors, geometry of production facility are being considered to improve reliability of sensory data and to minimize the overall energy consumption under given geometry. Results are also evaluated through specific simulations, applying the Teamwork Integration Evaluator (TIE). (c) 2008 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000344530400004
+Distance: 0.19101952016353607
+Similarity: 0.8089804798364639
+Title: Optimizing the NoC Slack Through Voltage and Frequency Scaling in Hard Real-Time Embedded Systems
+Abstract: Hard real-time embedded systems impose a strict latency requirement on interconnection subsystems. In the case of network-on-chip (NoC), this means each packet of a traffic stream has to be delivered within a time interval. In addition, with the increasing complexity of NoC, it consumes a significant portion of total chip power, which boosts the power footprint of such chips. In this paper, we propose a methodology to minimize the energy consumption of NoC without violating the prespecified latency deadlines of real-time applications. First, we develop a formal approach based on network calculus to obtain the worst-case delay bound of all packets, from which we derive a safe estimate of the number of cycles that a packet can be further delayed in the network without violating its deadline-the worst-case slack. With this information, we then develop an optimization algorithm that trades the slacks for lower NoC energy. Our algorithm recognizes the distribution of slacks for different traffic streams, and assigns different voltages and frequencies to different routers to achieve NoC energy-efficiency, while meeting the deadlines for all packets. Furthermore, we design a feedback-control strategy to enable dynamic frequency and voltage scaling on the network routers in conjunction with the energy optimization algorithm. It can flexibly improve the energy-efficiency of the overall network in response to sporadic traffic patterns at runtime.
+
+------------
+
+Paper Id: WOS:000271212900001
+Distance: 0.1915859580039978
+Similarity: 0.8084140419960022
+Title: Energy-Efficient Register Caching with Compiler Assistance
+Abstract: The register file is a critical component in a modern superscalar processor. It must be large enough to accommodate the results of all in-flight instructions. It must also have enough ports to allow simultaneous issue and writeback of many values each cycle. However, this makes it one of the most energy-consuming structures within the processor with a high access latency. As technology scales, there comes a point where register accesses are the bottleneck to performance and so must be pipelined over several cycles. This increases the pipeline depth, lowering performance. To overcome these challenges, we propose a novel use of compiler analysis to aid register caching. Adding a register cache allows us to preserve single-cycle register accesses, maintaining performance and reducing energy consumption. We do this by passing information to the processor using free bits in a real ISA, allowing us to cache only the most important registers. Evaluating the register cache over a variety of sizes and associativities and varying the read ports into the cache, our best scheme achieves an energy-delay-squared (EDD) product of 0.81, with a performance increase of 11%. Another configuration saves 13% of register system energy. Using four register cache read ports brings both performance gains and energy savings, consistently outperforming two state-of-the-art hardware approaches.
+
+------------
+
+Paper Id: WOS:000261175300001
+Distance: 0.1919487565755844
+Similarity: 0.8080512434244156
+Title: Design of Fast and Efficient Energy-Aware Gradient-Based Scheduling Algorithms for Heterogeneous Embedded Multiprocessor Systems
+Abstract: In this paper, we present two heuristic energy-aware scheduling algorithms - 1) Energy Gradient-based Multiprocessor Scheduling (EGMS) algorithm and 2) Energy Gradient-based Multiprocessor Scheduling with Intratask Voltage scaling (EGMSIV) algorithm - for scheduling task precedence graphs in an embedded multiprocessor system having processing elements with dynamic voltage scaling capabilities. Unlike most energy-aware scheduling algorithms that consider task ordering and voltage scaling separately from task mapping, our algorithms consider them in an integrated way. EGMS uses the concept of energy gradient to select tasks to be mapped onto new processors and voltage levels. EGMSIV extends EGMS by introducing intratask voltage scaling using a Linear Programming (LP) formulation to further reduce the energy consumption. Through rigorous simulations, we compare the performance of our proposed algorithms with a few approaches presented in the literature. The results demonstrate that our algorithms are capable of obtaining energy-efficient schedules using less optimization time. On the average, our algorithms produce schedules which consume 10 percent less energy with more than 47 percent reduction in optimization time when compared to a few approaches presented in the literature. In particular, our algorithms perform better in generating energy-efficient schedules for larger task graphs. Our results show a reduction of up to 57 percent in energy consumption for larger task graphs compared to other approaches.
+
+------------
+
+Paper Id: WOS:000307052900004
+Distance: 0.19200624525547028
+Similarity: 0.8079937547445297
+Title: A Variability-Aware Robust Design Space Exploration Methodology for On-Chip Multiprocessors Subject to Application-Specific Constraints
+Abstract: Manufacturing process variation is dramatically becoming one of the most important challenges related to power and performance optimization for sub-90nm CMOS technologies. Process variability impacts the optimization of the target system metrics, that is, performance and energy consumption by introducing fluctuations and unpredictability. Besides, it impacts the parametric yield of the chip with respect to application level constraints by reducing the number of devices working within normal operating conditions. The impact of variability on systems with stringent application-specific requirements (such as portable multimedia and critical embedded systems) is much greater than on general-purpose systems given the emphasis on predictability and reduced operating margins. In this market segment, failing to address such a problem within the early design stages of the chip may lead to missing market deadlines and suffering greater economic losses. In the context of a design space exploration framework for supporting the platform-based design approach, we address the problem of robustness with respect to manufacturing process variations. First, we apply Response Surface Modeling (RSM) techniques to enable an efficient evaluation of the statistical measures of execution time and energy consumption for each system configuration. Then, we apply a robust design space exploration framework to afford the problem of the impact of manufacturing process variations onto the system-level metrics and consequently onto the application-level constraints. We finally provide a comparison of our design space exploration technique with conventional approaches on two different case studies.
+
+------------
+
+Paper Id: WOS:000337155400026
+Distance: 0.19325657188892365
+Similarity: 0.8067434281110764
+Title: GTES: An Optimized Game-Theoretic Demand-Side Management Scheme for Smart Grid
+Abstract: Demand-side management in smart grids has emerged as a hot topic for optimizing energy consumption. In conventional research works, energy consumption is optimized from the perspective of either the users or the power company. In this paper, we investigate how energy consumption may be optimized by taking into consideration the interaction between both parties. We propose a new energy price model as a function of total energy consumption. Also, we propose a new objective function, which optimizes the difference between the value and cost of energy. The power supplier pulls consumers in a round-robin fashion and provides them with energy price parameter and current consumption summary vector. Each user then optimizes his own schedule and reports it to the supplier, which, in turn, updates its energy price parameter before pulling the next consumers. This interaction between the power company and its consumers is modeled through a two-step centralized game, based on which we propose our game-theoretic energy schedule (GTES) method. The objective of our GTES method is to reduce the peak-to-average power ratio by optimizing the users' energy schedules. The performance of the GTES approach is evaluated through computer-based simulations.
+
+------------
+
+Paper Id: WOS:000255199400002
+Distance: 0.19424863159656525
+Similarity: 0.8057513684034348
+Title: Exploiting in-memory and on-disk redundancy to conserve energy in storage systems
+Abstract: Today's storage systems place an imperative demand on energy efficiency. A storage system often places single-rotation-rate disks into standby mode by stopping them from spinning to conserve energy when the workload is not heavy. The major obstacle of this method is a high spin-up cost introduced by passively waking up the standby disk to service requests. In this paper, we propose a redundancy-based hierarchical I/O cache architecture called RIMAC to solve the problem. The idea of RIMAC is to enable data on the standby disk(s) to be recovered by accessing a two-level I/O cache and/or active disks if needed. In parity-based redundant disk arrays, RIMAC exploits parity redundancy to dynamically XOR-reconstruct the data being accessed toward standby disk(s) at both the cache and disk levels. By avoiding passive spin-ups, RIMAC can significantly improve both energy efficiency and performance. In RIMAC, we developed 1) two power-aware read request transformation schemes called Transformable Read in Cache (TRC) and Transformable Read on Disk (TRD), 2) a power-aware write request transformation policy for parity update, and 3) a second-chance parity cache replacement algorithm to favor the request transformation rate. We evaluated RIMAC by augmenting a validated storage system simulator, DiskSim, and tested three real-life server traces, including HP's cello99, UIUC's OLTP, and SPC's search engine. Comprehensive results indicate that RIMAC is able to reduce energy consumption by up to 18 percent and simultaneously improve the average response time by up to 34 percent compared with threshold-based power management schemes for single-rotation-rate disk-based RAIDs.
+
+------------
+
+Paper Id: WOS:000292047500013
+Distance: 0.1955462545156479
+Similarity: 0.8044537454843521
+Title: Energy Conscious Scheduling for Distributed Computing Systems under Different Operating Conditions
+Abstract: Traditionally, the primary performance goal of computer systems has focused on reducing the execution time of applications while increasing throughput. This performance goal has been mostly achieved by the development of high-density computer systems. As witnessed recently, these systems provide very powerful processing capability and capacity. They often consist of tens or hundreds of thousands of processors and other resource-hungry devices. The energy consumption of these systems has become a major concern. In this paper, we address the problem of scheduling precedence-constrained parallel applications on multiprocessor computer systems and present two energy-conscious scheduling algorithms using dynamic voltage scaling (DVS). A number of recent commodity processors are capable of DVS, which enables processors to operate at different voltage supply levels at the expense of sacrificing clock frequencies. In the context of scheduling, this multiple voltage facility implies that there is a trade-off between the quality of schedules and energy consumption. To effectively balance these two performance goals, we have devised a novel objective function and a variant from that. The main difference between the two algorithms is in their measurement of energy consumption. The extensive comparative evaluations conducted as part of this work show that the performance of our algorithms is very compelling in terms of both application completion time and energy consumption.
+
+------------
+
+Paper Id: WOS:000238481900007
+Distance: 0.1979338824748993
+Similarity: 0.8020661175251007
+Title: Adaptive electrocardiogram feature extraction on distributed embedded systems
+Abstract: Tiny embedded systems have not been an ideal outfit for high performance computing due to their constrained resources. Limitations in processing power, battery life, communication bandwidth, and memory constrain the applicability of existing complex medical analysis algorithms such as the Electrocardiogram ( ECG) analysis. Among various limitations, battery lifetime has been a major key technological constraint. In this paper, we address the issue of partitioning such a complex algorithm while the energy consumption due to wireless transmission is minimized. ECG analysis algorithms normally consist of preprocessing, pattern recognition, and classification. Considering the orientation of the ECG leads, we devise a technique to perform preprocessing and pattern recognition locally in small embedded systems attached to the leads. The features detected in the pattern recognition phase are considered for the classification. Ideally, if the features detected for each heartbeat reside in a single processing node, the transmission will be unnecessary. Otherwise, to perform classification, the features must be gathered on a local node and, thus, the communication is inevitable. We perform such a feature grouping by modeling the problem as a hypergraph and applying partitioning schemes which yield a significant power saving in wireless communications. Furthermore, we utilize dynamic reconfiguration by software module migration. This technique, with respect to partitioning, enhances the overall power saving in such systems. Moreover, it adaptively alters the system configuration in various environments and on different patients. We evaluate the effectiveness of our proposed techniques on MIT/BIH benchmarks and, on average, achieve 70 percent energy saving.
+
+------------
+
+
+###################################
+

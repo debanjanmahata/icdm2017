@@ -1,0 +1,157 @@
+Related papers
+
+Paper Id: WOS:000308897400004
+Distance: 0.394744873046875
+Similarity: 0.605255126953125
+Title: Exploring the h-index at the institutional level: A practical application in world university rankings
+Abstract: Purpose - The purpose of this study is to evaluate the scientific performance of universities by extending the application of the h-index from the-individual to the institutional level. A ranking of the world's top universities based on their h-index scores was produced. The geographic distribution of the highly ranked universities by continent and by country was also analysed. Design/approach/methodology - This study uses bibliometric analysis to rank the universities. In order to calculate their h-index the numbers of papers and citations in each university were gathered from Web of Science, including the Science Citation Index and Social Science Citation Index. Authority control dealing with variations in university names ensured the accuracy of each university's number of published journal papers and the subsequent statistics of their citations. Findings - It was found that a high correlation exists between the h-index ranking generated in this study and that produced by Shanghai Jiao Tong University. The results confirm the validity of the h-index in the assessment of research performance at the university level. Originality/value - The h-index has been used to evaluate research performance at the institutional level in several recent studies; however these studies evaluated institutions' performance only in certain disciplines or in a single country. This paper measures the research performance of universities all over the world, and the applicability of the h-index at the institutional level was validated by calculating the correlation between the ranking result of the h-index and the ranking by the Shanghai Jiao Tong University.
+
+------------
+
+Paper Id: WOS:000367612600021
+Distance: 0.42255187034606934
+Similarity: 0.5774481296539307
+Title: Funnel plots for visualizing uncertainty in the research performance of institutions
+Abstract: Research performance values are not certain. Performance indexes should therefore be accompanied by uncertainty measures, to establish whether the performance of a unit is truly outstanding and not the result of random fluctuations. In this work we focus on the evaluation of research institutions on the basis of average individual performance, where uncertainty is inversely related to the number of research staff. We utilize the funnel plot, a tool originally developed in meta-analysis, to measure and visualize the uncertainty in the performance values of research institutions. As an illustrative example, we apply the funnel plot to represent the uncertainty in the assessed research performance for Italian universities active in biochemistry. (C) 2015 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000291912000012
+Distance: 0.4254199266433716
+Similarity: 0.5745800733566284
+Title: Computer science research in Malaysia: a bibliometric analysis
+Abstract: Purpose - The purpose of this paper is to analyse the publications of, and the citations to, the current staff of 19 departments of computer science in Malaysian universities, and to compare these bibliometric data with expert peer reviews of Malaysian research performance. Design/methodology/approach - This paper searches citation of the Scopus and Web of Science databases. Findings - Both publication and citation rates are low, although this is at least in part due to some Malaysian universities having only a teaching function. More of the departments' publications were identified in Scopus than in Web of Science, but both databases were needed for comprehensive coverage. Statistically significant relationships were observed between the departments' publication and citation counts and the rankings of the departments' parent universities in two evaluations of the research performance of Malaysian universities. Originality/value - This is the first comparison of bibliometric and peer-review data for Malaysia, and, more generally, for a country with a newly developed higher education system.
+
+------------
+
+Paper Id: WOS:000327219900004
+Distance: 0.42746415734291077
+Similarity: 0.5725358426570892
+Title: The suitability of h and g indexes for measuring the research performance of institutions
+Abstract: It is becoming ever more common to use bibliometric indicators to evaluate the performance of research institutions, however there is often a failure to recognize the limits and drawbacks of such indicators. Since performance measurement is aimed at supporting critical decisions by research administrators and policy makers, it is essential to carry out empirical testing of the robustness of the indicators used. In this work we examine the accuracy of the popular "h" and "g" indexes for measuring university research performance by comparing the ranking lists derived from their application to the ranking list from a third indicator that better meets the requirements for robust and reliable assessment of institutional productivity. The test population is all Italian universities in the hard sciences, observed over the period 2001-2005. The analysis quantifies the correlations between the three university rankings (by discipline) and the shifts that occur under changing indicators, to measure the distortion inherent in use of the h and g indexes and their comparative accuracy for assessing institutions.
+
+------------
+
+Paper Id: WOS:000321852600004
+Distance: 0.4278019964694977
+Similarity: 0.5721980035305023
+Title: Heterogeneity of collaboration and its relationship with research impact in a biomedical field
+Abstract: This paper analyses existing trends in the collaborative structure of the Pharmacology and Pharmacy field in Spain and explores its relationship with research impact. The evolution in terms of size of the research community, the typology of collaborative links (national, international) and the scope of the collaboration (size of links, type of partners) are studied by means of different measures based on co-authorship. Growing heterogeneity of collaboration and impact of research are observed over the years. Average journal impact (MNJS) and citation score (MNCS) normalised to world average tend to grow with the number of authors, the number of institutions and collaboration type. Both national and international collaboration show MNJS values above the country's average, but only internationally co-authored publications attain citation rates above the world's average. This holds at country and institutional sector levels, although not all institutional sectors obtain the same benefit from collaboration. Multilateral collaboration with high-level R&D countries yields the highest values of research impact, although the impact of collaboration with low-level R&D countries has been optimised over the years. Although scientific collaboration is frequently based on individual initiative, policy actions are required to promote the more heterogeneous types of collaboration.
+
+------------
+
+Paper Id: WOS:000347297400006
+Distance: 0.4330858290195465
+Similarity: 0.5669141709804535
+Title: Exploring alternative metrics of scholarly performance in the social sciences and humanities in Taiwan
+Abstract: Research output and impact metrics derived from commercial citation databases such as Web of Science and Scopus have become the de facto indicators of scholarly performance across different disciplines and regions. However, it has been pointed out that the existing metrics are largely inadequate to reflect scholars' overall peer-mediated performance, especially in the social sciences and humanities (SSH) where publication channels are more diverse. In this paper alternative metrics exploring a variety of formal and informal communication channels were proposed, with the aim of better reflecting SSH scholarship. Data for a group of SSH scholars in Taiwan on these metrics were collected. Principal component analysis revealed four underlying dimensions represented by the 18 metrics. Multiple-regression analyses were then performed to examine how well each of these dimensions predicted the academic standing of the scholars, measured by the number of public grants awarded and prestigious research awards received. Differences in the significance of the predictors were found between the social sciences and humanities. The results suggest the need to consider disciplinary differences when evaluating scholarly performance.
+
+------------
+
+Paper Id: WOS:000239300600008
+Distance: 0.44388923048973083
+Similarity: 0.5561107695102692
+Title: Selecting scientific excellence through committee peer review - A citation analysis of publications previously published to approval or rejection of post-doctoral research fellowship applicants
+Abstract: We investigated committee peer review for awarding long-term fellowships to post-doctoral researchers as practiced by the Boehringer Ingelheim Fonds (B.I.F.)-a foundation for the promotion of basic research in biomedicine. Assessing the validity of selection decisions requires a generally accepted criterion for research impact. A widely used approach is to use citation counts as a proxy for the impact of scientific research. Therefore, a citation analysis for articles published previous to the applicants' approval or rejection for a B.I.F. fellowship was conducted. Based on our model estimation (negative binomial regression model), journal articles that had been published by applicants approved for a fellowship award (n = 64) prior to applying for the B.I.F. fellowship award can be expected to have 37% (straight counts of citations) and 49% (complete counts of citations) more citations than articles that had been published by rejected applicants (n = 333). Furthermore, comparison with international scientific reference values revealed (a) that articles published by successful and non-successful applicants are cited considerably more often than the "average" publication and (b) that excellent research performance can be expected more of successful than non-successful applicants. The findings confirm that the foundation is not only achieving its goal of selecting the best junior scientists for fellowship awards, but also successfully attracting highly talented young scientists to apply for B.I.F. fellowships.
+
+------------
+
+Paper Id: WOS:000291476000004
+Distance: 0.4455050826072693
+Similarity: 0.5544949173927307
+Title: An evolutionary PageRank approach for journal ranking with expert judgements
+Abstract: The journal ranking problem has drawn a great deal of attention from researchers in various fields due to its importance in the evaluation of academic performance. Most previous studies solved the problem with either a subjective approach, based on expert survey metrics, or an objective approach, based on citation-based metrics. Since both have their own advantages and disadvantages, and since they are usually complementary, this work proposes a brand new approach that integrates the two. In this work, we propose the Evolutionary PageRank algorithm, which first uses the PageRank algorithm to evaluate journal prestige and then uses the Multi-Objective Particle Swarm Optimization to balance citation analysis and expert opinion. Experiments evaluating ranking quality were carried out with citation records and experts' surveys to show the effectiveness of the proposed method. The results indicate that the proposed method can improve PageRank journal ranking results.
+
+------------
+
+Paper Id: WOS:000316046000009
+Distance: 0.4456498920917511
+Similarity: 0.5543501079082489
+Title: Absolute and specific measures of research group excellence
+Abstract: A desirable goal of scientific management is to introduce, if it exists, a simple and reliable way to measure the scientific excellence of publicly funded research institutions and universities to serve as a basis for their ranking and financing. While citation-based indicators and metrics are easily accessible, they are far from being universally accepted as way to automate or inform evaluation processes or to replace evaluations based on peer review. Here we consider absolute measurements of research excellence at an amalgamated, institutional level and specific measures of research excellence as performance per head. Using biology research institutions in the UK as a test case, we examine the correlations between peer review-based and citation-based measures of research excellence on these two scales. We find that citation-based indicators are very highly correlated with peer-evaluated measures of group strength, but are poorly correlated with group quality. Thus, and almost paradoxically, our analysis indicates that citation counts could possibly form a basis for deciding on, how to fund research institutions, but they should not be used as a basis for ranking them in terms of quality.
+
+------------
+
+Paper Id: WOS:000253644900007
+Distance: 0.45014530420303345
+Similarity: 0.5498546957969666
+Title: Comparing alternatives to the Web of Science for coverage of the social sciences' literature
+Abstract: The Web of Science is no longer the only database which offers citation indexing of the social sciences. Scopus, CSA Illumina and Google Scholar are new entrants in this market. The holdings and citation records of these four databases were assessed against two sets of data one drawn from the 2001 Research Assessment Exercise and the other from the International bibliography of the Social Sciences. Initially, CSA Illumina's cove-rage at journal title level appeared to be the most comprehensive. But when recall and average citation count was tested at article level and rankings extrapolated by submission frequency to individual journal titles, Scopus was ranked first. When issues of functionality, the quality of record processing and depth of coverage are taken into account, Scopus and Web of Science have a significant advantage over the other two databases. From this analysis, Scopus offers the best coverage from amongst these databases and could be used as an alternative to the Web of Science as a tool to evaluate the research impact in the social sciences. (c) 2007 Charles Oppenheim. Published by Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000298259200003
+Distance: 0.45075535774230957
+Similarity: 0.5492446422576904
+Title: A bibliometric study of Video Retrieval Evaluation Benchmarking (TRECVid): A methodological analysis
+Abstract: This paper provides a discussion and analysis of methodological issues encountered during a scholarly impact and bibliometric study within the field of Computer Science (TRECVid Text Retrieval and Evaluation Conference, Video Retrieval Evaluation). The purpose of this paper is to provide a reflection and analysis of the methods used to provide useful information and guidance for those who may wish to undertake similar studies, and is of particular relevance for the academic disciplines which have publication and citation norms that may not perform well using traditional tools. Scopus and Google Scholar are discussed and a detailed comparison of the effects of different search methods and cleaning methods within and between these tools for subject and author analysis is provided. The additional database capabilities and usefulness of 'Scopus More' in addition to 'Scopus General' are discussed and evaluated. Scopus paper coverage is found to favourably compare with Google Scholar but Scholar consistently has superior performance at finding citations to those papers. These additional citations significantly increase the citation totals and also change the relative ranking of papers. Publish or Perish, a software wrapper for Google Scholar, is also examined and its limitations and some possible solutions are described. Data cleaning methods, including duplicate checks, expert domain checking of bibliographic data, and content checking of retrieved papers, are compared and their relative effects on paper and citation count discussed. Google Scholar and Scopus are also compared as tools for collecting bibliographic data for visualizations of developing trends and, owing to the comparative ease of collecting abstracts, Scopus is found far more effective.
+
+------------
+
+Paper Id: WOS:000238261900006
+Distance: 0.4515495002269745
+Similarity: 0.5484504997730255
+Title: Research evaluation of research-oriented universities in Taiwan from 1993 to 2003
+Abstract: Publications have been regarded as the most significant output indicating the research performance of universities. This paper uses ISI Essential Science Indicators (ESI) database to investigate the academic performance of research-oriented universities in Taiwan, adopting the bibliometric method from both quantitative and qualitative perspectives. The data cover the time span for 11 years from 1993 to 2003. The performance indicators applied in this study includes the number of papers, the number of citations, the average citations per paper, the number of highly cited papers, the number of hot papers, and the number of top papers. The research performance and the strength of those universities are revealed in this study, and it is found that National Taiwan University leads among these universities though each university still shows strengths in various specific fields.
+
+------------
+
+Paper Id: WOS:000253831700002
+Distance: 0.45236173272132874
+Similarity: 0.5476382672786713
+Title: Scoring research output using statistical quantile plotting
+Abstract: In this paper, we propose two methods for scoring scientific output based on statistical quantile plotting. First, a resealing of journal impact factors for scoring scientific output on a macro level is proposed. It is based on normal quantile plotting which allows to transform impact data over several subject categories to a standardized distribution. This can be used in comparing scientific output of larger entities such as departments working in quite different areas of research. Next, as an alternative to the Hirsch index [Hirsch, J.E. (2005). An index to quantify an individuals scientific research output. Proceedings of the National Academy of Sciences of the United States of America, 102(46), 16569-16572], the extreme value index is proposed as an indicator for assessment of the research performance of individual scientists. In case of Lotkaian-Zipf-Pareto behaviour of citation counts of an individual, the extreme value index can be interpreted as the slope in a Pareto-Zipf quantile plot. This index, in contrast to the Hirsch index, is not influenced by the number of publications but stresses the decay of the statistical tail of citation counts. It appears to be much less sensitive to the science field than the Hirsch index. (c) 2007 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000262496700002
+Distance: 0.45288774371147156
+Similarity: 0.5471122562885284
+Title: Library Catalog Analysis as a tool in studies of social sciences and humanities: An exploratory study of published book titles in Economics
+Abstract: This paper explores the use of Library Catalog Analysis (LCA), defined as the application of bibliometric or informetric techniques to a set of library online catalogs, to describe quantitatively a scientific-scholarly field on the basis of published book titles. It focuses on its value as a tool in studies of Social Sciences and Humanities, especially its cognitive structures, main book publishers and the research performance of its actors. The paper proposes an analogy model between traditional citation analysis of journal articles and Library Catalog Analysis of book titles. It presents the outcomes of an exploratory study of book titles in Economics included in 42 academic library catalogs from 7 countries. It describes the process of data collection and cleaning, and applies a series of indicators and thematic mapping techniques. It illustrates how LCA can be fruitfully used to assess book production and research performance at the level of an individual researcher, a research department, an entire country and a book publisher. It discusses a number of issues that should be addressed in follow-up studies and concludes that LCA of published book titles can be developed into a powerful and useful tool in studies of Social Sciences and Humanities. (C) 2008 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000253550400012
+Distance: 0.45294317603111267
+Similarity: 0.5470568239688873
+Title: Online presentations as a source of scientific impact? An analysis of PowerPoint files citing academic journals
+Abstract: Open-access online publication has made available an increasingly wide range of document types for scientometric analysis. In this article, we focus on citations in online presentations, seeking evidence of their value as nontraditional indicators of research impact. For this purpose, we searched for online PowerPoint files mentioning any one of 1,807 ISI-indexed journals in ten science and ten social science disciplines. We also manually classified 1,378 online PowerPoint citations to journals in eight additional science and social science disciplines. The results showed that very few journals were cited frequently enough in online PowerPoint files to make impact assessment worthwhile, with the main exceptions being popular magazines like Scientific American and Harvard Business Review. Surprisingly, however, there was little difference overall in the number of PowerPoint citations to science and to the social sciences, and also in the proportion representing traditional impact (about 60%) and wider impact (about 15%). It seems that the main scientometric value for online presentations may be in tracking the popularization of research, or for comparing the impact of whole journals rather than individual articles.
+
+------------
+
+Paper Id: WOS:000251830300004
+Distance: 0.454143226146698
+Similarity: 0.545856773853302
+Title: ICT assessment: Moving beyond journal outputs
+Abstract: There are increasing moves to deploy quantitative indicators in the assessment of research, particularly in the university sector. In Australia, discussions surrounding their use have long acknowledged the unsuitability of many standard quantitative measures for most humanities, arts, social science, and applied science disciplines. To fill this void, several projects are running concurrently. This paper details the methodology and initial results for one of the projects that aims to rank conferences into prestige tiers, and which is fast gaining a reputation for best practice in such exercises. The study involves a five-stage process: identifying conferences; constructing a preliminary ranking of these; engaging in extensive consultation; testing performance measures based on the rankings on 'live' data; and assessing the measures. In the past, many similar attempts to develop a ranking classification for publication outlets have faltered due to the inability of researchers to agree on a hierarchy. However the Australian experience suggests that when researchers are faced with the imposition of alternative metrics that are far less palatable, consensus is more readily achieved.
+
+------------
+
+Paper Id: WOS:000272631100014
+Distance: 0.45415198802948
+Similarity: 0.54584801197052
+Title: Using the Web for research evaluation: The Integrated Online Impact indicator
+Abstract: Previous research has shown that citation data from different types of Web sources can potentially be used for research evaluation. Here we introduce a new combined Integrated Online Impact (IOI) indicator. For a case study, we selected research articles published in the Journal of the American Society for Information Science & Technology (JASIST) and Scientometrics in 2003. We compared the citation counts from Web of Science (WoS) and Scopus with five online sources of citation data including Google Scholar, Google Books, Google Blogs, PowerPoint presentations and course reading lists. The mean and median IOI was nearly twice as high as both WoS and Scopus, confirming that online citations are sufficiently numerous to be useful for the impact assessment of research. Wealso found significant correlations between conventional and online impact indicators, confirming that both assess something similar in scholarly communication. Further analysis showed that the overall percentage for unique Google Scholar citations outside the WoS were 73% and 60% for the articles published in JASIST and Scientometrics, respectively. An important conclusion is that in subject areas where wider types of intellectual impact indicators outside the WoS and Scopus databases are needed for research evaluation, IOI can be used to help monitor research performance. (C) 2009 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000317529900001
+Distance: 0.4550513029098511
+Similarity: 0.5449486970901489
+Title: Evaluating a department's research: Testing the Leiden methodology in business and management
+Abstract: The Leiden methodology (LM), also sometimes called the "crown indicator", is a quantitative method for evaluating the research quality of a research group or academic department based on the citations received by the group in comparison to averages for the field. There have been a number of applications but these have mainly been in the hard sciences where the data on citations, provided by the ISI Web of Science (WoS), is more reliable. In the social sciences, including business and management, many journals and books are not included within WoS and so the LM has not been tested here. In this research study the LM has been applied on a dataset of over 3000 research publications from three UK business schools. The results show that the LM does indeed discriminate between the schools, and has a degree of concordance with other forms of evaluation, but that there are significant limitations and problems within this discipline. (C) 2012 Elsevier Ltd. All rights reserved.
+
+------------
+
+Paper Id: WOS:000251830300012
+Distance: 0.4550846517086029
+Similarity: 0.5449153482913971
+Title: Policy impact of bibliometric rankings of research performance of departments and individuals in economics
+Abstract: This paper examines policy-relevant effects of a yearly public ranking of individual researchers and their institutes in economics by means of their publication output in international top journals. In 1980, a grassroots ranking ('Top 40') of researchers in the Netherlands by means of their publications in international top journals started a competition among economists. The objective was to improve economics research in the Netherlands to an internationally competitive level. The ranking lists did stimulate output in prestigious international journals. Netherlands universities tended to perform well compared to universities elsewhere in the EU concerning volume of output in ISI source journals, but their citation impact was average. Limitations of ranking studies and of bibliometric monitoring in the field of economics are discussed.
+
+------------
+
+
+###################################
+

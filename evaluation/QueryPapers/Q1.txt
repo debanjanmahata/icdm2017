@@ -1,0 +1,8 @@
+Paper ID: WOS:000331966900021	
+Year: 2014	
+
+Title: Optimization Decomposition for Scheduling and System Configuration in Wireless Networks	
+
+Abstract: Who gets to use radio spectrum, and when, where, and how? Scheduling (who, where, when) and system configuration (how) are fundamental problems in radio communication and wireless networking. Optimization decomposition based on Lagrangian relaxation of signal quality requirements provides a mathematical framework for solving this type of combined problem. This paper demonstrates the technique as a solution to spatial reuse time-division multiple access (STDMA) scheduling with reconfigurable antennas. The joint beam steering and scheduling (JBSS) problem offers both a challenging mathematical structure and significant practical value. We present algorithms for JBSS and describe an implemented system based on these algorithms. We achieve up to 600% of the throughput of TDMA with a mean of 234% in our experiments. The decomposition approach leads to a working distributed protocol producing optimal solutions in an amount of time that is at worst linear in the size of the input. This is, to the best of our knowledge, the first actually implemented wireless scheduling system based on dual decomposition. We identify and briefly address some of the challenges that arise in taking such a system from theory to reality.	
+
+Paper Keywords: Antenna arrays; cross-layer design; directional antennas; distributed algorithms; optimal scheduling; optimization; packet radio networks; radio communication; time-division multiple access; wireless mesh networks; wireless networks

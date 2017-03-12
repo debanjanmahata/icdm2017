@@ -1,0 +1,157 @@
+Related papers
+
+Paper Id: WOS:000290452300010
+Distance: 0.2057010978460312
+Similarity: 0.7942989021539688
+Title: Implementation of W-CDMA Cell Search on a Highly Parallel and Scalable MPSoC
+Abstract: The performance of the W-CDMA cell search algorithm can be significantly improved using homogeneous general purpose Multi-Processor System-on-Chip (MPSoC) architectures. The application also scales well, as the number of processing nodes increases, allowing practical accelerations to become close to the theoretical maximum. In this work we describe a template MPSoC architecture based on multiprocessor computational clusters, called Ninesilica. Each Ninesilica consist of nine processing nodes based on COFFEE RISC architecture. MPSoC inter- and intra-cluster communication are enabled using hierarchical Network-on-Chip with dedicated point to point and broadcast communication services for better performance. Proposed template has been used to instantiate complete systems with one and four Ninesilica clusters, resulting in MPSoCs with respectively 9 and 36 computational nodes. The MPSoCs have been physically prototyped on a FPGA device, and the W-CDMA cell search algorithm has been mapped on both MPSoC platforms. The four Ninesilica MPSoC can execute W-CDMA in 20.5 ms (at 115 MHz, slow mode implementation) with the total speed-up of 24.3X and 3.3X when compared to a single processing core system and to a single Ninesilica cluster, respectively.
+
+------------
+
+Paper Id: WOS:000256572800003
+Distance: 0.21774813532829285
+Similarity: 0.7822518646717072
+Title: Network-on-Chip design and synthesis outlook
+Abstract: With the growing complexity in consumer embedded products, new tendencies forecast heterogeneous Multi-Processor Systems-On-Chip (MPSoCs) consisting of complex integrated components communicating with each other at very high-speed rates. Intercommunication requirements of MPSoCs made of hundreds of cores will not be feasible using a single shared bus or a hierarchy of buses due to their poor scalability with system size, their shared bandwidth between all the attached cores and the energy efficiency requirements of final products. To overcome these problems of scalability and complexity, Networks-On-Chip (NoCs) have been proposed as a promising replacement to eliminate many of the overheads of buses and MPSoCs connected by means of general-purpose communication architectures. However, the development of application-specific NoCs for MPSoCs is a complex engineering process that involves the definition of suitable protocols and topologies of switches, and which demands adequate design flows to minimize design time and effort. In fact, the development of suitable high-level design and synthesis tools for NoC-based interconnects is a key element to benefit from NoC-based interconnect design in nanometer-scale CMOS technologies. In this article we overview the benefits of state-of-the-art NoCs using a complete NoC synthesis flow, and a detailed scalability analysis of different NoC implementations for the latest nanometer-scale technology nodes. We present NoC-based solutions for the on-chip interconnects of MPSoCs that illustrate the benefits of competitive application-specific NoCs with respect to more regular NoC topologies regarding performance, area and power. Moreover, we show that it is currently feasible to synthesize in an automatic way a complete custom NoC interconnect from a high-level specification in few hours. Finally, we summarize future research challenges in the area of NoC interconnect design automation. (C) 2008 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000293755900007
+Distance: 0.2264116257429123
+Similarity: 0.7735883742570877
+Title: Power Gating Aware Task Scheduling in MPSoC
+Abstract: Shrinking the feature size allows more and better functions on a single chip. However, it makes multiprocessor system-on-chip (MPSoC) more susceptible to various reliability threats. Power supply noise is a major reliability problem faced by low power MPSoCs using power gating techniques. Powering on and off a processing unit in MPSoCs will induce large power/ground (P/G) noise and can cause timing divergence and even functional errors in surrounding processing units. Previous work on resilient architectures mainly focused on power/thermal management and neglected the important side-effect: P/G noise induced by power gating. In this paper, for the first time, we formulate a task scheduling problem with the consideration of P/G noise based on our detailed P/G noise analysis platform for MPSoC. Two efficient algorithms are proposed to reduce noise protection penalty and improve MPSoC performance. Our experiments show that both simulated annealing and heuristic algorithms can achieve on average 25% performance improvement together with up to 80% noise protection penalty saving compared with the conservative stop-go method for short tasks (shorter than 20 K clock cycles). For longer tasks up to 200 K clock cycles, the performance improvement of our methods will become relatively low. However, we can still achieve at least 35.2% noise protection penalty saving. Furthermore, a lightweight online adjustment strategy accompanying the offline scheduling method is proposed to adapt to runtime variations and improve reliability.
+
+------------
+
+Paper Id: WOS:000261375300003
+Distance: 0.22767198085784912
+Similarity: 0.7723280191421509
+Title: CAD tool for hardware software co-synthesis of heterogeneous multiple processor embedded architectures
+Abstract: Hardware software co-synthesis process intends to determine an optimal architecture for an embedded application specified by a task graph or a specification language. In this paper, we present a co-synthesis approach targeting MPSoCs and distributed memory multiprocessor architectures for high performance embedded applications. Our co-synthesis approach produces pipelined multiprocessor architectures consisting of heterogeneous processing elements connected by a point-to-point communication structure. The co-synthesis process consists of four distinct phases; processing element selection for addition to the system, pipelined task allocation, scheduling and a regular interconnection topology mapping. Initially, an irregular topology is generated that is mapped to a regular architecture. Our co-synthesis methodology performs system partitioning and produces an irregular topology multiprocessor system. It also generates an optimal (or sub-optimal) regular topology architecture after considering some of the well-known regular topologies like mesh, hypercube, tree, etc. The co-synthesis method is demonstrated by exploring embedded architectures for MPEG encoder and artificially generated application task graphs representing complex embedded systems.
+
+------------
+
+Paper Id: WOS:000333554400002
+Distance: 0.23423580825328827
+Similarity: 0.7657641917467117
+Title: Performance-Driven Dynamic Thermal Management of MPSoC Based on Task Rescheduling
+Abstract: High level of integration has led to the advent of Multiprocessor System-on-Chip (MPSoC) which consists of multiple processor cores and accelerators on the same die. A MPSoC programming model is based on a task graph where tasks are assigned to cores to maximize performance. To address thermal hotspots in MPSoCs, coarse-grain power management techniques based on Dynamic Frequency Scaling (DFS) are widely used. DFS is reactive in nature and has detrimental effects on performance. We propose an alternative solution based on dynamic task rescheduling where a temperature prediction scheme is built into the scheduler. The temperature look-ahead scheme is used for task reassignment or delay insertion in scheduling. Since temperature prediction and task assignment are done at runtime, both must be simple and extremely fast. To that end, we propose a heuristic solution based on a limited branch-and-bound search and compare results against an optimal Integer Linear Programming (ILP)-based solution. The proposed approach is shown to be superior to frequency scaling, and the resulting schedule length is within 5% to 10% of the optimal solution as obtained from ILP formulation.
+
+------------
+
+Paper Id: WOS:000287331600009
+Distance: 0.2570325434207916
+Similarity: 0.7429674565792084
+Title: A generic adaptive path-based routing method for MPSoCs
+Abstract: Several unicast routing protocols have been presented for unicast traffic in MPSoCs. Exploiting the unicast routing algorithms for multicast traffic increases the likelihood of deadlock and congestion. In order to avoid deadlock for multicast traffic, the Hamiltonian path strategy was introduced. The traditional Hamiltonian path routing protocols supporting both unicast and multicast traffic are based on deterministic models, leading to lower performance. In this paper, we propose an adaptive routing protocol for both unicast and multicast traffic without using virtual channels. The proposed method maximizes the degree of adaptiveness of the routing functions which are based on the Hamiltonian path while guaranteeing deadlock freedom. Furthermore, both unicast and multicast aspects of the presented method have been widely investigated separately. Results obtained in both synthetic and real traffic models show that the proposed adaptive method for multicast and unicast aspects has lower latency and power dissipation compared to previously proposed path-based multicasting algorithms with negligible hardware overhead. (C) 2010 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000355669800005
+Distance: 0.27542343735694885
+Similarity: 0.7245765626430511
+Title: Execution Trace-Driven Energy-Reliability Optimization for Multimedia MPSoCs
+Abstract: Multiprocessor systems-on-chip (MPSoCs) are becoming a popular design choice in current and future technology nodes to accommodate the heterogeneous computing demand of a multitude of applications enabled on these platform. Streaming multimedia and other communication-centric applications constitute a significant fraction of the application space of these devices. The mapping of an application on an MPSoC is an NP-hard problem. This has attracted researchers to solve this problem both as stand-alone (best-effort) and in conjunction with other optimization objectives, such as energy and reliability. Most existing studies on energy-reliability joint optimization are static-that is, design time based. These techniques fail to capture runtime variability such as resource unavailability and dynamism associated with application behaviors, which are typical of multimedia applications. The few studies that consider dynamic mapping of applications do not consider throughput degradation, which directly impacts user satisfaction. This article proposes a runtime technique to analyze the execution trace of an application modeled as Synchronous Data Flow Graphs (SDFGs) to determine its mapping on a multiprocessor system with heterogeneous processing units for different fault scenarios. Further, communication energy is minimized for each of these mappings while satisfying the throughput constraint. Experiments conducted with synthetic and real SDFGs demonstrate that the proposed technique achieves significant improvement with respect to the state-of-the-art approaches in terms of throughput and storage overhead with less than 20% energy overhead.
+
+------------
+
+Paper Id: WOS:000293755900014
+Distance: 0.3239925801753998
+Similarity: 0.6760074198246002
+Title: Temperature-Aware Scheduling and Assignment for Hard Real-Time Applications on MPSoCs
+Abstract: Increasing integrated circuit (IC) power densities and temperatures may hamper multiprocessor system-on-chip (MPSoC) use in hard real-time systems. This paper formalizes the temperature-aware real-time MPSoC assignment and scheduling problem and presents an optimal phased steady-state mixed integer linear programming-based solution that considers the impact of scheduling and assignment decisions on MPSoC thermal profiles to directly minimize the chip peak temperature. We also introduce a flexible heuristic framework for task assignment and scheduling that permits system designers to trade off accuracy for running time when solving large problem instances. Finally, for task sets with sufficient slack, we show that inserting idle times between task executions can further reduce the peak temperature of the MPSoC quite significantly.
+
+------------
+
+Paper Id: WOS:000326614600001
+Distance: 0.3856143355369568
+Similarity: 0.6143856644630432
+Title: A system-level approach to adaptivity and fault-tolerance in NoC-based MPSoCs: The MADNESS project
+Abstract: Modern embedded systems increasingly require adaptive run-time management of available resources. One method for supporting adaptivity is to implement run-time application mapping. The system may adapt the mapping of the applications in order to accommodate the current workload conditions, to balance the computing load for efficient resource utilization, to meet quality of service agreements, to avoid thermal hot-spots, and to reduce power consumption. As the possibility of experiencing run-time faults becomes increasingly relevant with deep-sub-micron technology nodes, in the scope of the MADNESS project, we focused particularly on the problem of graceful degradation by dynamic remapping in presence of run-time faults. In this paper, we summarize the major results achieved in the MADNESS project regarding the system adaptivity and fault-tolerant processing. We report the results of the integration between platform level and middleware level support for adaptivity and fault-tolerance. Two case studies demonstrate the survival ability of the system via a low-overhead process migration mechanism and by taking near optimal remapping decisions at run-time. (C) 2013 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000329135500015
+Distance: 0.3888698220252991
+Similarity: 0.6111301779747009
+Title: Power-Aware Dynamic Memory Management on Many-Core Platforms Utilizing DVFS
+Abstract: Today multicore platforms are already prevalent solutions for modern embedded systems. In the future, embedded platforms will have an even more increased processor core count, composing many-core platforms. In addition, applications are becoming more complex and dynamic and try to efficiently utilize the amount of available resources on the embedded platforms. Efficient memory utilization is a key challenge for application developers, especially since memory is a scarce resource and often becomes the system's bottleneck. To cope with this dynamism and achieve better memory footprint utilization (low memory fragmentation) application developers resort to the usage of dynamic memory (heap) management techniques, by allocating and deallocating data at runtime. Moreover, overall power consumption is another key challenge that needs to be taken into consideration. Towards this, designers employ the usage of Dynamic Voltage and Frequency Scaling (DVFS) mechanisms, adapting to the application's computational demands at runtime. In this article, we propose the combination of dynamic memory management techniques with DVFS ones. This is performed by integrating, within the memory manager, runtime monitoring mechanisms that steer the DVFS mechanisms to adjust clock frequency and voltage supply based on heap performance. The proposed approach has been evaluated on a distributed shared-memory many-core platform composed of multiple LEON3 processors interconnected by a Network-on-Chip infrastructure, supporting DVFS. Experimental results show that by using the proposed method for monitoring and applying DVFS mechanisms the power consumption concerning dynamic memory management was reduced by approximately 37%. In addition we present the trade-offs the proposed approach. Last, by combining the developed method with heap fragmentation-aware dynamic memory managers, we achieve low heap fragmentation values combined with low power consumption.
+
+------------
+
+Paper Id: WOS:000325022800024
+Distance: 0.39660152792930603
+Similarity: 0.603398472070694
+Title: High-performance optimizations on tiled many-core embedded systems: a matrix multiplication case study
+Abstract: Technological advancements in the silicon industry, as predicted by Moore's law, have resulted in an increasing number of processor cores on a single chip, giving rise to multicore, and subsequently many-core architectures. This work focuses on identifying key architecture and software optimizations to attain high performance from tiled many-core architectures (TMAs)-an architectural innovation in the multicore technology. Although embedded systems design is traditionally power-centric, there has been a recent shift toward high-performance embedded computing due to the proliferation of compute-intensive embedded applications. The TMAs are suitable for these embedded applications due to low-power design features in many of these TMAs. We discuss the performance optimizations on a single tile (processor core) as well as parallel performance optimizations, such as application decomposition, cache locality, tile locality, memory balancing, and horizontal communication for TMAs. We elaborate compiler-based optimizations that are applicable to TMAs, such as function inlining, loop unrolling, and feedback-based optimizations. We present a case study with optimized dense matrix multiplication algorithms for Tilera's TILEPro64 to experimentally demonstrate the performance and performance per watt optimizations on TMAs. Our results quantify the effectiveness of algorithmic choices, cache blocking, compiler optimizations, and horizontal communication in attaining high performance and performance per watt on TMAs.
+
+------------
+
+Paper Id: WOS:000256863400003
+Distance: 0.39863449335098267
+Similarity: 0.6013655066490173
+Title: Using supplier locality in power-aware interconnects and caches in chip multiprocessors
+Abstract: Conventional snoopy-based chip multiprocessors take an aggressive approach broadcasting snoop requests to all nodes. In addition each node checks all received requests. This approach reduces the latency of cache to cache transfer misses at the expense of increasing power. In this paper we show that a large portion of interconnect/cache transactions are redundant as many snoop requests miss in the remote nodes. We exploit this inefficiency and introduce power optimization techniques for chip multiprocessors. Our optimizations rely on the observation that in a snoopy-based shared memory system the data supplier can be predicted with high accuracy. Our optimizations reduce power by eliminating unnecessary activity at both the requester and the supplier end of snoop requests. We reduce power as we (a) avoid broadcasting snoop requests to all processors and (b) avoid tag lookup for all nodes and for all requests arriving. In particular, we use supplier locality and introduce the following two optimizations. First, and at the requester end, we introduce speculative selective request (SSR) to reduce power dissipation in the binary tree interconnect. In SSR, we send the request only to the node more likely to have the missing data. We reduce power as we limit access only to the interconnect components between the requestor and the supplier node. Second, and at the supplier end, we propose speculative tag lookup (STL) to reduce power dissipation in data caches. We filter those accesses more likely to miss in the L, cache. Using shared memory applications, we show that by limiting snoop requests to the speculated nodes we reduce interconnect power by 25% in a four-way multiprocessor. Moreover, we show that speculative tag lookup reduces power in tag arrays by 14.1% in a four-way multiprocessor. Both optimizations come with negligible performance loss and hardware overhead. (C) 2007 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000256880700003
+Distance: 0.4041135311126709
+Similarity: 0.5958864688873291
+Title: Exploiting synchronous and asynchronous DVS for feedback EDF scheduling on an embedded platform
+Abstract: Contemporary processors support dynamic voltage scaling (DVS) to reduce power consumption by varying processor voltage/frequency dynamically. We develop power-aware feedback-DVS algorithms for hard real-time systems that adapt to dynamically changing workloads. The algorithms lower execution speed while guaranteeing timing constraints. We study energy consumption for synchronous and asynchronous DVS switching on a PowerPC board. Energy, measured via data acquisition, is reduced up to 70% over naive DVS for our feedback scheme with 24% peak savings over previous algorithms. These results, albeit differing in quantity, confirm trends observed under simulation. They are the first of their kind on an embedded board.
+
+------------
+
+Paper Id: WOS:000357345600018
+Distance: 0.4069811999797821
+Similarity: 0.5930188000202179
+Title: Latency-aware DVFS for efficient power state transitions on many-core architectures
+Abstract: Energy efficiency is quickly becoming a first-class design constraint in high-performance computing (HPC). We need more efficient power management solutions to save energy costs and carbon footprint of HPC systems. Dynamic voltage and frequency scaling (DVFS) is a commonly used power management technique for making a trade-off between power consumption and system performance according to the time-varying program behavior. However, prior work on DVFS seldom takes into account the voltage and frequency scaling latencies, which we found to be a crucial factor determining the efficiency of the power management scheme. Frequent power state transitions without latency awareness can make a real impact on the execution performance of applications. The design of multiple voltage domains in some many-core architectures has made the effect of DVFS latencies even more significant. These concerns lead us to propose a new latency-aware DVFS scheme to adjust the optimal power state more accurately. Our main idea is to analyze the latency characteristics in depth and design a novel profile-guided DVFS solution which exploits the varying execution patterns of the parallel program to avoid excessive power state transitions. We implement the solution into a power management library for use by shared-memory parallel applications. Experimental evaluation on the Intel SCC many-core platform shows significant improvement in power efficiency after using our scheme. Compared with a latency-unaware approach, we achieve 24.0 % extra energy saving, 31.3 % more reduction in the energy-delay product and 15.2 % less overhead in execution time in the average case for various benchmarks. Our algorithm is also proved to outperform a prior DVFS approach attempted to mitigate the latency effects.
+
+------------
+
+Paper Id: WOS:000239355400003
+Distance: 0.40831005573272705
+Similarity: 0.591689944267273
+Title: A case for chip multiprocessors based on the data-driven multithreading model
+Abstract: Current high-end microprocessors achieve high performance as a result of adding more features and therefore increasing complexity. This paper makes the case for a Chip-Multiprocessor based on the Data-Driven Multithreading (DDM-CMP) execution model in order to overcome the limitations of current design trends. Data-Driven Multithreading (DDM) is a multithreading model that effectively hides the communication delay and synchronization overheads. DDM-CMP avoids the complexity of other designs by combining simple commodity microprocessors with a small hardware overhead for thread scheduling and an interconnection network. Preliminary experimental results show that a DDM-CMP chip of the same hardware budget as a high-end commercial microprocessor, clocked at the same frequency, achieves a speedup of up to 18.5 with a 78-81% power consumption of the commercial chip. Overall, the estimated results for the proposed DDM-CMP architecture show a significant benefit in terms of both speedup and power consumption making it an attractive architecture for future processors.
+
+------------
+
+Paper Id: WOS:000235397100007
+Distance: 0.41164931654930115
+Similarity: 0.5883506834506989
+Title: Memory access scheduling and binding considering energy minimisation in multi-bank memory systems: integrated approach
+Abstract: Memory-related activity is one of the major sources of energy consumption in embedded systems. Many types of memories used in embedded systems allow multiple operating modes (e.g. active, standby, nap, power-down) to facilitate energy saving. Furthermore, it has been known that the potential energy saving increases when the embedded systems use multiple memory banks in which their operating modes are controlled independently. The authors propose a compiler-directed integrated approach to the problem of maximally utilising the operating modes of multiple memory banks by solving the three important tasks simultaneously: (1) assignment of variables to memory banks, (2) scheduling of memory access operations and (3) determination of operating modes of banks. Specifically, for an instance of tasks I and 2, the authors formulate task 3 as a shortest path (SP) problem in a network and solved it optimally. Then, an SP-based heuristic that solves tasks 2 and 3 efficiently in an integrated fashion is developed. Then the proposed approach is extended to address the limited register constraint in the processor. From experiments with a set of benchmark programs, it is confirmed that the proposed approach is able to reduce the energy consumption by 15.76% over that by the conventional approach.
+
+------------
+
+Paper Id: WOS:000294162500008
+Distance: 0.41354143619537354
+Similarity: 0.5864585638046265
+Title: Adaptive Power Control with Online Model Estimation for Chip Multiprocessors
+Abstract: As chip multiprocessors (CMPs) become the main trend in processor development, various power and thermal management strategies have recently been proposed to optimize system performance while controlling the power or temperature of a CMP chip to stay below a constraint. The availability of per-core dynamic voltage and frequency scaling (DVFS) also makes it possible to develop advanced management strategies. However, most existing solutions rely on open-loop search or optimization with the assumption that power can be estimated accurately, while others adopt oversimplified feedback control strategies to control power and temperature separately, without any theoretical guarantees. In this paper, we propose a chip-level power control algorithm that is systematically designed based on optimal control theory. Our algorithm can precisely control the power of a CMP chip to the desired set point while maintaining the temperature of each core below a specified threshold. Furthermore, an online model estimator is designed to achieve analytical assurance of control accuracy and system stability, even in the face of significant workload variations or unpredictable chip or core variations. To further improve system performance, we also integrate dynamic cache resizing into our control framework so that power can be shifted among CPU cores and the shared L2 cache. Empirical results on a physical testbed show that our controller outperforms two state-of-the-art control algorithms by having better SPEC benchmark performance and more precise power control. In addition, extensive simulation results demonstrate the efficacy of our algorithm for various CMP configurations.
+
+------------
+
+Paper Id: WOS:000356451900003
+Distance: 0.4143165349960327
+Similarity: 0.5856834650039673
+Title: RIDER: Ring deflection router with buffers
+Abstract: The network-on-chip is becoming an increasingly important component of chip multiprocessors. Recently bufferless deflection routers were proposed, aiming to reduce hardware cost in comparison to classic virtual channel based routers, by eliminating router buffers. We propose RIDER, a low cost deflection router based on an internal rotating ring structure with minimal number of buffers. We compare RIDER with 16 buffers to a wormhole router with 12 buffers, a virtual channel buffered router with 64 buffers, to CHIPPER, a bufferless deflection router with no buffers, and to MinBD, a buffered deflection router with four buffers.
+
+------------
+
+Paper Id: WOS:000349302200015
+Distance: 0.41720202565193176
+Similarity: 0.5827979743480682
+Title: Energy-Efficient Thread Assignment Optimization for Heterogeneous Multicore Systems
+Abstract: The current trend to move from homogeneous to heterogeneous multicore systems provides compelling opportunities for achieving performance and energy efficiency goals. Running multiple threads in multicore systems poses challenges on meeting limited shared resources, such as memory bandwidth. We propose an optimization approach that includes an Integer Linear Programming (ILP) optimization model and a scheme to dynamically determine thread-to-core assignment. We present simulation analysis that shows energy savings and performance gains for a variety of workloads compared to state-of-the-art schemes. We implemented and evaluated a prototype of our thread assignment approach at user level, leveraging Linux scheduling and performance-monitoring capabilities.
+
+------------
+
+
+###################################
+

@@ -1,0 +1,149 @@
+Related papers
+
+Paper Id: WOS:000339758100001
+Similarity: 0.5141711235046387
+Distance: 0.48582887649536133
+Title: Selective Sensing and Access Strategy to Maximize Throughput in Cognitive Radio Sensor Network
+Abstract: This paper presents a selective spectrum sensing and access strategy in a cognitive radio sensor network (CRSN), in order to maximize the throughput of secondary user (SU) system. An SU senses multiple channels simultaneously via wideband spectrum sensing. To maximize the throughput and reduce the sensing energy consumption, not all of the channels are sensed. The SU selects some channels for spectrum sensing and accesses these channels based on the sensing results. The unselected channels are accessed directly with low transmission power. A selection making algorithm based on partially observable Markov decision process (POMDP) theory is proposed, to make the SU determine which channels are selected for sensing, how long the sensing time, and the transmission powers of channels. An optimal policy and a myopic policy are proposed to solve the proposed POMDP problem. Moreover, an optimization problem is proposed to solve the synchronism problem among the selected channels. Numerical results show that the proposed selective spectrum sensing and access strategy improves the system performance efficiently.
+
+------------
+
+Paper Id: WOS:000339365500023
+Similarity: 0.5134703516960144
+Distance: 0.4865296483039856
+Title: Joint subcarrier, code, and power allocation for parallel multi-radio access in heterogeneous wireless networks
+Abstract: In the heterogeneous wireless networks, it has been proved that the joint spectrum and power allocation can achieve network diversity gains for parallel multi-radio access in theory. This article aims to develop an effective and practical algorithm of joint subcarrier, code, and power allocation for parallel multi-radio access of the downlink in heterogeneous wireless networks (e.g., CDMA and OFDMA). Firstly, we propose a unified framework to formulate the subcarrier, code, and power allocation as an optimization problem. Secondly, we propose a resource element (subcarrier and code) scheme based on the threshold type. Simulation results show that the proposed scheme outperforms the existing algorithm for considered wireless scenarios.
+
+------------
+
+Paper Id: WOS:000265137600004
+Similarity: 0.5069447159767151
+Distance: 0.4930552840232849
+Title: Opportunistic Scheduling with Reliability Guarantees in Cognitive Radio Networks
+Abstract: We develop opportunistic scheduling policies for cognitive radio networks that maximize the throughput utility of the secondary (unlicensed) users subject to maximum collision constraints with the primary (licensed) users. We consider a cognitive network with static primary users and potentially mobile secondary users. We use the technique of Lyapunov Optimization to design an online flow control, scheduling, and resource allocation algorithm that meets the desired objectives and provides explicit performance guarantees.
+
+------------
+
+Paper Id: WOS:000294007700015
+Similarity: 0.5048015713691711
+Distance: 0.49519842863082886
+Title: Optimal Scheduling for Fair Resource Allocation in Ad Hoc Networks With Elastic and Inelastic Traffic
+Abstract: This paper studies the problem of congestion control and scheduling in ad hoc wireless networks that have to support a mixture of best-effort and real-time traffic. Optimization and stochastic network theory have been successful in designing architectures for fair resource allocation to meet long-term throughput demands. However, to the best of our knowledge, strict packet delay deadlines were not considered in this framework previously. In this paper, we propose a model for incorporating the quality-of-service (QoS) requirements of packets with deadlines in the optimization framework. The solution to the problem results in a joint congestion control and scheduling algorithm that fairly allocates resources to meet the fairness objectives of both elastic and inelastic flows and per-packet delay requirements of inelastic flows.
+
+------------
+
+Paper Id: WOS:000265486900005
+Similarity: 0.5004359483718872
+Distance: 0.4995640516281128
+Title: Partitioning and Scheduling of Task Graphs on Partially Dynamically Reconfigurable FPGAs
+Abstract: This paper proposes a new model for the partitioning and scheduling of a specification on partially dynamically reconfigurable hardware. Although this problem can be solved optimally only by tackling its subproblems jointly, the exceeding complexity of such a task leads to a decomposition into two phases. The partitioning phase is based on a new graph-theoretic approach, which aims to obtain near optimality even if performed independently from the subsequent phase. For the scheduling phase, a new integer linear programming formulation and a heuristic approach are developed. Both take into account configuration prefetching and module reuse. The experimental results show that the proposed method compares favorably with existing solutions.
+
+------------
+
+Paper Id: WOS:000324298600005
+Similarity: 0.4993301331996918
+Distance: 0.5006698668003082
+Title: Throughput optimisation in sensor network-aided cognitive radio
+Abstract: One of the biggest challenges in cognitive radio (CR) network is to maximise the throughput of the secondary user while keeping the interference to the primary under the interference threshold. Efficient spectrum sensing along with transmit power control can achieve this conflicting goal. In this paper, we propose a sensor network aided cognitive radio system which will reduce the missed detection and reduce the interference. We investigate the performance of various sensing and power allocation schemes for an OFDM-based cognitive radio system. We formulate an optimisation problem to design the optimal sensing time and transmit power. Mathematical analysis shows that interference between primary and secondary in OFDM-based system depends on spectral distance. Results show that distance dependent modified water filling (DDMWF) scheme can achieve the highest data rate for the cognitive radio based secondary user and then the optimal sensing time can be designed to maximise the throughput.
+
+------------
+
+Paper Id: WOS:000292829700006
+Similarity: 0.4987543225288391
+Distance: 0.5012456774711609
+Title: Distributed resource allocation with fairness for cognitive radios in wireless mobile ad hoc networks
+Abstract: Both spectrum sensing and power allocation have crucial effects on the performance of wireless cognitive ad hoc networks. In order to obtain the optimal available subcarrier sets and transmission powers, we propose in this paper a distributed resource allocation framework for cognitive ad hoc networks using the orthogonal frequency division multiple access (OFDMA) modulation. This framework integrates together the constraints of quality of service (QoS), maximum powers, and minimum rates. The fairness of resource allocation is guaranteed by introducing into the link capacity expression the probability that a subcarrier is occupied. An incremental subgradient approach is applied to solve the optimization problems that maximize the weighted sum capacities of all links without or with fairness constraints. Distributed subcarrier selection and power allocation algorithms are presented explicitly. Simulations confirm that the approach converges to the optimal solution faster than the ordinary subgradient method and demonstrate the effects of the key parameters on the system performance. It has been observed that the algorithms proposed in our paper outperform the existing ones in terms of the throughput and number of secondary links admitted and the fairness of resource allocation.
+
+------------
+
+Paper Id: WOS:000319409900007
+Similarity: 0.49584969878196716
+Distance: 0.5041503012180328
+Title: DSS: Distributed SINR-Based Scheduling Algorithm for Multihop Wireless Networks
+Abstract: The problem of developing distributed scheduling algorithms for high throughput in multihop wireless networks has been extensively studied in recent years. The design of a distributed low-complexity scheduling algorithm becomes even more challenging when taking into account a physical interference model, which requires the SINR at a receiver to be checked when making scheduling decisions. To do so, we need to check whether a transmission failure is caused by interference due to simultaneous transmissions from distant nodes. In this paper, we propose a scheduling algorithm under a physical interference model, which is amenable to distributed implementation with 802.11 CSMA technologies. The proposed scheduling algorithm is shown to achieve throughput optimality. We present two variations of the algorithm to enhance the delay performance and to reduce the control overhead, respectively, while retaining throughput optimality.
+
+------------
+
+Paper Id: WOS:000300425000013
+Similarity: 0.4953770041465759
+Distance: 0.5046229958534241
+Title: Analyzing the Performance of Greedy Maximal Scheduling via Local Pooling and Graph Theory
+Abstract: Efficient operation of wireless networks and switches requires using simple (and in some cases distributed) scheduling algorithms. In general, simple greedy algorithms (known as Greedy Maximal Scheduling, or GMS) are guaranteed to achieve only a fraction of the maximum possible throughput (e. g., 50% throughput in switches). However, it was recently shown that in networks in which the Local Pooling conditions are satisfied, GMS achieves 100% throughput. Moreover, in networks in which the sigma-Local Pooling conditions hold, GMS achieves sigma% throughput. In this paper, we focus on identifying the specific network topologies that satisfy these conditions. In particular, we provide the first characterization of all the network graphs in which Local Pooling holds under primary interference constraints (in these networks, GMS achieves 100% throughput). This leads to a linear-time algorithm for identifying Local-Pooling-satisfying graphs. Moreover, by using similar graph-theoretical methods, we show that in all bipartite graphs (i.e., input-queued switches) of size up to 7 x n, GMS is guaranteed to achieve 66% throughput, thereby improving upon the previously known 50% lower bound. Finally, we study the performance of GMS in interference graphs and show that in certain specific topologies, its performance could be very bad. Overall, the paper demonstrates that using graph-theoretical techniques can significantly contribute to our understanding of greedy scheduling algorithms.
+
+------------
+
+Paper Id: WOS:000241805700025
+Similarity: 0.4938885569572449
+Distance: 0.5061114430427551
+Title: Wireless link scheduling with power control and SINR constraints
+Abstract: The problem of determining a minimal length schedule to satisfy given link demands in a wireless network is considered. Links are allowed to be simultaneously active if no node can simultaneously transmit and receive, no node can transmit to or receive from more than one node at a time, and a given signal-to-interference and noise ratio (SINR) is exceeded at each receiver when transmitters use optimally chosen transmit powers. We show that a) the general problem is at least as hard as the MAX-SIR-MATCHING problem, which is easier to describe and b) when the demands have a superincreasing property the problem is tractable.
+
+------------
+
+Paper Id: WOS:000209681300019
+Similarity: 0.4922141134738922
+Distance: 0.5077858865261078
+Title: Frequency and Power Allocation for Energy Efficient OFDMA Systems with Proportional Rate Constraints
+Abstract: A two-step solution to the problem of finding the subchannel and power allocation that maximizes the energy efficiency of the OFDMA based transmissions from a base station, under proportional rate and total power constraints, is presented. A low complexity subchannel assignment is followed by an optimal power allocation that is obtained via a single non-linear equation. The proposed algorithm has the same computational complexity as the best algorithm in the literature for the same problem but with minimum rate constraints. While the convergence of the algorithm in the literature is not guaranteed, the algorithm in this paper is proven to converge. Simulation results show that the proposed algorithm out-performs the one in the literature when the rate constraints are ignored.
+
+------------
+
+Paper Id: WOS:000238671300002
+Similarity: 0.4913574755191803
+Distance: 0.5086425244808197
+Title: QoS-driven asynchronous uplink subchannel allocation algorithms for space-time OFDM-CDMA systems in wireless networks
+Abstract: In order to support the diverse Quality of Service (QoS) requirements for differentiated data applications in broadband wireless networks, advanced techniques such as space-time coding (STC) and orthogonal frequency division multiplexing (OFDM) are implemented at the physical layer. However, the employment of such techniques evidently affects the subchannel-allocation algorithms at the medium access control (MAC) layer. In this paper, we propose the QoS-driven cross-layer subchannel-allocation algorithms for data transmissions over asynchronous uplink space-time OFDM-CDMA wireless networks. We mainly focus on QoS requirements of maximizing the best-effort throughput and proportional bandwidth fairness, while minimizing the upper-bound of scheduling delay. Our extensive simulations show that the proposed infrastructure and algorithms can achieve high bandwidth fairness and system throughput while reducing scheduling delay over wireless networks.
+
+------------
+
+Paper Id: WOS:000360067600023
+Similarity: 0.4911438226699829
+Distance: 0.5088561773300171
+Title: A Novel Coordinated Connection Access Control and Resource Allocation Framework for 4G Wireless Networks
+Abstract: In the academic literature on cellular network design, resource allocation algorithms often attempt to maximize total utility or throughput over a short time period, and connection access control often admits arrivals if and only if there are sufficient resources. In this paper, we investigate how connection access control and resource allocation can be coordinated to jointly achieve maximum total utility. We propose a decomposition in which resource allocation maximizes long-term average utility for each system state, and connection access control maximizes long-term average utility over all system states. We discuss the resulting interface and give examples of algorithms that satisfy this decomposition and interface. Simulation results illustrate that the optimal connection access control policy may block applications with relatively low average utility per unit rate even when capacity is available, and that coordinated connection access control and resource allocation can outperform uncoordinated approaches.
+
+------------
+
+Paper Id: WOS:000339379900011
+Similarity: 0.4900020956993103
+Distance: 0.5099979043006897
+Title: Proactive resource allocation optimization in LTE with inter-cell interference coordination
+Abstract: This paper presents a distributed, dynamic self-organizing network (SON) solution for downlink resources in an LTE network, triggered by support vector regression instances predicting various traffic loads on the nodes in the network. The proposed SON algorithm pro-actively allocates resources to nodes which are expected to experience traffic spikes before the higher traffic load occurs, as opposed to overloaded nodes reacting to a resource-exhaustion condition. In addition, the solution ensures inter-cell interference coordination is maintained across the LTE cells/sectors.
+
+------------
+
+Paper Id: WOS:000306391900005
+Similarity: 0.48969003558158875
+Distance: 0.5103099644184113
+Title: Cognitive Radio Based Resource Allocation in Femto-Cells
+Abstract: We consider resource allocation in femto-cell networks to maximize the throughput while minimizing interference to macro-users nearby. This can be achieved by allocating spectrum resource in a cognitive radio way. The proposed resource allocation is performed in two steps; spectrum sensing and resource scheduling. The femto base station detects idle frequency assignments (FAs) free from the occupation by macro-users and then allocates sub-channels in an idle FA to femto-users, effectively managing the interference problem. Finally, the effectiveness of the proposed scheme is verified by computer simulations.
+
+------------
+
+Paper Id: WOS:000238207800091
+Similarity: 0.4870709180831909
+Distance: 0.5129290819168091
+Title: A flexible and scalable access control for ubiquitous computing environments
+Abstract: 
+
+------------
+
+Paper Id: WOS:000294909600001
+Similarity: 0.48573940992355347
+Distance: 0.5142605900764465
+Title: On the Throughput of MIMO-Empowered Multihop Cognitive Radio Networks
+Abstract: Cognitive radio (CR) and multiple-input multiple-output (MIMO) are two independent physical layer technologies that have made significant impact on wireless networking. CR operates on the channel/band level to exploit white space across spectrum dimension while MIMO operates within the same channel to improve spectral efficiency within the same band. In this paper, we explore MIMO-empowered CR network, which we call CRN(MIMO), to achieve the ultimate flexibility and efficiency in dynamic spectrum access and spectrum utilization. Given that CR and MIMO handle interference at different levels (across channels vs. within a channel), we are interested in how to jointly optimize both so as to maximize user throughput in a multihop network. To answer this question, we develop a tractable mathematical model for CRN(MIMO), which captures the essence of channel assignment (for CR) and degree-of-freedom (DoF) allocation (for MIMO) within a channel. Based on this mathematical model, we use numerical results to show how channel assignment in CRN and DoF allocation in MIMO can be jointly optimized to maximize throughput. More important, for a CRN(MIMO) with A(MIMO) antennas at each node, we show that joint optimization of CR and MIMO offers more than A(MIMO)-fold throughput increase than a CRN (without MIMO).
+
+------------
+
+Paper Id: WOS:000346796000010
+Similarity: 0.48545151948928833
+Distance: 0.5145484805107117
+Title: Proportionally Fair Distributed Resource Allocation in Multiband Wireless Systems
+Abstract: A challenging problem in multiband multicell self-organized wireless systems, such as femtocells/picocells in cellular networks, multichannel Wi-Fi networks, and more recent wireless networks over TV white spaces, is of distributed resource allocation. This in general involves four components: channel selection, client association, channel access, and client scheduling. In this paper, we present a unified framework for jointly addressing the four components with the global system objective of maximizing the clients throughput in a proportionally fair manner. Our formulation allows a natural dissociation of the problem into two subparts. We show that the first part, involving channel access and client scheduling, is convex and derive a distributed adaptation procedure for achieving a Pareto-optimal solution. For the second part, involving channel selection and client association, we develop a Gibbs-sampler-based approach for local adaptation to achieve the global objective, as well as derive fast greedy algorithms from it that achieve good solutions often.
+
+------------
+
+
+###################################
+

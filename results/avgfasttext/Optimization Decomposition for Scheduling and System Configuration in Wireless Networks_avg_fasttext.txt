@@ -1,0 +1,157 @@
+Related papers
+
+Paper Id: WOS:000290493400002
+Distance: 0.37680506706237793
+Similarity: 0.6231949329376221
+Title: A survey on the channel assignment problem in wireless networks
+Abstract: Efficient allocation of channels for wireless communication in different network scenarios has become an extremely important topic of recent research. The main challenge lies in the fact that the channel allocation problem is NP-complete. Because of a maximum allowable time limit imposed in practical situations for allocation of channels, sometimes we may need to be satisfied with a near-optimal solution. In this correspondence, we present a discussion on the various challenges and approaches that have been used by different researchers to solve the problem of channel allocation taking into account different interference issues and efficient utilization of available communication channels for cellular mobile (including multimedia communication) environment and cognitive radio based networks. Copyright (C) 2010 JohnWiley & Sons, Ltd.
+
+------------
+
+Paper Id: WOS:000298209700005
+Distance: 0.3905127942562103
+Similarity: 0.6094872057437897
+Title: Online call control in cellular networks revisited
+Abstract: Wireless communication networks based on frequency division multiplexing (FDM in short) play an important role in the field of communications, in which each request can be satisfied by assigning a frequency. To avoid interference, each assigned frequency must be different from the neighboring assigned frequencies. Since frequencies are scarce resources, the main problem in wireless networks is how to fully utilize the given bandwidth of frequencies. In this paper, we consider the online call control problem. Given a fixed bandwidth of frequencies and a sequence of communication requests arriving over time, each request must be either satisfied immediately after its arrival by assigning an available frequency, or rejected. The objective of the call control problem is to maximize the number of accepted requests. We study the asymptotic performance of this problem, i.e., the number of requests in the sequence and the bandwidth of frequencies are very large. In this paper, we give a 7/3-competitive algorithm, say CACO, for the call control problem in cellular networks, improving the previous 2.5-competitive result, and show that CACO is best possible among a class of HYBRID algorithms. (C) 2011 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000352811800006
+Distance: 0.39741456508636475
+Similarity: 0.6025854349136353
+Title: Dynamic spectrum allocation in heterogeneous wireless networks under interference constraints across the cell coverage
+Abstract: In order to improve spectrum utilization, dynamic spectrum allocation (DSA) schemes with interference management have been widely investigated, and a special interest is in the current heterogeneous wireless network (HWN) environment. In the previous work, the approach that guarantees quality of service for the cell-boundary user is extensively used in the DSA scheme. However, such approach gives a pessimistic result. In this paper, we design a DSA scheme for the HWN system, which adopts relatively accurate interference constraints. First, considering that users may randomly locate over the cell, we propose interference constraints across the cell coverage, in which the interference experienced at a point is controlled below the level suffered when using fixed spectrum allocation in only a single network, and the proportion of the cell area where interference is controlled reaches the required area coverage probability. Then under the interference constraints, we formulate the downlink DSA scheme as a combinatorial optimization problem. As the problem is NP-hard, to reduce the computational complexity, we propose two greedy heuristic algorithms for its solution. Simulation results show that the DSA scheme could improve the total spectrum utility for operators and increase the satisfaction rate of spectrum demands for base stations. Copyright (c) 2013 John Wiley & Sons, Ltd.
+
+------------
+
+Paper Id: WOS:000298632200020
+Distance: 0.40812617540359497
+Similarity: 0.591873824596405
+Title: Task allocation and scheduling in wireless distributed computing networks
+Abstract: Wireless distributed computing (WDC) is an enabling technology that allows radio nodes to cooperate in processing complex computational tasks of an application in a distributed manner. WDC research is being driven by the fact that mobile portable computing devices have limitations in executing complex mobile applications, mainly attributed to their limited resource and functionality. This article focuses on resource allocation in WDC networks, specifically on scheduling and task allocation. In WDC, it is important to schedule communications between the nodes in addition to the allocation of computational tasks to nodes. Communication scheduling and heterogeneity in the operating environment make the WDC resource allocation problem challenging to address. This article presents a task allocation and scheduling algorithm that optimizes both energy consumption and makespan in a heuristic manner. The proposed algorithm uses a comprehensive model of the energy consumption for the execution of tasks and communication between tasks assigned to different radio nodes. The algorithm is tested for three objectives, namely, minimization of makespan, minimization of energy consumption, and minimization of both makespan and energy consumption.
+
+------------
+
+Paper Id: WOS:000358997000011
+Distance: 0.40915533900260925
+Similarity: 0.5908446609973907
+Title: A game theory approach for efficient power control and interference management in two-tier femtocell networks based on local gain
+Abstract: In the recent years, femtocell technology has received a considerable attention due to the ability to provide an efficient indoor wireless coverage as well as enhanced capacity. However, under the spectrum sharing between femtocell user equipment (FUEs) and the owner of spectrum macrocell user equipment (MUEs), both may experience higher uplink interference to each other. This paper proposes a novel distributed power control algorithm for the interference management in two-tier femtocell networks. Due to the assignment of licensed radio frequency to the outdoor macrocell users, the access priority of MUEs should be higher than FUEs. In addition, the quality of service (QoS) of MUEs that is expressed in the target signal-to-interference-plus-noise ratio (SINR) must always be achieved. On the other hand, we consider an efficient QoS provisioning cost function for the low-tier FUEs. The proposed algorithm requires only local information and converges even in cases where the frontiers of available power serve the target SINRs impossible. The advantage of the algorithm is the ability to implement in a distributed manner. Simulation results show that the proposed algorithm based on our cost function provides effective resource allocation and substantial power saving as compared to the traditional algorithms.
+
+------------
+
+Paper Id: WOS:000292829700006
+Distance: 0.4102582633495331
+Similarity: 0.5897417366504669
+Title: Distributed resource allocation with fairness for cognitive radios in wireless mobile ad hoc networks
+Abstract: Both spectrum sensing and power allocation have crucial effects on the performance of wireless cognitive ad hoc networks. In order to obtain the optimal available subcarrier sets and transmission powers, we propose in this paper a distributed resource allocation framework for cognitive ad hoc networks using the orthogonal frequency division multiple access (OFDMA) modulation. This framework integrates together the constraints of quality of service (QoS), maximum powers, and minimum rates. The fairness of resource allocation is guaranteed by introducing into the link capacity expression the probability that a subcarrier is occupied. An incremental subgradient approach is applied to solve the optimization problems that maximize the weighted sum capacities of all links without or with fairness constraints. Distributed subcarrier selection and power allocation algorithms are presented explicitly. Simulations confirm that the approach converges to the optimal solution faster than the ordinary subgradient method and demonstrate the effects of the key parameters on the system performance. It has been observed that the algorithms proposed in our paper outperform the existing ones in terms of the throughput and number of secondary links admitted and the fairness of resource allocation.
+
+------------
+
+Paper Id: WOS:000339168800016
+Distance: 0.41028892993927
+Similarity: 0.58971107006073
+Title: Uplink Soft Frequency Reuse for Self-Coexistence of Cognitive Radio Networks
+Abstract: The depletion of usable radio frequency spectrum has stimulated increasing interest in dynamic spectrum access technologies, such as cognitive radio (CR). In a scenario where multiple co-located CR networks operate in the same swath of white-space (or unlicensed) spectrum with little or no direct coordination, co-channel self-coexistence is a challenging problem. In this paper, we focus on the problem of spectrum sharing among coexisting CR networks that employ orthogonal frequency division multiple access (OFDMA) in their uplink and do not rely on inter-network coordination. An uplink soft frequency reuse (USFR) technique is proposed to enable globally power-efficient and locally fair spectrum sharing. We frame the self-coexistence problem as a non-cooperative game. In each network cell, uplink resource allocation (URA) problem is decoupled into two subproblems: subchannel allocation (SCA) and transmit power control (TPC). We provide a unique optimal solution to the TPC subproblem, while presenting a low-complexity heuristic for the SCA subproblem. After integrating the SCA and TPC games as the URA game, we design a heuristic algorithm that achieves the Nash equilibrium in a distributed manner. In both multi-operator and single-operator coexistence scenarios, our simulation results show that USFR significantly improves self-coexistence in spectrum utilization, power consumption, and intra-cell fairness.
+
+------------
+
+Paper Id: WOS:000359264300006
+Distance: 0.41038811206817627
+Similarity: 0.5896118879318237
+Title: Energy-Adaptive Downlink Resource Allocation in Wireless Cellular Systems
+Abstract: Mobile devices have increasingly been used to run multimedia applications which are extremely downlink-intensive. The conventional rate adaptive and/or margin adaptive approach for radio resource allocation may result in unnecessary energy consumption on mobile devices, which will not be energy efficient for mobile multimedia applications. In this paper, we develop an energy adaptive approach and design an energy-efficient downlink resource allocation scheme to support multimedia applications. The objective is to minimize the total energy consumption of mobile devices for data reception while meeting the data rate requirements at mobile devices and the transmit power constraint at the base station. We show that the optimization problem is NP-hard and then propose an efficient algorithm that has a provable performance guarantee under a certain condition. We have conducted extensive simulations to evaluate the efficacy of the proposed algorithm and our results provide useful insights into the design of energy-efficient resource allocation for wireless systems.
+
+------------
+
+Paper Id: WOS:000290668400004
+Distance: 0.412269651889801
+Similarity: 0.587730348110199
+Title: Maximizing Capacity in Multihop Cognitive Radio Networks under the SINR Model
+Abstract: Cognitive radio networks (CRNs) have the potential to utilize spectrum efficiently and are positioned to be the core technology for the next-generation multihop wireless networks. An important problem for such networks is its capacity. We study this problem for CRNs in the SINR (signal-to-interference-and-noise-ratio) model, which is considered to be a better characterization of interference (but also more difficult to analyze) than disk graph model. The main difficulties of this problem are two-fold. First, SINR is a nonconvex function of transmission powers; an optimization problem in the SINR model is usually a nonconvex program and NP-hard in general. Second, in the SINR model, scheduling feasibility and the maximum allowed flow rate on each link are determined by SINR at the physical layer. To maximize capacity, it is essential to follow a cross-layer approach, but joint optimization at physical (power control), link (scheduling), and network (flow routing) layers with the SINR function is inherently difficult. In this paper, we give a mathematical characterization of the joint relationship among these layers. We devise a solution procedure that provides a (1 - epsilon) optimal solution to this complex problem, where epsilon is the required accuracy. Our theoretical result offers a performance benchmark for any other algorithms developed for practical implementation. Using numerical results, we demonstrate the efficacy of the solution procedure and offer quantitative understanding on the interaction of power control, scheduling, and flow routing in a CRN.
+
+------------
+
+Paper Id: WOS:000304218500013
+Distance: 0.41288092732429504
+Similarity: 0.587119072675705
+Title: An energy efficient channel assignment and routing algorithm for multi-radio wireless mesh networks
+Abstract: Endowing mesh routers with multiple radios is a recent solution to improve the performance of wireless mesh networks. Solving the problem how to assign channels to radios has attracted a lot of attention in the recent years, partly because of the hardness of solving the channel assignment problem jointly with the routing problem. However, the approaches proposed in the literature so far have mainly focused on reducing interference or maximizing the throughput. Little attention has been paid to the energy consumption of wireless mesh networks, given that mesh nodes are usually connected to a power source. However, with the rising concerns about the energy consumed by communication infrastructures, it makes sense to consider the minimization of the energy consumption as an objective of the channel assignment and routing problem. Our work stems from the observation that an idle radio simply overhearing a frame consumes nearly the same power as the radio actually receiving the frame. Hence, energy may be saved by turning off a number of radios, if the performance of the network is not impaired. In this paper, we define the energy efficient channel assignment and routing problem, show that it is NP-hard and propose a heuristic algorithm. For the purpose of comparing the solution found by the proposed algorithm to the optimal solution, we also present two Mixed Integer Linear Programs (MILPs) that optimally solve the problem we address. Finally, we show the results of extensive simulation studies we conducted to assess the effectiveness of the proposed algorithm. (C) 2012 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000357662100013
+Distance: 0.41930946707725525
+Similarity: 0.5806905329227448
+Title: LARGE-SCALE CONVEX OPTIMIZATION FOR ULTRA-DENSE CLOUD-RAN
+Abstract: The heterogeneous cloud radio access network (Cloud-RAN) provides a revolutionary way to densify radio access networks. It enables centralized coordination and signal processing for efficient interference management and flexible network adaptation. Thus it can resolve the main challenges for next-generation wireless networks, including higher energy efficiency and spectral efficiency, higher cost efficiency, scalable connectivity, and low latency. In this article we will provide an algorithmic approach to the new design challenges for the dense heterogeneous Cloud-RAN based on convex optimization. As problem sizes scale up with the network size, we will demonstrate that it is critical to take unique structures of design problems and inherent characteristics of wireless channels into consideration, while convex optimization will serve as a powerful tool for such purposes. Network power minimization and channel state information acquisition will be used as two typical examples to demonstrate the effectiveness of convex optimization methods. Then we will present a twostage framework to solve general large-scale convex optimization problems, which is amenable to parallel implementation in the cloud data center.
+
+------------
+
+Paper Id: WOS:000336703000009
+Distance: 0.42243728041648865
+Similarity: 0.5775627195835114
+Title: A survey on resource allocation techniques in OFDM(A) networks
+Abstract: In this contribution, we present a survey on the radio resource allocation techniques in orthogonal frequency division multiplexing (OFDM) and orthogonal frequency division multiple access (OFDMA) systems. This problem goes back to 1960s and that is related to properly and efficiently allocate the radio resources, namely subcarriers and power. We start by overviewing the main open issues in OFDM. Then, we describe the problem formulation in OFDMA, and we review the existing solutions to allocate the radio resources. The goal is to discuss the fundamental concepts and relevant features of different radio resource management criteria, including water-filling, max min fairness, proportional fairness, cross-layer optimization, utility maximization, and game theory, also including a toy example with two terminals to compare the performance of the different schemes. We conclude the survey with a review of the state-of-the-art in resource allocation for next-generation wireless networks, including multicellular systems, cognitive radio, and relay-assisted communications, and we summarize advantages and common problems of the existing solutions available in the literature. The distinguishing feature of this contribution is a tutorial-style introduction to the fundamental problems in this area of research, intended for beginners on this topic. (C) 2014 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000337726100003
+Distance: 0.42314544320106506
+Similarity: 0.5768545567989349
+Title: Tradeoff between Energy-Efficiency and Spectral-Efficiency by Cooperative Rate Splitting
+Abstract: The trend of an increasing demand for a high-quality user experience, coupled with a shortage of radio resources, has necessitated more advanced wireless techniques to cooperatively achieve the required quality-of-experience enhancement. In this study, we investigate the critical problem of rate splitting in heterogeneous cellular networks, where concurrent transmission, for instance, the coordinated multipoint transmission and reception of LTE-A systems, shows promise for improvement of network-wide capacity and the user experience. Unlike most current studies, which only deal with spectral efficiency enhancement, we implement an optimal rate splitting strategy to improve both spectral efficiency and energy efficiency by exploring and exploiting cooperation diversity. First, we introduce the motivation for our proposed algorithm, and then employ the typical cooperative bargaining game to formulate the problem. Next, we derive the best response function by analyzing the dual problem of the defined primal problem. The existence and uniqueness of the proposed cooperative bargaining equilibrium are proved, and more importantly, a distributed algorithm is designed to approach the optimal unique solution under mild conditions. Finally, numerical results show a performance improvement for our proposed distributed cooperative rate splitting algorithm.
+
+------------
+
+Paper Id: WOS:000342540900003
+Distance: 0.4245370626449585
+Similarity: 0.5754629373550415
+Title: Hop capacity balancing in OFDMA relay networks
+Abstract: A novel scheduling scheme for the orthogonal frequency division multiple access (OFDMA) relay systems is proposed. In the relay systems, downlink frame is divided into two slots for two-hop transmission, corresponding to the base station (BS)-relay station (RS) and the RS-mobile station (MS) transmissions, respectively. If the capacities of two hops are not equal, cell throughput can be degraded by the bottleneck hop and radio resource can be underutilized on the non-bottleneck hop. The proposed scheme aims at increasing cell throughput while guaranteeing the minimum rate requirements of MSs, by balancing the capacities of two hops. We formulate a throughput maximization problem which satisfies the minimum rate requirements of MSs, by adjusting the lengths of both slots and allocating the subchannels appropriately. To alleviate the high computational complexity of the problem, we suggest a practical scheduling scheme that uses linear programming relaxation and postprocessing algorithm. The simulation results show that the proposed scheme guarantees the minimum rate requirements of real-time MSs more properly and provides higher cell throughput compared to the existing hop capacity balancing schemes for OFDMA relay systems. (C) 2014 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000353070900017
+Distance: 0.4246675670146942
+Similarity: 0.5753324329853058
+Title: A flexible mid-term frequency domain scheduler for resource allocation in HetNets based on the SINR requested by users
+Abstract: This article treats the resource allocation problem for the downlink of a multi-cell, multiservice Wireless Mobile Communications System (WMCS) with heterogeneous architecture deployed into an urban environment using Long Term Evolution (LTE) and Orthogonal Frequency Division Multiple Access (OFDMA) in its physical level. The optimization model aims to satisfy services to users by making an efficient use of the available resources, and a fair frequency block allocation, using the Signal to Interference-plus-Noise Ratio (SINR). It is a Mixed Integer Nonlinear Programming (MINLP) model whose solution is complex to obtain directly. The proposed solution algorithm decouples the solution space of the problem and uses an iterative and semi-distributed approach to implement a frequency-domain scheduler in the medium term that uses a global vision of the system to allocate resources trying to obtain the SINR required for all users (the proposed goal). Since it is not always possible to achieve it, we take advantage of the elasticity of some of the services offered and incorporate a slack variable to solve it. The approach allows selecting the frequency allocation strategy, the exploration focus of the search space and the system administrator's vision. The results obtained show that the implementation that uses a coordinated frequency allocation obtains better results in the amount of users with full satisfaction and in the use of power when compared to implementations using other frequency allocation strategies. In scenarios with heterogeneous architecture, the combined effect of picocells and coordinated frequency allocation improves the value for the defined performance metrics. (C) 2015 Elsevier B.V. All rights reserved.
+
+------------
+
+Paper Id: WOS:000295739000016
+Distance: 0.42603278160095215
+Similarity: 0.5739672183990479
+Title: Distributed Rate Allocation for Wireless Networks
+Abstract: This paper develops a distributed algorithm for rate allocation in wireless networks that achieves the same throughput region as optimal centralized algorithms. This cross-layer algorithm jointly performs medium access control and physical-layer rate adaptation. The paper establishes that this algorithm is throughput-optimal for general rate regions. In contrast to on-off scheduling, rate allocation enables optimal utilization of physical-layer schemes by scheduling multiple rate levels. The algorithm is based on local queue-length information, and thus the algorithm is of significant practical value. An important application of this algorithm is in multiple-band multiple-radio throughput-optimal distributed scheduling for white-space networks. The algorithm requires that each link can determine the global feasibility of increasing its current data-rate. In many classes of networks, any one link's data-rate primarily impacts its neighbors and this impact decays with distance. Hence, local exchanges can provide the information needed to determine feasibility. Along these lines, the paper discusses the potential use of existing physical-layer control messages to determine feasibility. This can be considered as a technique analogous to carrier sensing in carrier sense multiple access (CSMA) networks.
+
+------------
+
+Paper Id: WOS:000297355000011
+Distance: 0.4270476698875427
+Similarity: 0.5729523301124573
+Title: Electromagnetic Interference-Aware Transmission Scheduling and Power Control for Dynamic Wireless Access in Hospital Environments
+Abstract: We study the multiple access problem for e-Health applications (referred to as secondary users) coexisting with medical devices (referred to as primary or protected users) in a hospital environment. In particular, we focus on transmission scheduling and power control of secondary users in multiple spatial reuse time-division multiple access (STDMA) networks. The objective is to maximize the spectrum utilization of secondary users and minimize their power consumption subject to the electromagnetic interference (EMI) constraints for active and passive medical devices and minimum throughput guarantee for secondary users. The multiple access problem is formulated as a dual objective optimization problem which is shown to be NP-complete. We propose a joint scheduling and power control algorithm based on a greedy approach to solve the problem with much lower computational complexity. To this end, an enhanced greedy algorithm is proposed to improve the performance of the greedy algorithm by finding the optimal sequence of secondary users for scheduling. Using extensive simulations, the tradeoff in performance in terms of spectrum utilization, energy consumption, and computational complexity is evaluated for both the algorithms.
+
+------------
+
+Paper Id: WOS:000357656200009
+Distance: 0.4271993637084961
+Similarity: 0.5728006362915039
+Title: Minimum Energy Routing and Jamming to Thwart Wireless Network Eavesdroppers
+Abstract: There is a rich recent literature on information-theoretically secure communication at the physical layer of wireless networks, where secret communication between a single transmitter and receiver has been studied extensively. In this paper, we consider how single-hop physical layer security techniques can be extended to multi-hop wireless networks. We show that guaranteed security can be achieved in multi-hop networks by augmenting physical layer security techniques, such as cooperative jamming, with the higher layer network mechanisms, such as routing. Specifically, we consider the secure minimum energy routing problem, in which the objective is to compute a minimum energy path between two network nodes subject to constraints on the end-to-end communication secrecy and goodput over the path. This problem is formulated as a constrained optimization of transmission power and link selection, which is proved to be NP-hard. Nevertheless, we show that efficient algorithms exist to compute both exact and approximate solutions for the problem. In particular, we develop an exact solution of pseudo-polynomial complexity, as well as an epsilon-optimal approximation of polynomial complexity. Simulation results are also provided to show the utility of our algorithms and quantify their energy savings compared to a combination of (standard) security-agnostic minimum energy routing and physical layer security. In the simulated scenarios, we observe that, by jointly optimizing link selection at the network layer and cooperative jamming at the physical layer, our algorithms reduce the network energy consumption by half.
+
+------------
+
+Paper Id: WOS:000269776700003
+Distance: 0.4275948405265808
+Similarity: 0.5724051594734192
+Title: Optimal Channel Adaptation of Scalable Video Over a Multicarrier-Based Multicell Environment
+Abstract: To achieve seamless multimedia streaming services over wireless networks, it is important to overcome inter-cell interference (ICI), particularly in cell border regions. In this regard scalable video coding (SVC) has been actively studied due to its advantage of channel adaptation. We explore an optimal solution for maximizing the expected visual entropy over an orthogonal frequency division multiplexing (OFDM)-based broadband network from the perspective of cross-layer optimization. An optimization problem is parameterized by a set of source and channel parameters that are acquired along the user location over a multicell environment. A suboptimal solution is suggested using a greedy algorithm that allocates the radio resources to the scalable bitstreams as a function of their visual importance. The simulation results show that the greedy algorithm effectively resists ICI in the cell border region, while conventional nonscalable coding suffers severely because of ICI.
+
+------------
+
+
+###################################
+

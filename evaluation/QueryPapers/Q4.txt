@@ -1,0 +1,8 @@
+Paper ID: WOS:000318807000019	
+Year: 2013	
+
+Title: A scientometric analysis of the effectiveness of Taiwan's educational research projects	
+
+Abstract: The seeking of evidence for revealing the research performance of Education in Taiwan, in response to the stimulus by the national research projects, is presented and interpreted. More than 70,000 publication records over the years 1990-2011 from Web of Science were downloaded and analyzed. The overview analysis by data aggregation and country ranking shows that Taiwan has significantly improved its publication productivity and citation impact over the last decade. The drill-down analysis based on journal bibliographic coupling, information visualization, and diversity and trend indexes, reveals that e-Learning and Science Education are two fast growing subfields that attract global interests and that Taiwan is among the top-ranked countries in these two fields in terms of research productivity. Implications of the analysis are discussed with an emphasis on the subfield characteristics from which more insightful interpretations can be obtained, such as the regional or cultural characteristics that may affect the performance ranking.	
+
+Paper Keywords: Journal clustering; Subfield identification; Research evaluation; Performance ranking; Educational research
